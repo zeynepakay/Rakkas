@@ -3,15 +3,19 @@
 // Headings, body text, lists, and other misc typographic elements.
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-weight: bold;
-  line-height: 1.25;
-  color: #313131;
+  
   text-rendering: optimizeLegibility;
 }
 
 h1 {
-  font-size: 2rem;
+  font-family: $font_0;
+	font-size: 5.01em;
+	line-height: 1.13em;
+	text-align: center;
+	text-transform: none;
+	font-weight: 200;
+	font-style: Normal;
+	letter-spacing: 2px;
 }
 
 h2 {
