@@ -4,7 +4,7 @@
  <title>Poole</title>
  <link href="http://theruqahproject.com//atom.xml" rel="self"/>
  <link href="http://theruqahproject.com//"/>
- <updated>2015-07-12T17:23:20+03:00</updated>
+ <updated>2015-07-12T18:35:16+03:00</updated>
  <id>http://theruqahproject.com/</id>
  <author>
    <name>Zeynep Akay</name>
@@ -13,42 +13,17 @@
 
  
  <entry>
-   <title>Layman <br/>to Layman</title>
+   <title>Layman to Layman</title>
    <link href="http://theruqahproject.com//whats-jekyll"/>
    <updated>2015-07-10T00:00:00+03:00</updated>
    <id>http://theruqahproject.com//whats-jekyll</id>
-   <content type="html">&lt;p class=&quot;intro&quot;&gt;
-THERE IS NOTHING WRONG WITH BEING A LAYMAN, IN FACT, IT&#39;S THE MOST INFLUENTIAL PROFESSIONAL EXPERIENCE YOU CAN HAVE, NO MATTER YOUR LEVEL OF EXPERTISE IN A GIVEN FIELD.
-&lt;/p&gt;
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
-&lt;p&gt;After suspending my studies at University of Reading, I inadvertently took a hiatus from type design. I closed myself off from experiencing and engaging with all forms of visual culture. I felt inadequate to interact with my once-peers on subjects which, before, would have been within my purview. I thought my current environment was bridling my creativity, which was, at times a valid excuse to not pursuing what I had once wanted.&lt;/p&gt;
+&lt;!-- more --&gt;
 
-&lt;p&gt;About 8 months ago, I relocated to London from Istanbul. The move was symbolic and had a lot of emotional meaning attached to it. It meant I would be back in where I thought I belonged&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;THESE NEW DEVICES ARE RADICALLY TRANSFORMING WHAT IS POSSIBLE IN DIGITAL VISUAL DESIGN AND THIS HAS RADICAL IMPLICATIONS FOR DIGITAL TYPOGRAPHY.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The death of the pixel leaves you with a flowing, magazine-quality canvas to design for. A canvas where curves are curves, not ugly pixel approximations of curves. A canvas that begins to blur the line between what we consider to be real and what we consider to be virtual.&lt;/p&gt;
-
-&lt;p&gt;After suspending my studies at University of Reading, I inadvertently took a hiatus from type design. I closed myself off from experiencing and engaging with all forms of visual culture.&lt;/p&gt;
-
-&lt;p&gt;Web sites are transforming from boring fields of Arial to embrace the gamut of typographical possibilities offered by web fonts. Web fonts, combined with the style and layout options presented by the creative use of CSS and JavaScript offer a new world of typographic opportunity on the web.&lt;/p&gt;
-
-&lt;h3 id=&quot;emotional-typography&quot;&gt;Emotional Typography&lt;/h3&gt;
-
-&lt;p&gt;Web fonts allow for a wider palette of typefaces which can provide far more quirkiness and personality.&lt;/p&gt;
-
-&lt;p&gt;The challenge is to help people understand this. The classics such as Arial, Helvetica, Verdana or Tahoma are engrained as fonts you will always expect to see; readers aren’t used to seeing type choices beyond these usual suspects.&lt;/p&gt;
-
-&lt;p&gt;The majority of screen graphics are done with JPGs that don’t scale from the regular screens to retina screens. Now if you have these new type choices as web fonts, you have a scalable version of this which you can use, providing endless possibilities.&lt;/p&gt;
-
-&lt;h3 id=&quot;technical-advantages&quot;&gt;Technical Advantages&lt;/h3&gt;
-
-&lt;p&gt;Think of this as adapting your tone of voice to the type of person or situation you are in. If you were being given a medical diagnosis the tone would not be fun or light-hearted. In contrast talking colloquially to a close friend could be the opposite of this.&lt;/p&gt;
-
-&lt;p&gt;Web fonts allow you to have this kind of razor-sharp efficiency and elegance in design whilst at the same time avoiding the need for adding additional page graphics, which in turn add load time, decrease workflow performance and risk breaking across screen dimensions and device situations.&lt;/p&gt;
-
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </content>
  </entry>
  
@@ -57,9 +32,9 @@ THERE IS NOTHING WRONG WITH BEING A LAYMAN, IN FACT, IT&#39;S THE MOST INFLUENTI
    <link href="http://theruqahproject.com//inroductin-poople"/>
    <updated>2014-01-02T00:00:00+02:00</updated>
    <id>http://theruqahproject.com//introducing-poole</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
-
-&lt;hr /&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.
+&lt;!-- more --&gt;
+—–&lt;/p&gt;
 
 &lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.&lt;/p&gt;
 
@@ -108,11 +83,9 @@ THERE IS NOTHING WRONG WITH BEING A LAYMAN, IN FACT, IT&#39;S THE MOST INFLUENTI
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+&lt;!-- more --&gt;
+&amp;gt; Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
 
 &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
 

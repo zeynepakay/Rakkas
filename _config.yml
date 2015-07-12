@@ -8,8 +8,10 @@ relative_permalinks: true
 title:               Poole
 tagline:             Layman to Layman
 url:                 http://theruqahproject.com/
-paginate:            1
+paginate:            2
+paginate_path:       "/blog/page:num/"
 baseurl:             ""
+excerpt_separator: <!-- more -->
 
 # Assets
 #
@@ -27,4 +29,18 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/zeynepakay/theruqahproject
+  repo:	             https://github.com/zeynepakay/theruqahproject
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: "Zeynep Akay"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      excerpt_separator: "<!-- more -->"
