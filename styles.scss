@@ -17,6 +17,20 @@
 // Designed, built, and released under MIT license by @mdo. Learn more at
 // https://github.com/poole/poole.
 
+//colors
+$color_blush_pink_approx: rgba(255, 127, 250, 1); 
+$color_mine_shaft_80_approx: rgba(51, 51, 51, 0.80);
+$color_mine_shaft_approx: #333;
+$white: #fff;
+$color_celeste_approx: #ccc;
+
+//fonts
+$font_0: krete;
+$font_1: tablet-gothic-compressed;
+$font_2: HelveticaNeueETW01-55Rg;
+$font_3: alegreya;
+$font_4: tablet-gothic;
+
 @import "base";
 @import "type";
 @import "syntax";
