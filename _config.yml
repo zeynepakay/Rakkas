@@ -5,11 +5,13 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               The Ruqah Project
-tagline:             
-url:                 theruqahproject.com
-paginate:            1
+title:               Poole
+tagline:             Layman to Layman
+url:                 http://theruqahproject.com/
+paginate:            2
+paginate_path:       "/blog/page:num/"
 baseurl:             ""
+excerpt_separator: <!-- more -->
 
 # Assets
 #
@@ -21,5 +23,24 @@ sass:
 # About/contact
 author:
   name:              Zeynep Akay
-  url:               https://twitter.com/zeynepakay
+  url:               http://theruqahproject.com/
+  email:             zeynep@
 
+# Custom vars
+version:             2.0.0
+github:
+  repo:	             https://github.com/zeynepakay/theruqahproject
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: "Zeynep Akay"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      excerpt_separator: "<!-- more -->"

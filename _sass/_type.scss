@@ -2,17 +2,16 @@
 //
 // Headings, body text, lists, and other misc typographic elements.
 
-
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+}
 
 h1 {
-  font-family: $font_0;
-	font-size: 5.01em;
-	line-height: 1.13em;
-	text-align: center;
-	text-transform: none;
-	font-weight: 200;
-	font-style: Normal;
-	letter-spacing: 2px;
+  font-size: 2rem;
 }
 
 h2 {
@@ -31,8 +30,61 @@ h4, h5, h6 {
 }
 
 p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  font-size: 1.1em;
+  line-height: 1.421em;
+  color: $color_mine_shaft_80_approx;
+  margin: 0 0 1.421em 0;
+  font-family: $font_3;
+  font-weight: 400;
+  font-style: Normal;
+  border: 0;
+  &.intro {
+    font-family: $font_1;
+    font-size: 1.27em;
+    border-top: 1px;
+    border-bottom: 1px;
+    padding: 1.154em;
+    text-align: center;
+    border-style: solid;
+    line-height: 1.5em;
+    margin: 1.038em 0;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-color: $color_blush_pink_approx;
+  }
+  &.pullquote {
+    border-style: solid;
+    color: $color_blush_pink_approx;
+    font-size: 1em;
+    line-height: 1.421em;
+    margin: 0 0 1.421em 0;
+    clear: none;
+    float: left;
+    width: 780px;
+    font-family: $font_1;
+    font-weight: 300;
+    font-style: normal;
+    text-indent: 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-width: 1px;
+    padding: 10px 10px 10px 15px;
+    border-color: $color_blush_pink_approx;
+  }
+  &.caption {
+    margin: 10px 0 40px;
+    font-size: 14px;
+    font-family: $font_4;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 21px;
+    border-width: 1px 0 0 0;
+    border-style: solid;
+    padding: 10px 0 0;
+    border-color: $color_blush_pink_approx;
+  }
 }
 
 strong {
@@ -73,19 +125,30 @@ abbr {
 }
 
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  padding: 0;
+  margin: 0;
 
   p:last-child {
-    margin-bottom: 0;
+    border-style: solid;
+    color: $color_blush_pink_approx;
+    font-size: 1em;
+    line-height: 1.421em;
+    margin: 0 0 1.421em 0;
+    clear: none;
+    float: left;
+    width: 780px;
+    font-family: $font_1;
+    font-weight: 300;
+    font-style: normal;
+    text-indent: 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-width: 1px;
+    padding: 10px 10px 10px 15px;
+    border-color: $color_blush_pink_approx;
   }
 
-  @media (min-width: 30em) {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
-  }
+  
 }
 
 

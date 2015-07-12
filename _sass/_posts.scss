@@ -15,7 +15,27 @@
   color: #303030;
 }
 .page-title,
-.post-title {
+.post-title{
+  font-family: $font_0;
+  font-size: 5.01em;
+  line-height: 1.13em;
+  text-align: center;
+  text-transform: none;
+  font-weight: 200;
+  font-style: Normal;
+  letter-spacing: 2px;
+  margin-top: 0;
+}
+
+.post-listing-title{
+  font-family: $font_0;
+  font-size: 3.01em;
+  line-height: 1.13em;
+  text-align: center;
+  text-transform: none;
+  font-weight: 200;
+  font-style: Normal;
+  letter-spacing: 2px;
   margin-top: 0;
 }
 
@@ -35,13 +55,35 @@
   border-top: 1px solid #eee;
 }
 
+h3 {
+    font-size: 1.73em;
+    font-family: $font_0;
+    line-height: 0.931em;
+    margin: 0 0 0.931em 0;
+    font-weight: 200;
+    font-style: Normal;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    color: $color_blush_pink_approx;
+  }
+
+  .post-author {
+    text-align: center;
+    font-size: 19px;
+    letter-spacing: 0px;
+    font-family: alegreya;
+    font-weight: 400;
+    font-style: Normal;
+    text-transform: capitalize;
+    line-height: 33px;
+    margin: 40px 0px 27px 0px;
+  }
+
 .related-posts {
   padding-left: 0;
   list-style: none;
 
-  h3 {
-    margin-top: 0;
-  }
+  
 
   li {
     small {
