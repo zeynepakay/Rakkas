@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beh-ar.medi" format="1">
+  <advance width="413"/>
+  <unicode hex="FE92"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+    <component base="dotbelow-ar" xOffset="-70" yOffset="-10"/>
+    <contour>
+      <point x="343" y="141" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="33" y="67" type="move" name="exit"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>80.659</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>-116</integer>
+          <key>y</key>
+          <integer>111</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>entry</string>
+              <key>x</key>
+              <integer>408</integer>
+              <key>y</key>
+              <integer>85</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>exit</string>
+              <key>x</key>
+              <integer>133</integer>
+              <key>y</key>
+              <integer>66</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>dotlessbeh-ar.medi</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>dotbelow-ar</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>-30</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>beh-ar.medi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>413</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
