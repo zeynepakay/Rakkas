@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             Layman to Layman
+title:               The Ruq'ah Project
+tagline:             Placeholder Blog Post
 url:                 http://theruqahproject.com/
 paginate:            2
 paginate_path:       "/blog/page:num/"
@@ -24,7 +24,7 @@ sass:
 author:
   name:              Zeynep Akay
   url:               http://theruqahproject.com/
-  email:             zeynep@
+  email:             zeynep@theruqahproject.com
 
 # Custom vars
 version:             2.0.0
