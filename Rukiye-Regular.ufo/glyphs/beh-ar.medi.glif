@@ -6,10 +6,10 @@
     <component base="dotlessbeh-ar.medi"/>
     <component base="dotbelow-ar" xOffset="-70" yOffset="-10"/>
     <contour>
-      <point x="343" y="141" type="move" name="entry"/>
+      <point x="355" y="93" type="move" name="entry"/>
     </contour>
     <contour>
-      <point x="33" y="67" type="move" name="exit"/>
+      <point x="71" y="100" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>

@@ -4,6 +4,9 @@
   <unicode hex="FE9B"/>
   <outline>
     <component base="dotlessbeh-ar.init"/>
-    <component base="threedotsupabove-ar" yOffset="-110"/>
+    <component base="threedotsupabove-ar" xOffset="-29" yOffset="-110"/>
+    <contour>
+      <point x="45" y="68" type="move" name="exit"/>
+    </contour>
   </outline>
 </glyph>

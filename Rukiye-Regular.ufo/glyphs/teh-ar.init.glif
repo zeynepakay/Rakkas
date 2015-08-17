@@ -4,9 +4,9 @@
   <unicode hex="FE97"/>
   <outline>
     <component base="dotlessbeh-ar.init"/>
-    <component base="twodotshorizontalabove-ar" xOffset="30" yOffset="590"/>
+    <component base="twodotshorizontalabove-ar" xOffset="-121" yOffset="-104"/>
     <contour>
-      <point x="274" y="71" type="move" name="exit"/>
+      <point x="45" y="68" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>

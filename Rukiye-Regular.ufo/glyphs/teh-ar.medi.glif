@@ -4,12 +4,12 @@
   <unicode hex="FE98"/>
   <outline>
     <component base="dotlessbeh-ar.medi"/>
-    <component base="twodotshorizontalabove-ar" xOffset="-75" yOffset="-124"/>
+    <component base="twodotshorizontalabove-ar" xOffset="-35" yOffset="-124"/>
     <contour>
-      <point x="343" y="154" type="move" name="entry"/>
+      <point x="355" y="93" type="move" name="entry"/>
     </contour>
     <contour>
-      <point x="29" y="87" type="move" name="exit"/>
+      <point x="71" y="100" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>

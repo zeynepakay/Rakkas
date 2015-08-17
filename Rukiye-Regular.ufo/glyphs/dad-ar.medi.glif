@@ -4,7 +4,7 @@
   <unicode hex="FEC0"/>
   <outline>
     <component base="sad-ar.medi"/>
-    <component base="dotabove-ar" xOffset="150"/>
+    <component base="dotabove-ar" xOffset="164" yOffset="210"/>
     <contour>
       <point x="668" y="85" type="move" name="entry"/>
     </contour>

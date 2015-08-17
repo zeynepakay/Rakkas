@@ -6,7 +6,7 @@
     <component base="dotlessbeh-ar.init"/>
     <component base="dotbelow-ar" xOffset="-169" yOffset="-20"/>
     <contour>
-      <point x="34" y="67" type="move" name="exit"/>
+      <point x="45" y="68" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>

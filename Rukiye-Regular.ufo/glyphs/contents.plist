@@ -64,6 +64,14 @@
 	<string>alef-ar.glif</string>
 	<key>alef-ar.fina</key>
 	<string>alef-ar.fina.glif</string>
+	<key>alefHamzaabove-ar</key>
+	<string>alefH_amzaabove-ar.glif</string>
+	<key>alefHamzaabove-ar.fina</key>
+	<string>alefH_amzaabove-ar.fina.glif</string>
+	<key>alefHamzabelow-ar</key>
+	<string>alefH_amzabelow-ar.glif</string>
+	<key>alefHamzabelow-ar.fina</key>
+	<string>alefH_amzabelow-ar.fina.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
 	<key>beh-ar</key>
@@ -86,12 +94,18 @@
 	<string>dad-ar.init.glif</string>
 	<key>dad-ar.medi</key>
 	<string>dad-ar.medi.glif</string>
+	<key>dal-ar</key>
+	<string>dal-ar.glif</string>
+	<key>dal-ar.fina</key>
+	<string>dal-ar.fina.glif</string>
 	<key>dotabove-ar</key>
 	<string>dotabove-ar.glif</string>
 	<key>dotbelow-ar</key>
 	<string>dotbelow-ar.glif</string>
 	<key>dotlessbeh-ar</key>
 	<string>dotlessbeh-ar.glif</string>
+	<key>dotlessbeh-ar.alt</key>
+	<string>dotlessbeh-ar.alt.glif</string>
 	<key>dotlessbeh-ar.fina</key>
 	<string>dotlessbeh-ar.fina.glif</string>
 	<key>dotlessbeh-ar.init</key>
@@ -112,18 +126,44 @@
 	<string>hah-ar.fina.glif</string>
 	<key>hah-ar.init</key>
 	<string>hah-ar.init.glif</string>
+	<key>hah-ar.medi</key>
+	<string>hah-ar.medi.glif</string>
+	<key>hamza-ar</key>
+	<string>hamza-ar.glif</string>
 	<key>heh-ar</key>
 	<string>heh-ar.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
+	<key>jeem-ar</key>
+	<string>jeem-ar.glif</string>
+	<key>jeem-ar.fina</key>
+	<string>jeem-ar.fina.glif</string>
+	<key>jeem-ar.init</key>
+	<string>jeem-ar.init.glif</string>
+	<key>jeem-ar.medi</key>
+	<string>jeem-ar.medi.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
+	<key>khah-ar</key>
+	<string>khah-ar.glif</string>
+	<key>khah-ar.fina</key>
+	<string>khah-ar.fina.glif</string>
+	<key>khah-ar.init</key>
+	<string>khah-ar.init.glif</string>
+	<key>khah-ar.medi</key>
+	<string>khah-ar.medi.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>lam-ar</key>
 	<string>lam-ar.glif</string>
+	<key>lam-ar.fina</key>
+	<string>lam-ar.fina.glif</string>
+	<key>lam-ar.init</key>
+	<string>lam-ar.init.glif</string>
+	<key>lam-ar.medi</key>
+	<string>lam-ar.medi.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>n</key>
@@ -144,6 +184,10 @@
 	<string>q.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
+	<key>reh-ar</key>
+	<string>reh-ar.glif</string>
+	<key>reh-ar.fina</key>
+	<string>reh-ar.fina.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>sad-ar</key>
@@ -174,6 +218,10 @@
 	<string>teh-ar.init.glif</string>
 	<key>teh-ar.medi</key>
 	<string>teh-ar.medi.glif</string>
+	<key>thal-ar</key>
+	<string>thal-ar.glif</string>
+	<key>thal-ar.fina</key>
+	<string>thal-ar.fina.glif</string>
 	<key>theh-ar</key>
 	<string>theh-ar.glif</string>
 	<key>theh-ar.fina</key>
@@ -208,6 +256,10 @@
 	<string>yeh-ar.glif</string>
 	<key>yeh-ar.fina</key>
 	<string>yeh-ar.fina.glif</string>
+	<key>yeh-ar.init</key>
+	<string>yeh-ar.init.glif</string>
+	<key>yeh-ar.medi</key>
+	<string>yeh-ar.medi.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
 	<key>zah-ar</key>
@@ -218,5 +270,9 @@
 	<string>zah-ar.init.glif</string>
 	<key>zah-ar.medi</key>
 	<string>zah-ar.medi.glif</string>
+	<key>zain-ar</key>
+	<string>zain-ar.glif</string>
+	<key>zain-ar.fina</key>
+	<string>zain-ar.fina.glif</string>
 </dict>
 </plist>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="beh-ar" format="1">
-  <advance width="826"/>
+  <advance width="750"/>
   <unicode hex="0628"/>
   <outline>
     <component base="dotlessbeh-ar"/>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>826</integer>
+          <integer>750</integer>
         </dict>
       </dict>
     </dict>

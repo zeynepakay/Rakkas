@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zah-ar.init" format="1">
-  <advance width="512"/>
+  <advance width="485"/>
   <unicode hex="FEC7"/>
   <outline>
     <component base="tah-ar.init"/>
-    <component base="dotabove-ar" xOffset="123"/>
+    <component base="dotabove-ar" xOffset="94" yOffset="203"/>
     <contour>
       <point x="39" y="67" type="move" name="exit"/>
     </contour>
@@ -67,7 +67,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>512</integer>
+          <integer>485</integer>
         </dict>
       </dict>
     </dict>

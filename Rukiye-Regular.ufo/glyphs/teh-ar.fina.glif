@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="teh-ar.fina" format="1">
-  <advance width="826"/>
+  <advance width="799"/>
   <unicode hex="FE96"/>
   <outline>
     <component base="dotlessbeh-ar.fina"/>
-    <component base="twodotshorizontalabove-ar" xOffset="172" yOffset="-132"/>
+    <component base="twodotshorizontalabove-ar" xOffset="152" yOffset="-72"/>
     <contour>
-      <point x="858" y="87" type="move" name="entry"/>
+      <point x="750" y="88" type="move" name="entry"/>
     </contour>
   </outline>
   <lib>
@@ -67,7 +67,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>826</integer>
+          <integer>799</integer>
         </dict>
       </dict>
     </dict>

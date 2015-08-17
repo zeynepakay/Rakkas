@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dad-ar.fina" format="1">
-  <advance width="735"/>
+  <advance width="879"/>
   <unicode hex="FEBE"/>
   <outline>
     <component base="sad-ar.fina"/>
-    <component base="dotabove-ar" xOffset="149"/>
+    <component base="dotabove-ar" xOffset="457" yOffset="208"/>
     <contour>
       <point x="667" y="84" type="move" name="entry"/>
     </contour>
@@ -67,7 +67,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>735</integer>
+          <integer>879</integer>
         </dict>
       </dict>
     </dict>

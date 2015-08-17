@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="teh-ar" format="1">
-  <advance width="826"/>
+  <advance width="750"/>
   <unicode hex="062A"/>
   <outline>
-    <component base="twodotshorizontalabove-ar" xOffset="121" yOffset="-62"/>
+    <component base="twodotshorizontalabove-ar" xOffset="91" yOffset="-72"/>
     <component base="dotlessbeh-ar"/>
   </outline>
   <lib>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>826</integer>
+          <integer>750</integer>
         </dict>
       </dict>
     </dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dad-ar" format="1">
-  <advance width="757"/>
+  <advance width="861"/>
   <unicode hex="0636"/>
   <outline>
     <component base="sad-ar"/>
-    <component base="dotabove-ar" xOffset="164" yOffset="-20"/>
+    <component base="dotabove-ar" xOffset="472" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>757</integer>
+          <integer>861</integer>
         </dict>
       </dict>
     </dict>

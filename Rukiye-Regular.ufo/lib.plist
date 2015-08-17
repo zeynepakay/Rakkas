@@ -65,9 +65,15 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>hamza-ar</string>
 		<string>alef-ar</string>
 		<string>alef-ar.fina</string>
+		<string>alefHamzaabove-ar</string>
+		<string>alefHamzaabove-ar.fina</string>
+		<string>alefHamzabelow-ar</string>
+		<string>alefHamzabelow-ar.fina</string>
 		<string>dotlessbeh-ar</string>
+		<string>dotlessbeh-ar.alt</string>
 		<string>dotlessbeh-ar.fina</string>
 		<string>dotlessbeh-ar.medi</string>
 		<string>dotlessbeh-ar.init</string>
@@ -83,9 +89,26 @@
 		<string>theh-ar.fina</string>
 		<string>theh-ar.medi</string>
 		<string>theh-ar.init</string>
+		<string>jeem-ar</string>
+		<string>jeem-ar.fina</string>
+		<string>jeem-ar.medi</string>
+		<string>jeem-ar.init</string>
 		<string>hah-ar</string>
 		<string>hah-ar.fina</string>
+		<string>hah-ar.medi</string>
 		<string>hah-ar.init</string>
+		<string>khah-ar</string>
+		<string>khah-ar.fina</string>
+		<string>khah-ar.medi</string>
+		<string>khah-ar.init</string>
+		<string>dal-ar</string>
+		<string>dal-ar.fina</string>
+		<string>thal-ar</string>
+		<string>thal-ar.fina</string>
+		<string>reh-ar</string>
+		<string>reh-ar.fina</string>
+		<string>zain-ar</string>
+		<string>zain-ar.fina</string>
 		<string>sad-ar</string>
 		<string>sad-ar.fina</string>
 		<string>sad-ar.medi</string>
@@ -103,6 +126,9 @@
 		<string>zah-ar.medi</string>
 		<string>zah-ar.init</string>
 		<string>lam-ar</string>
+		<string>lam-ar.fina</string>
+		<string>lam-ar.medi</string>
+		<string>lam-ar.init</string>
 		<string>noon-ar</string>
 		<string>noon-ar.fina</string>
 		<string>noon-ar.medi</string>
@@ -112,6 +138,8 @@
 		<string>waw-ar.fina</string>
 		<string>yeh-ar</string>
 		<string>yeh-ar.fina</string>
+		<string>yeh-ar.medi</string>
+		<string>yeh-ar.init</string>
 		<string>space</string>
 		<string>dotabove-ar</string>
 		<string>dotbelow-ar</string>

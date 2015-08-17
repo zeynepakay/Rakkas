@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yeh-ar.fina" format="1">
-  <advance width="600"/>
+  <advance width="725"/>
   <unicode hex="FEF2"/>
   <outline>
+    <contour>
+      <point x="614" y="166"/>
+      <point x="485" y="196"/>
+      <point x="402" y="194" type="curve"/>
+      <point x="404" y="180" type="line"/>
+      <point x="478" y="196"/>
+      <point x="568" y="208"/>
+      <point x="658" y="216" type="curve"/>
+      <point x="715" y="368" type="line"/>
+      <point x="609" y="358"/>
+      <point x="502" y="334"/>
+      <point x="418" y="297" type="curve"/>
+      <point x="377" y="231"/>
+      <point x="344" y="147"/>
+      <point x="321" y="69" type="curve"/>
+      <point x="403" y="62"/>
+      <point x="529" y="44"/>
+      <point x="573" y="33" type="curve"/>
+      <point x="572" y="44" type="line"/>
+      <point x="512" y="-31"/>
+      <point x="392" y="-53"/>
+      <point x="308" y="-53" type="curve" smooth="yes"/>
+      <point x="214" y="-53"/>
+      <point x="152" y="-21"/>
+      <point x="116" y="31" type="curve"/>
+      <point x="162" y="100"/>
+      <point x="227" y="164"/>
+      <point x="306" y="220" type="curve"/>
+      <point x="285" y="314" type="line"/>
+      <point x="160" y="213"/>
+      <point x="76" y="80"/>
+      <point x="25" y="-51" type="curve"/>
+      <point x="35" y="-157"/>
+      <point x="132" y="-211"/>
+      <point x="252" y="-211" type="curve" smooth="yes"/>
+      <point x="346" y="-211"/>
+      <point x="482" y="-172"/>
+      <point x="556" y="-89" type="curve" smooth="yes"/>
+      <point x="589" y="-52"/>
+      <point x="615" y="21"/>
+      <point x="634" y="148" type="curve"/>
+    </contour>
+    <component base="twodotshorizontalbelow-ar" xOffset="16" yOffset="-210"/>
+    <contour>
+      <point x="677" y="292" type="move" name="entry"/>
+    </contour>
   </outline>
 </glyph>
