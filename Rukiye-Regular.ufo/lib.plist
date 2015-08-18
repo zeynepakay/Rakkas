@@ -125,6 +125,8 @@
 		<string>zah-ar.fina</string>
 		<string>zah-ar.medi</string>
 		<string>zah-ar.init</string>
+		<string>kaf-ar</string>
+		<string>kaf-ar.init</string>
 		<string>lam-ar</string>
 		<string>lam-ar.fina</string>
 		<string>lam-ar.medi</string>
@@ -134,6 +136,8 @@
 		<string>noon-ar.medi</string>
 		<string>noon-ar.init</string>
 		<string>heh-ar</string>
+		<string>heh-ar.fina</string>
+		<string>heh-ar.init</string>
 		<string>waw-ar</string>
 		<string>waw-ar.fina</string>
 		<string>yeh-ar</string>

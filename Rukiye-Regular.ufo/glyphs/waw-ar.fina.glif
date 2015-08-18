@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="543" y="233" type="line"/>
-      <point x="484" y="82" type="line"/>
-      <point x="373" y="70" type="line"/>
+      <point x="484" y="81" type="line"/>
+      <point x="373" y="69" type="line"/>
       <point x="429" y="221" type="line"/>
     </contour>
     <component base="waw-ar"/>

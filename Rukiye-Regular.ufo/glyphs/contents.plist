@@ -132,6 +132,10 @@
 	<string>hamza-ar.glif</string>
 	<key>heh-ar</key>
 	<string>heh-ar.glif</string>
+	<key>heh-ar.fina</key>
+	<string>heh-ar.fina.glif</string>
+	<key>heh-ar.init</key>
+	<string>heh-ar.init.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>j</key>
@@ -146,6 +150,10 @@
 	<string>jeem-ar.medi.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
+	<key>kaf-ar</key>
+	<string>kaf-ar.glif</string>
+	<key>kaf-ar.init</key>
+	<string>kaf-ar.init.glif</string>
 	<key>khah-ar</key>
 	<string>khah-ar.glif</string>
 	<key>khah-ar.fina</key>
