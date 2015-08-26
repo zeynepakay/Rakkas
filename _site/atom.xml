@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Poole</title>
+ <title>The Ruqah Project</title>
  <link href="http://theruqahproject.com//atom.xml" rel="self"/>
  <link href="http://theruqahproject.com//"/>
- <updated>2015-07-12T18:35:16+03:00</updated>
+ <updated>2015-07-26T19:13:24+03:00</updated>
  <id>http://theruqahproject.com/</id>
  <author>
    <name>Zeynep Akay</name>

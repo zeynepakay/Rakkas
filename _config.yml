@@ -5,10 +5,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
+title:               The Ruqah Project
 tagline:             Layman to Layman
 url:                 http://theruqahproject.com/
-paginate:            2
+paginate:            5
 paginate_path:       "/blog/page:num/"
 baseurl:             ""
 excerpt_separator: <!-- more -->
