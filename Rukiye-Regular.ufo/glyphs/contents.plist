@@ -58,6 +58,8 @@
 	<string>_part.shortstem.glif</string>
 	<key>_part.shoulder</key>
 	<string>_part.shoulder.glif</string>
+	<key>_part.tallstem</key>
+	<string>_part.tallstem.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>alef-ar</key>

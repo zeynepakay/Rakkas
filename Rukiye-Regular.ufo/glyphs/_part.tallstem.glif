@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l" format="1">
+<glyph name="_part.tallstem" format="1">
   <advance width="600"/>
-  <unicode hex="006C"/>
   <outline>
-    <component base="_part.tallstem"/>
+    <contour>
+      <point x="226" y="790" type="line"/>
+      <point x="22" y="724" type="line"/>
+      <point x="32" y="692" type="line"/>
+      <point x="74" y="701" type="line"/>
+      <point x="74" y="35" type="line"/>
+      <point x="34" y="32" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="266" y="32" type="line"/>
+      <point x="226" y="35" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>background</key>
+        <key>XHeight</key>
         <dict>
           <key>anchors</key>
           <array>
@@ -30,17 +40,7 @@
                   <key>x</key>
                   <integer>226</integer>
                   <key>y</key>
-                  <integer>790</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>12</integer>
-                  <key>y</key>
-                  <integer>709</integer>
+                  <integer>515</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -50,7 +50,17 @@
                   <key>x</key>
                   <integer>22</integer>
                   <key>y</key>
-                  <integer>677</integer>
+                  <integer>449</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>32</integer>
+                  <key>y</key>
+                  <integer>417</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -60,7 +70,7 @@
                   <key>x</key>
                   <integer>74</integer>
                   <key>y</key>
-                  <integer>687</integer>
+                  <integer>426</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -70,7 +80,7 @@
                   <key>x</key>
                   <integer>74</integer>
                   <key>y</key>
-                  <integer>38</integer>
+                  <integer>35</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -78,7 +88,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>20</integer>
+                  <integer>34</integer>
                   <key>y</key>
                   <integer>32</integer>
                 </dict>
@@ -88,7 +98,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>20</integer>
+                  <integer>34</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -98,7 +108,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>280</integer>
+                  <integer>266</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -108,7 +118,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>280</integer>
+                  <integer>266</integer>
                   <key>y</key>
                   <integer>32</integer>
                 </dict>
@@ -120,7 +130,7 @@
                   <key>x</key>
                   <integer>226</integer>
                   <key>y</key>
-                  <integer>38</integer>
+                  <integer>35</integer>
                 </dict>
               </array>
             </dict>
@@ -129,7 +139,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>l</string>
+          <string>_part.tallstem</string>
           <key>unicodes</key>
           <array>
           </array>

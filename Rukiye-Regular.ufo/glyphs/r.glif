@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="606"/>
+  <advance width="498"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="488" y="332" type="line"/>
-      <point x="479" y="455"/>
-      <point x="438" y="513"/>
+      <point x="483" y="332" type="line"/>
+      <point x="484" y="445"/>
+      <point x="435" y="513"/>
       <point x="328" y="513" type="curve"/>
       <point x="227" y="337" type="line"/>
       <point x="234" y="307" type="line"/>
-      <point x="249" y="319"/>
-      <point x="271" y="336"/>
-      <point x="293" y="336" type="curve" smooth="yes"/>
-      <point x="316" y="336"/>
-      <point x="330" y="316"/>
-      <point x="335" y="276" type="curve"/>
+      <point x="253" y="321"/>
+      <point x="282" y="341"/>
+      <point x="308" y="341" type="curve" smooth="yes"/>
+      <point x="328" y="341"/>
+      <point x="346" y="319"/>
+      <point x="350" y="285" type="curve"/>
     </contour>
     <component base="_part.shortstem" xOffset="-4"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <integer>-10</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -375,7 +377,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>606</integer>
+          <integer>498</integer>
         </dict>
       </dict>
     </dict>
