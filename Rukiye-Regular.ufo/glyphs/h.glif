@@ -3,21 +3,8 @@
   <advance width="571"/>
   <unicode hex="0068"/>
   <outline>
-    <contour>
-      <point x="226" y="286" type="line"/>
-      <point x="226" y="307" type="line"/>
-      <point x="226" y="790" type="line"/>
-      <point x="12" y="709" type="line"/>
-      <point x="22" y="677" type="line"/>
-      <point x="74" y="687" type="line"/>
-      <point x="74" y="38" type="line"/>
-      <point x="20" y="32" type="line"/>
-      <point x="20" y="0" type="line"/>
-      <point x="280" y="0" type="line"/>
-      <point x="280" y="32" type="line"/>
-      <point x="226" y="38" type="line"/>
-    </contour>
-    <component base="_part.shoulder" xOffset="-16"/>
+    <component base="_part.shoulder" xOffset="-15"/>
+    <component base="_part.tallstem"/>
   </outline>
   <lib>
     <dict>

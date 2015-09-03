@@ -7,5 +7,10 @@
 		<key>alef-ar</key>
 		<integer>0</integer>
 	</dict>
+	<key>o</key>
+	<dict>
+		<key>n</key>
+		<integer>0</integer>
+	</dict>
 </dict>
 </plist>
