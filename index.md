@@ -14,10 +14,13 @@ title: Home
 </div>
 
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  {% endif %}
+{% for post in site.posts offset:1 limit:1 %}
+{{post.title}}
+{% endfor%}
+</div>
+
+<div class="pagination">
+{% for post in site.posts offset:1 limit:1 %}
+	<a class="pagination-item older" href="{{ post.url | prepend: site.baseurl }}">Older</a>
+{% endfor%}
 </div>
