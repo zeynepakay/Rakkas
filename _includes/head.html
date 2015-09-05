@@ -9,7 +9,7 @@
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {{ site.title }} &middot; {{ page.title }} 
     {% endif %}
   </title>
 
@@ -22,4 +22,7 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+  
+  <script src="//use.typekit.net/ceh4xmk.js"></script>
+  <script>try{Typekit.load({async: true});}catch(e){}</script>
 </head>

@@ -6,9 +6,9 @@ relative_permalinks: true
 
 # Setup
 title:               The Ruq'ah Project
-tagline:             Placeholder Blog Post
+tagline:             Layman to Layman
 url:                 http://theruqahproject.com/
-paginate:            2
+paginate:            4
 paginate_path:       "/blog/page:num/"
 baseurl:             ""
 excerpt_separator: <!-- more -->
@@ -24,7 +24,7 @@ sass:
 author:
   name:              Zeynep Akay
   url:               http://theruqahproject.com/
-  email:             zeynep@theruqahproject.com
+  email:             zeynep@
 
 # Custom vars
 version:             2.0.0
