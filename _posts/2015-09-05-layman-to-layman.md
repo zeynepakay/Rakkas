@@ -15,7 +15,7 @@ After suspending my studies at University of Reading, I inadvertently took a hia
 About 8 months ago, I relocated to London from Istanbul. The move was symbolic and had a lot of emotional meaning attached to it. It meant I would be back in where I thought I belonged
 
 >THESE NEW DEVICES ARE RADICALLY TRANSFORMING WHAT IS POSSIBLE IN DIGITAL VISUAL DESIGN AND THIS HAS RADICAL IMPLICATIONS FOR DIGITAL TYPOGRAPHY. 
-
+ 
 The death of the pixel leaves you with a flowing, magazine-quality canvas to design for. A canvas where curves are curves, not ugly pixel approximations of curves. A canvas that begins to blur the line between what we consider to be real and what we consider to be virtual.
 
 ![Image of a](/public/ANAYADAY8.jpg)
