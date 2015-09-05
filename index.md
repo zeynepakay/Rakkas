@@ -15,12 +15,6 @@ title: Home
 
 <div class="pagination">
 {% for post in site.posts offset:1 limit:1 %}
-{{post.title}}
-{% endfor%}
-</div>
-
-<div class="pagination">
-{% for post in site.posts offset:1 limit:1 %}
 	<a class="pagination-item older" href="{{ post.url | prepend: site.baseurl }}">Older</a>
 {% endfor%}
 </div>
