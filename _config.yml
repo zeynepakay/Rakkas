@@ -9,7 +9,7 @@ title:               The Ruq'ah Project
 tagline:             Layman to Layman
 url:                 http://theruqahproject.com/
 paginate:            4
-paginate_path:       "/blog/page:num/"
+paginate_path:       "/archive/page:num/"
 baseurl:             ""
 excerpt_separator: <!-- more -->
 
@@ -24,7 +24,7 @@ sass:
 author:
   name:              Zeynep Akay
   url:               http://theruqahproject.com/
-  email:             zeynep@
+  email:             zeynep@theruqahproject.com
 
 # Custom vars
 version:             2.0.0
