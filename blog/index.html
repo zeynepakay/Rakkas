@@ -17,7 +17,7 @@ title: Blog
 
    <!--  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date"></time> -->
 
-    {{ post.excerpt }}
+    {{ post.excerpt | split:'<!--more-->' | first }}
   </article>
   {% endfor %}
 </div>

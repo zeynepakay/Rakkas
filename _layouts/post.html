@@ -4,12 +4,13 @@ layout: default
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-author">By {{page.author}}</h2>&nbsp;&nbsp;|&nbsp;&nbsp;{{ page.date | date_to_string }}
+  <div class="post-author">By {{page.author}}</h2>&nbsp;&nbsp;|&nbsp;&nbsp;{{ page.date | date_to_string }}</div>
 
   <!-- <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date"></time> -->
   
   {{ content }}
 </article>
+
 <div class="pagination">
   {% if page.previous.url %} 
     <a class="pagination-item older"  href="{{page.previous.url}}">Older</a> 
