@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Somethign other than that
-permalink: whats-jekyll
+permalink: whats-jekyll-2
 ---
 
 Somethign other than that.
