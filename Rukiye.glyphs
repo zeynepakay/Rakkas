@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/jeem-ar.init/hah-ar/teh-ar"
+hn
 );
 date = "2015-05-12 14:01:48 +0000";
 familyName = "Rukiye";
@@ -1632,7 +1632,7 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2015-09-02 10:58:24 +0000";
+lastChange = "2015-09-15 14:52:34 +0000";
 layers = (
 {
 background = {
@@ -1722,7 +1722,7 @@ nodes = (
 components = (
 {
 name = _part.shoulder;
-transform = "{1, 0, 0, 1, -15, 0}";
+transform = "{1, 0, 0, 1, -42, 0}";
 },
 {
 name = _part.tallstem;
