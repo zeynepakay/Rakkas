@@ -12,7 +12,9 @@ The beginning of the project lies somewhere in the intersection of my long-time 
 
 <!--more-->
 
-The next step was to familiarize myself with not just how to calligraphically draw letters but also how the writing tradition works as a flowing system. For this I consulted, “Writing Arabic: A Practical Introduction to Ruq'ah Script” by T.F. Mitchell, another suggestion by Gunnar and a seminal 1979 book that still seems to hold court as the go-to resource on the subject. With help from Mitchell, and after many hours scouring the internet for samples like [these](http://stores.ebay.co.uk/Braich-Posters/Egyptian-Movie-Memorabilia-/_i.html?_fsub=1712112018&_sid=164608038&_trksid=p4634.c0.m322), I started to sketch what my Ruq’ah would look like.
+![](public/MoviePosterLettering.png)
+
+The next step was to familiarize myself with not just how to calligraphically draw letters but also how the writing tradition works as a flowing system. For this I consulted *[Writing Arabic: A Practical Introduction to Ruq'ah Script](http://www.amazon.co.uk/Writing-Arabic-Practical-Introduction-Script/dp/0198151500/ref=sr_1_1?s=books&ie=UTF8&qid=1442336616&sr=1-1)* by T.F. Mitchell, another suggestion by Gunnar and a seminal 1979 book that still seems to hold court as the go-to resource on the subject. With help from Mitchell, and after many hours scouring the internet for samples like [these](http://stores.ebay.co.uk/Braich-Posters/Egyptian-Movie-Memorabilia-/_i.html?_fsub=1712112018&_sid=164608038&_trksid=p4634.c0.m322), I started to sketch what my Ruq’ah would look like.
 
 ![]() 
 
@@ -22,7 +24,7 @@ I went through a few cycles of sketching and digitizing, each time with a new mu
 
 On a more personal note, once the proposal was accepted it became clear that the project would entail tackling some personal challenges as well. For one, the initial set up of this blog, working on Jekyll via git, was difficult. I’m probably one of the very few young(ish) designers clinging for dear life to the WYSIWYG workflows of yesteryear — wanting a more direct connection with the visual design work without getting too much into the nitty gritty. But I recognize the moment in time I am in and that’s why for example, I’ve been flirting with Python programming. It’s also why I’ve decided to embrace a git-hosted blog, instead of a PHP-based custom CMS. I braved through the initial set-up, and now have a grasp on the basic usage of Jekyll, however, the customization of the page was too complicated for me. So I asked a friend to consolidate the Jekyll / Poole framework with the CSS I prepared for the blog.
 
-Another personal challenge, and probably the most important one I will overcome — if the project is successful — is the *public* development aspect of the project. I battle with crippling perfectionism; I want to keep everything very close-to-chest until I’ve achieved the unattainable ideal in my head. But with this project I will undertake what is also essentially immersion therapy. I will open my process, my most unrefined drawings, my kookiest ideas, my most embarrassing failures to the snarkiest , most passive-aggressive comments on the internet. I imagine it will be a terrifying relief.
+Another personal challenge, and probably the most important one I will overcome — if the project is successful — is the *public* development aspect of the project. I battle with crippling perfectionism; I want to keep everything very close-to-chest until I’ve achieved the unattainable ideal in my head. But with this project I will undertake what is also essentially immersion therapy. I will open my process, my most unrefined drawings, my kookiest ideas, my most embarrassing failures to the snarkiest, most passive-aggressive comments on the internet. I imagine it will be a terrifying relief.
  
 ###Onwards
 
