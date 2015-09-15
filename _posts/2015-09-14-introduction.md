@@ -12,8 +12,6 @@ The beginning of the project lies somewhere in the intersection of my long-time 
 
 <!--more-->
 
-![](https://github.com/zeynepakay/theruqahproject/blob/gh-pages/public/MoviePosterLettering.jpg)
-
 <p class="caption">
 Examples of 1950s-'60s-'70s Egyptian movie poster lettering. Images via ebay.
 </p>
