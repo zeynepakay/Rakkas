@@ -12,7 +12,7 @@ The beginning of the project lies somewhere in the intersection of my long-time 
 
 <!--more-->
 
-![](public/MoviePosterLettering.png)
+![MoviePosterLettering](https://github.com/zeynepakay/theruqahproject/blob/gh-pages/public/MoviePosterLettering.png)
 
 The next step was to familiarize myself with not just how to calligraphically draw letters but also how the writing tradition works as a flowing system. For this I consulted *[Writing Arabic: A Practical Introduction to Ruq'ah Script](http://www.amazon.co.uk/Writing-Arabic-Practical-Introduction-Script/dp/0198151500/ref=sr_1_1?s=books&ie=UTF8&qid=1442336616&sr=1-1)* by T.F. Mitchell, another suggestion by Gunnar and a seminal 1979 book that still seems to hold court as the go-to resource on the subject. With help from Mitchell, and after many hours scouring the internet for samples like [these](http://stores.ebay.co.uk/Braich-Posters/Egyptian-Movie-Memorabilia-/_i.html?_fsub=1712112018&_sid=164608038&_trksid=p4634.c0.m322), I started to sketch what my Ruq’ah would look like.
 
