@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup 
 title:               The Ruq'ah Project
-tagline:             "Post title"
+tagline:             
 url:                 http://theruqahproject.com/
 paginate:            4
 paginate_path:       "/archive/page:num/"
