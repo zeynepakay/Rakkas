@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-a
+"/jeem-ar.init/hah-ar/teh-ar"
 );
 date = "2015-05-12 14:01:48 +0000";
 familyName = "Rukiye";
@@ -4309,13 +4309,13 @@ unicode = 062A;
 },
 {
 glyphname = "teh-ar.fina";
-lastChange = "2015-08-17 18:33:32 +0000";
+lastChange = "2015-09-15 11:38:12 +0000";
 layers = (
 {
 anchors = (
 {
 name = entry;
-position = "{750, 88}";
+position = "{728, 94}";
 }
 );
 background = {
@@ -6601,17 +6601,17 @@ unicode = FEBE;
 },
 {
 glyphname = "dad-ar.medi";
-lastChange = "2015-08-17 13:54:18 +0000";
+lastChange = "2015-09-15 11:34:24 +0000";
 layers = (
 {
 anchors = (
 {
 name = entry;
-position = "{668, 85}";
+position = "{427, -3}";
 },
 {
 name = exit;
-position = "{47, 57}";
+position = "{-37, 192}";
 }
 );
 background = {
@@ -7467,13 +7467,13 @@ unicode = FEC4;
 },
 {
 glyphname = "tah-ar.init";
-lastChange = "2015-08-17 16:43:19 +0000";
+lastChange = "2015-09-15 11:20:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = exit;
-position = "{39, 167}";
+position = "{49, 173}";
 }
 );
 background = {
@@ -7635,13 +7635,13 @@ unicode = 0638;
 },
 {
 glyphname = "zah-ar.fina";
-lastChange = "2015-08-17 18:32:25 +0000";
+lastChange = "2015-09-15 11:35:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = entry;
-position = "{479, 44}";
+position = "{437, -5}";
 }
 );
 background = {
@@ -7679,7 +7679,7 @@ unicode = FEC6;
 },
 {
 glyphname = "zah-ar.medi";
-lastChange = "2015-07-30 21:46:05 +0000";
+lastChange = "2015-09-15 11:34:58 +0000";
 layers = (
 {
 anchors = (
@@ -7689,7 +7689,7 @@ position = "{419, -5}";
 },
 {
 name = exit;
-position = "{61, 167}";
+position = "{114, 181}";
 }
 );
 background = {
@@ -7731,13 +7731,13 @@ unicode = FEC8;
 },
 {
 glyphname = "zah-ar.init";
-lastChange = "2015-08-17 16:43:30 +0000";
+lastChange = "2015-09-15 11:19:39 +0000";
 layers = (
 {
 anchors = (
 {
 name = exit;
-position = "{39, 67}";
+position = "{49, 173}";
 }
 );
 background = {
@@ -7889,13 +7889,13 @@ unicode = 0643;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2015-08-29 12:47:24 +0000";
+lastChange = "2015-09-15 11:36:37 +0000";
 layers = (
 {
 anchors = (
 {
 name = exit;
-position = "{45, 45}";
+position = "{45, 48}";
 }
 );
 background = {
@@ -9863,13 +9863,13 @@ unicode = 064A;
 },
 {
 glyphname = "yeh-ar.fina";
-lastChange = "2015-08-17 16:19:31 +0000";
+lastChange = "2015-09-15 11:21:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = entry;
-position = "{677, 292}";
+position = "{677, 282}";
 }
 );
 components = (
