@@ -20,6 +20,10 @@ The next step was to familiarize myself with not just how to calligraphically dr
 
 ![Jeems](/public/Jeems.jpg) 
 
+<p class="caption">
+On the left, a fortunate calligraphic outcome; on the right a sketch of a future Jeem.
+</p>
+
 I went through a few cycles of sketching and digitizing, each time with a new mutant style, consisting of varying percentages of influence from each attribute and quirk I enjoyed in the very many lettering samples I looked at. At the end of one of the cycles, I sent Dave Crossland a short word composition of a roughly digitized sketch, along with a proposal of my intentions for the project. The proposal outlined not only the design and technical side of development, but also my aim to research and write about some of the existing Ruq’ah typefaces, hoping to get a firm grasp on the style’s challenges and build my version on as strong and as unobjectionable a foundation as possible.
 
 > WITH THIS PROJECT I WILL UNDERTAKE WHAT IS ALSO ESSENTIALLY IMMERSION THERAPY. I WILL OPEN MY PROCESS, MY MOST UNREFINED DRAWINGS, MY KOOKIEST IDEAS, MY MOST EMBARRASSING FAILURES TO THE SNARKIEST, MOST PASSIVE-AGGRESSIVE COMMENTS ON THE INTERNET. I IMAGINE IT WILL BE A TERRIFYING RELIEF.
