@@ -40,8 +40,7 @@ Now that the Project and I are here, this is how I foresee this going down: The 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-var disqus_shortname = 'theruqahproject'; // required: replace example with your forum shortname
-
+var disqus_shortname = 'theruqahproject'; // required: Zeynep Akay
 /* * * DON'T EDIT BELOW THIS LINE * * */
 (function() {
 var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
