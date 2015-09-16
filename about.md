@@ -4,27 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+THIS IS THE RUQ’AH PROJECT. THIS SITE WILL CHRONICLE THE RESEARCH BEHIND AND THE DESIGN AND DEVELOPMENT OF A SINGLE-WEIGHT, DISPLAY-ORIENTED, RUQ’AH-INSPIRED TYPEFACE WITH ARABIC AND LATIN COMPONENTS. WHEN COMPLETE, THE TYPEFACE WILL BE ADDED TO THE GOOGLE WEBFONTS LIBRARY.
 </p>
 
-In the novel,,, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+The written content of The Ruq’ah Project will be categorized as either research articles or design and development updates, all of which will be open to comments and discussion. The language will hopefully be accessible not just to professional type-designers but also to beginners, students and enthusiasts. After the project births its practical output, it will hopefully remain a self-contained, relevant resource for style-specific Arabic type design and development.
