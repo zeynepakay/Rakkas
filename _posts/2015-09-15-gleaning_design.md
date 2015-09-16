@@ -5,7 +5,7 @@ permalink: gleaning-design
 ---
 
 <p class="intro">
-The visual direction of  TRP is a new one to construct for me: I haven’t worked on a type design project that derives its aesthetic from a specific source before. </p>
+The visual direction of The Ruqah Project is a new one to construct for me: I haven’t worked on a type design project that directly derives its aesthetic from a specific source before. </p>
 
 My MATD project was nothing but an exercise in learning how to draw letters. As soon as I reached something that looked like a typographic ‘d’, for example, after a lot of copying and pasting and rotating, I was more or less done with that letter. The rest of the typeface design projects I’ve worked on as a freelancer had had their creative directions pre-determined, and I was mostly involved in expanding the character set and developing them into working fonts.
 
@@ -13,7 +13,7 @@ My MATD project was nothing but an exercise in learning how to draw letters. As 
 
 ###Piece by piece
 
-When I started to conceptualize TRP, it was the first time I had visualized the look and feel of a typeface, however abstract, before going into designing it. What initially inspired me and overtime crystallized my vision was the presence of a lush variety of source materials. At first I spent a lot of time objectively scrolling through a slideshow of images. I only looked, observed and started again from the beginning. Then I started to spot certain things I liked; graphic attributes that thematically blended in began to stand out in detail. 
+When I started to conceptualize TRP, it was the first time I had visualized the look and feel of a typeface, however abstract, before going into drawing it. What initially inspired me and overtime crystallized my vision was the presence of a lush variety of source materials, namely, movie posters from Egypt of a few decades ago. At first I spent a lot of time objectively scrolling through a slideshow of images. I only observed and started again from the beginning. Then I started to spot certain things I liked; graphic attributes that thematically blended in began to stand out in detail. 
 
 ![Posters](/public/Posters.jpg) 
 
@@ -37,4 +37,5 @@ At the same time, I started to think about what Latin letterforms could look lik
 An exploration of quirks and attributes on Latin.
 </p>
 
-After a lot of sketching during which I tried to harmonize 
+###Square 1
+After a lot of sketching during which I tried to harmonize stroke structures but let each script keep its own personality, I landed on a design that I think, for Arabic arabic and Latin both, is quirky enough for display, yet understated enough for text. 
