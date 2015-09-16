@@ -31,4 +31,9 @@ An example of stylistic deviation as told through a waw. Poster image via Ebay.
 
 At the same time, I started to think about what Latin letterforms could look like if they shared the same or similar typographic attributes. This is a particularly involved topic to ponder; it touches on typographic matchmaking and the ever-sensitive subject of harmonizing different scripts to bring them under a single stylistic umbrella. I of course wanted to go about this in the most respectful and unobjectionable way possible, which is why I started to design Arabic letterforms before I did Latin ones. I wanted to make sure I wasn’t forcing any ‘Latin’ onto the Arabic; I felt alright about going the other way around. 
 
+![As](/public/As.jpg) 
+
+<p class="caption">
+An exploration of quirks and attributes on Latin.
+</p>
 
