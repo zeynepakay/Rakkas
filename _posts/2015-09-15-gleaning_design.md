@@ -37,3 +37,4 @@ At the same time, I started to think about what Latin letterforms could look lik
 An exploration of quirks and attributes on Latin.
 </p>
 
+After a lot of sketching during which I tried to harmonize 
