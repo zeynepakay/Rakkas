@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Contact
 ---
 
 <p class="intro">
   Zeynep Akay<br/>
-  mail adresim<br/>
-  telefonum<br/>
+  zeynep@theruqahproject.com<br/>
+  @zeynepakay<br/>
 </p>
