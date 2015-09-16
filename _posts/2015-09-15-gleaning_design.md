@@ -11,7 +11,7 @@ My MATD project was nothing but an exercise in learning how to draw letters. As 
 
 <!--more-->
 
-#Piece by piece
+###Piece by piece
 
 When I started to conceptualize TRP, it was the first time I had visualized the look and feel of a typeface, however abstract, before going into designing it. What initially inspired me and overtime crystallized my vision was the presence of a lush variety of source materials. At first I spent a lot of time objectively scrolling through a slideshow of images. I only looked, observed and started again from the beginning. Then I started to spot certain things I liked; graphic attributes that thematically blended in began to stand out in detail. 
 
