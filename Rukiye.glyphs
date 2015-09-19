@@ -3903,7 +3903,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2015-09-17 16:48:22 +0000";
+lastChange = "2015-09-18 14:38:49 +0000";
 layers = (
 {
 background = {
@@ -3957,7 +3957,7 @@ nodes = (
 };
 backgroundImage = {
 crop = "{{0, 0}, {1080, 720}}";
-imagePath = "../../Library/Containers/com.apple.PhotoBooth/Data/Pictures/Photo Booth Library/Pictures/Photo on 17-09-2015 at 17.27.jpg";
+imagePath = "../../Pictures/Photo Booth Library/Pictures/Photo on 17-09-2015 at 17.27.jpg";
 locked = "1";
 transform = "{-2.010, -0, 0, 2.010, 1061, -553}";
 };
@@ -3988,10 +3988,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"111 -158 LINE",
-"81 -137 LINE",
-"62 -163 LINE",
-"192 -253 LINE",
+"85 -220 LINE",
+"43 -221 LINE",
+"41 -250 LINE",
+"206 -250 LINE",
 "293 49 LINE",
 "261 41 LINE"
 );
@@ -5096,13 +5096,13 @@ unicode = 0628;
 },
 {
 glyphname = "beh-ar.fina";
-lastChange = "2015-08-17 16:46:57 +0000";
+lastChange = "2015-09-18 20:43:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = entry;
-position = "{728, 94}";
+position = "{728, 91}";
 }
 );
 background = {
@@ -6445,7 +6445,7 @@ unicode = FEB0;
 },
 {
 glyphname = "seen-ar";
-lastChange = "2015-09-17 17:34:44 +0000";
+lastChange = "2015-09-18 20:47:06 +0000";
 layers = (
 {
 background = {
@@ -6601,13 +6601,13 @@ nodes = (
 "463 132 OFFCURVE",
 "536 132 CURVE SMOOTH",
 "622 132 OFFCURVE",
-"723 165 OFFCURVE",
-"846 222 CURVE",
-"860 202 LINE",
-"804 38 LINE",
-"775 42 LINE",
-"785 92 LINE",
-"676 12 OFFCURVE",
+"723 153 OFFCURVE",
+"846 210 CURVE",
+"860 190 LINE",
+"804 26 LINE",
+"775 30 LINE",
+"785 80 LINE",
+"676 0 OFFCURVE",
 "586 -30 OFFCURVE",
 "507 -30 CURVE SMOOTH"
 );
@@ -6649,11 +6649,45 @@ unicode = FEB4;
 },
 {
 glyphname = "seen-ar.init";
-lastChange = "2015-09-17 17:21:39 +0000";
+lastChange = "2015-09-18 20:46:36 +0000";
 layers = (
 {
+anchors = (
+{
+name = exit;
+position = "{58, 89}";
+}
+);
+guideLines = (
+{
+angle = 69.6476;
+position = "{-85, 116}";
+},
+{
+angle = 6;
+position = "{73, 170}";
+}
+);
 layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"73 170 LINE",
+"183 181 OFFCURVE",
+"327 204 OFFCURVE",
+"449 233 CURVE",
+"463 213 LINE",
+"407 49 LINE",
+"378 53 LINE",
+"388 103 LINE",
+"294 68 OFFCURVE",
+"122 29 OFFCURVE",
+"12 18 CURVE"
+);
+}
+);
 width = 600;
 }
 );
