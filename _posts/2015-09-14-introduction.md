@@ -2,6 +2,7 @@
 layout: post
 title: Introduction
 permalink: introduction
+comments: true
 ---
 
 <p class="intro">

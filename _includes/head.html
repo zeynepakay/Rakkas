@@ -7,7 +7,8 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {% assign post = site.posts.first %}
+      {{ site.title }} &middot; {{ post.title }}
     {% else %}
       {{ site.title }} &middot; {{ page.title }} 
     {% endif %}
