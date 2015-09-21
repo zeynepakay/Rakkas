@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-/_part.secondarybowl,
-"a/qaf-ar.001"
+"/waw-ar.fina"
 );
 date = "2015-05-12 14:01:48 +0000";
 familyName = "Rukiye";
@@ -11389,7 +11388,7 @@ unicode = 0648;
 },
 {
 glyphname = "waw-ar.fina";
-lastChange = "2015-08-18 21:13:50 +0000";
+lastChange = "2015-09-21 16:19:01 +0000";
 layers = (
 {
 anchors = (
@@ -11445,9 +11444,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"543 233 LINE",
-"484 81 LINE",
 "373 69 LINE",
+"484 81 LINE",
+"543 233 LINE",
 "429 221 LINE"
 );
 }
