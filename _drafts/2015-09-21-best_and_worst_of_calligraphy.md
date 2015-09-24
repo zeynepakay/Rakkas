@@ -13,12 +13,13 @@ Before I did anything, as a wee Ruq'ah fan, I just tried to learn writing in Ara
 
 <!--more-->
 
+
 As I became somewhat familiar with the calligraphic movements and could make my way around at least an isolated beh, I wanted to see some of these shapes larger, with thicker, more robust strokes. At first I tried to tackle these with Latin-oriented calligraphy markers. The result was less than ideal, and it only highlighted my tenuous grasp on proportions.
 
-Later I tried a bamboo pen that was cut and more suited for Indic calligraphy.
+Later I tried a bamboo pen that I believe was cut and more suited for Indic calligraphy. The results were… okay. I couldn't maintain a steady disribution of ink and had to dip back a few times to complete the stroke.
 
-I finally landed on a [Automatic Pen](http://www.automaticpens.co.uk) (and black calligraphy ink) as the best and most convenient tool to explore Ruq'ah's forms in a large format. Unlike the reed pen, which by its relatively small nature tends to blur contrast and corners, the Automatic Pen is very useful in magnifying small details. 
+I finally landed on a [Automatic Pen](http://www.automaticpens.co.uk) (and black calligraphy ink) as the best and most convenient tool to explore Ruq'ah's forms in a large format. Unlike the reed pen, which by its relatively small nature tends to blur contrast and corners (at least it did in my case), the Automatic Pen is very useful in magnifying small details. This was helpful in understanding proportions, and it also helped me decide later on what attributes I could apply to the strictly calligraphic strokes in order to make the letterforms more typographic.
 
-The pen also glides more smoothly with ink; this helps concentrate on the shape one is trying to make as opposed to being distracted by the breaks in continuity of stroke and the mismatch of textures -- not that I don't love the screech of a reed nib against the paper, but in unqualified hands it can be more destructive than productive.
+The Automatic pen also glides more smoothly with ink; this helps concentrate on the shape one is trying to make as opposed to being distracted by the breaks in continuity of stroke and the mismatch of textures — not that I don't love the screech of a reed nib against the paper, but in unqualified hands it can be more destructive than productive.
 
-Armed with my steel pen and large sheets of paper this time, I started to recreate certain strings I saw in the lettering samples I was looking at. Here is where I began to conceptualize what I wanted my Ruq'ah to look like -- not purely calligraphic and formal and not too quirky and crazy.    
+Armed with my steel pen and large sheets of paper this time, I started to recreate certain strings I saw in the lettering samples I was perusing. This was a good introduction into not only how different stroke structures contribute to different lettering styles, but also how letter combinations connect to or stack on eachother in said styles.
