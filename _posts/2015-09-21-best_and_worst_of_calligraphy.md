@@ -12,7 +12,7 @@ One of the first steps in acclimating to a new script and understanding its lett
 
 Before I did anything, as a wee Ruq'ah fan, I just tried to learn writing in Arabic with Ruq'ah in a formal way. With a reed pen and lined pages in my Moleskine, I practiced the strokes and letters I found in T.F. Mitchell's [book](http://www.amazon.co.uk/Writing-Arabic-Practical-Introduction-Script/dp/0198151500/ref=sr_1_1?s=books&ie=UTF8&qid=1442336616&sr=1-1). 
 
-![Caligraphy_pages](/public/Caligraphy_pages.jpg)
+![Calligraphy](/public/Calligraphy.jpg)
 
 <p class="caption">
 The tools and the results.
