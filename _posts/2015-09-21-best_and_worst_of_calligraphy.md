@@ -32,7 +32,7 @@ Later I tried a bamboo pen that I believe was cut and more suited for Indic call
 
 I finally landed on a [Automatic Pen](http://www.automaticpens.co.uk) (and black calligraphy ink) as the best and most convenient tool to explore Ruq'ah's forms in a large format. Unlike the reed pen, which by its relatively small nature tends to blur contrast and corners (at least it did in my case), the Automatic Pen is very useful in magnifying small details. This was helpful in understanding proportions, and it also helped me decide later on what attributes I could apply to the strictly calligraphic strokes in order to make the letterforms more typographic.
 
-The Automatic pen also glides more smoothly with ink; this helps concentrate on the shape one is trying to make as opposed to being distracted by the breaks in continuity of stroke and the mismatch of textures — not that I don't love the screech of a reed nib against the paper, but in unqualified hands it can be more destructive than productive.
+The Automatic Pen also glides more smoothly with ink; this helps concentrate on the shape one is trying to make as opposed to being distracted by the breaks in continuity of stroke and the mismatch of textures — not that I don't love the screech of a reed nib against the paper, but in unqualified hands it can be more destructive than productive.
 
 ![Calligraphy_strings](/public/Calligraphy_strings.jpg)
 
