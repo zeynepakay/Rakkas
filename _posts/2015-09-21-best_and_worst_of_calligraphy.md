@@ -37,7 +37,7 @@ The Automatic pen also glides more smoothly with ink; this helps concentrate on 
 ![Calligraphy_strings](/public/Calligraphy_strings.jpg)
 
 <p class="caption">
-On top, the calligraphic results; on the bottom the lettering references.
+On top, the calligraphic results; on the bottom the lettering references. Bottom images via Ebay.
 </p>
 
 Armed with my steel pen and large sheets of paper this time, I started to recreate certain strings I saw in the lettering samples I was perusing. This was a good introduction into not only how different stroke structures contribute to different lettering styles, but also how letter combinations connect to or stack on each other in said styles.
