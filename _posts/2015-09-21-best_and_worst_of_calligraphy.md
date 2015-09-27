@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best & Worst of: Calligraphy
-permalink: introduction
+permalink: calligraphy
 comments: true
 ---
 
@@ -15,7 +15,7 @@ Before I did anything, as a wee Ruq'ah fan, I just tried to learn writing in Ara
 ![Caligraphy_pages](/public/Caligraphy_pages.jpg)
 
 <p class="caption">
-The tools and results.
+The tools and the results.
 </p>
 
 I learned very quickly that the proportions of the isolated forms of ayn and jeem, for example, would not reveal themselves easily. In fact, these letters would become some of the most challenging as I later began draw larger characters. 
