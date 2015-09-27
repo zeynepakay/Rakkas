@@ -2,7 +2,7 @@
 layout: post
 title: Best & Worst of: Calligraphy
 permalink: calligraphy
-
+comments: true
 ---
 
 <p class="intro">
