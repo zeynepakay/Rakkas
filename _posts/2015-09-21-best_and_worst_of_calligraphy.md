@@ -34,7 +34,7 @@ I finally landed on a [Automatic Pen](http://www.automaticpens.co.uk) (and black
 
 The Automatic pen also glides more smoothly with ink; this helps concentrate on the shape one is trying to make as opposed to being distracted by the breaks in continuity of stroke and the mismatch of textures — not that I don't love the screech of a reed nib against the paper, but in unqualified hands it can be more destructive than productive.
 
-![Callligraphy_strings](/public/Callligraphy_strings.jpg)
+![Calligraphy_strings](/public/Calligraphy_strings.jpg)
 
 <p class="caption">
 On top, the calligraphic results; on the bottom the lettering references.
