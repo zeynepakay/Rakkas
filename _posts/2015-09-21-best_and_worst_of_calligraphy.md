@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best & Worst of: Calligraphy
+title: Best and worst of: Calligraphy
 permalink: calligraphy
 comments: true
 ---
