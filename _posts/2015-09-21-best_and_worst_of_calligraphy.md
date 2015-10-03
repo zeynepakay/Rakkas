@@ -13,18 +13,12 @@ One of the first steps in acclimating to a new script and understanding its lett
 Before I did anything, as a wee Ruq'ah fan, I just tried to learn writing in Arabic with Ruq'ah in a formal way. With a reed pen and lined pages in my Moleskine, I practiced the strokes and letters I found in T.F. Mitchell's [book](http://www.amazon.co.uk/Writing-Arabic-Practical-Introduction-Script/dp/0198151500/ref=sr_1_1?s=books&ie=UTF8&qid=1442336616&sr=1-1). 
 
 ![Calligraphy](/public/Calligraphy.jpg)
-
-<p class="caption">
-The tools and the results.
-</p>
+*The tools and the results.*
 
 I learned very quickly that the proportions of the isolated forms of ayn and jeem, for example, would not reveal themselves easily. In fact, these letters would become some of the most challenging as I later began draw larger characters. 
 
 ![Ayns](/public/Ayns.jpg)
-
-<p class="caption">
-From left to right (and best to worst): Automatic Pen on paper, reed pen on [sketchbook] paper, calligraphy marker on paper.
-</p>
+*From left to right (and best to worst): Automatic Pen on paper, reed pen on [sketchbook] paper, calligraphy marker on paper.*
 
 As I became more familiar with the calligraphic movements and could make my way around at least an isolated beh, I wanted to see some of these shapes larger, with thicker, more robust strokes. At first I tried to tackle these with Latin-oriented calligraphy markers. The result was less than ideal, and it only highlighted my tenuous grasp on proportions.
 
@@ -35,10 +29,7 @@ I finally landed on a [Automatic Pen](http://www.automaticpens.co.uk) (and black
 The Automatic Pen also glides more smoothly with ink; this helps concentrate on the shape one is trying to make as opposed to being distracted by the breaks in continuity of stroke and the mismatch of textures — not that I don't love the screech of a reed nib against the paper, but in unqualified hands it can be more destructive than productive.
 
 ![Calligraphy_strings](/public/Calligraphy_strings.jpg)
-
-<p class="caption">
-On top, the calligraphic results; on the bottom the lettering references. Bottom images via Ebay.
-</p>
+*On top, the calligraphic results; on the bottom the lettering references. Bottom images via Ebay.*
 
 Armed with my steel pen and large sheets of paper this time, I started to recreate certain strings I saw in the lettering samples I was perusing. This was a good introduction into not only how different stroke structures contribute to different lettering styles, but also how letter combinations connect to or stack on each other in said styles.
 

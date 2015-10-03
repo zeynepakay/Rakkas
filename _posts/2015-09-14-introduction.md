@@ -12,19 +12,13 @@ THIS IS THE RUQ’AH PROJECT. THIS SITE WILL CHRONICLE THE RESEARCH BEHIND AND T
 The beginning of the project lies somewhere in the intersection of my long-time love for the calligraphic style, it being a ubiquitous factor in my MA dissertation research, and the realization that it’s not as frequently visited in typeface design as perhaps other Arabic writing styles — with its potential for robust display type  gone largely unexplored.  From this intersection I turned right and asked my friend [Gunnar Vilhjamsson](http://gunnarvilhjalmsson.net), a Ruq’ah entusiast if there ever was one, for possible places to look for quirkier, more expressive incarnations of the style. He directed me to vintage Egyptian movie posters, and there I found an oasis of inspiration. The microchosm of inventiveness and variety I found in samples of 1950s and 1960s Ruq’ah lettering was incredible.
 
 <!--more-->
-![MoviePosterLettering](/public/MoviePosterLettering.jpg) 
-
-<p class="caption">
-Examples of 1950s-'60s-'70s Egyptian movie poster lettering. Images via Ebay.
-</p>
+![MoviePosterLettering](/public/MoviePosterLettering.jpg)
+*Examples of 1950s-'60s-'70s Egyptian movie poster lettering. Images via Ebay.*
 
 The next step was to familiarize myself with not just how to calligraphically draw letters but also how the writing tradition works as a flowing system. For this I consulted *[Writing Arabic: A Practical Introduction to Ruq'ah Script](http://www.amazon.co.uk/Writing-Arabic-Practical-Introduction-Script/dp/0198151500/ref=sr_1_1?s=books&ie=UTF8&qid=1442336616&sr=1-1)* by T.F. Mitchell, another suggestion by Gunnar and a seminal 1979 book that still seems to hold court as the go-to resource on the subject. With help from Mitchell, and after many hours scouring the internet for samples like [these](http://stores.ebay.co.uk/Braich-Posters/Egyptian-Movie-Memorabilia-/_i.html?_fsub=1712112018&_sid=164608038&_trksid=p4634.c0.m322), I started to sketch what my Ruq’ah would look like.
 
 ![Jeems](/public/Jeems.jpg) 
-
-<p class="caption">
-On the left, a fortunate calligraphic outcome; on the right, a sketch of a future Jeem.
-</p>
+*On the left, a fortunate calligraphic outcome; on the right, a sketch of a future Jeem.*
 
 I went through a few cycles of sketching and digitizing, each time with a new mutant style, consisting of varying percentages of influence from each attribute and quirk I enjoyed in the very many lettering samples I looked at. At the end of one of the cycles, I sent Dave Crossland a short word composition of a roughly digitized sketch, along with a proposal of my intentions for the project. The proposal outlined not only the design and technical side of development, but also my aim to research and write about some of the existing Ruq’ah typefaces, hoping to get a firm grasp on the style’s challenges and build my version on as strong and as unobjectionable a foundation as possible.
 

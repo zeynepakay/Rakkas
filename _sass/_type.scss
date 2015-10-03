@@ -85,6 +85,19 @@ p {
     padding: 10px 0 0;
     border-color: $color_blush_pink_approx;
   }
+  img + em {
+    display: block;
+    margin: 10px 0 40px;
+    font-size: 14px;
+    font-family: $font_4;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 21px;
+    border-width: 1px 0 0 0;
+    border-style: solid;
+    padding: 10px 0 0;
+    border-color: $color_blush_pink_approx;
+  }
 }
 
 strong {

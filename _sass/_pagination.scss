@@ -21,7 +21,6 @@
   font-style: normal;
   text-transform: uppercase;
    letter-spacing: 2px;
-   width: 70px;
 }
 
 .pagination-item.older{
@@ -35,6 +34,7 @@
    border: 1px solid rgb(255, 127, 250);
    text-transform: uppercase;
    letter-spacing: 2px;
+   width: 70px;
 }
 
 .pagination-item.newer{
@@ -48,4 +48,5 @@
    color: rgba(255, 127, 250, 1);
    border: 1px solid rgb(255, 127, 250);
    text-align: center;
+   width: 100px;
 }
