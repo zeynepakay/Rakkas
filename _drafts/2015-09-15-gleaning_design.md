@@ -29,7 +29,7 @@ I highlighted these images and started to try calligraphically emulating their f
 An example of stylistic deviation as told through a waw. Poster image via Ebay.
 </p>
 
-At the same time, I started to think about what Latin letterforms could look like if they shared the same or similar typographic attributes. This is a particularly involved topic to ponder; it touches on typographic matchmaking and the ever-sensitive subject of harmonizing different scripts to bring them under a single stylistic umbrella. I of course wanted to go about this in the most respectful and unobjectionable way possible, which is why I started to design Arabic letterforms before I did Latin ones. I wanted to make sure I wasn’t forcing any ‘Latin’ onto the Arabic; I felt alright about going the other way around. 
+At the same time, I started to think about what Latin letterforms could look like if they shared the same or similar typographic attributes. This is a particularly involved topic to ponder; it touches on typographic matchmaking and the ever-sensitive subject of harmonizing different scripts to bring them under a single stylistic umbrella. I of course wanted to go about this in the most respectful and unobjectionable way possible, which is why I started to design Arabic letterforms before I did Latin ones, for instance. I wanted to make sure I wasn’t forcing any ‘Latin’ onto the Arabic; I felt alright about going the other way around. I will address this in a more involved later post, but it's worth mentioning because this consideration was present at the onset of the project.
 
 ![As](/public/As.jpg) 
 
@@ -38,4 +38,5 @@ An exploration of quirks and attributes on Latin.
 </p>
 
 ###Square 1
-After a lot of sketching during which I tried to harmonize stroke structures but let each script keep its own personality, I landed on a design that I think, for Arabic arabic and Latin both, is quirky enough for display, yet understated enough for text. 
+After a lot of sketching during which I tried to harmonize stroke structures but let each script keep its own personality, I landed on a design that I think, for Arabic arabic and Latin both, is quirky enough for display, yet understated enough for text. And more importantly, it has different interpretations of the same flavor for each script.
+
