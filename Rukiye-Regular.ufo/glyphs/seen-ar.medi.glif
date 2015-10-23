@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seen-ar.medi" format="1">
+  <advance width="600"/>
+  <unicode hex="FEB4"/>
+  <outline>
+    <contour>
+      <point x="549" y="205" type="line"/>
+      <point x="493" y="53" type="line"/>
+      <point x="106" y="13" type="line"/>
+      <point x="162" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="509" y="120" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="145" y="83" type="move" name="exit"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>6</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>177</integer>
+          <key>y</key>
+          <integer>20</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

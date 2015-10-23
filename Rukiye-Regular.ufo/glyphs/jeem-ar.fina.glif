@@ -4,9 +4,9 @@
   <unicode hex="FE9E"/>
   <outline>
     <component base="hah-ar.fina"/>
-    <component base="dotabove-ar" xOffset="30" yOffset="-379"/>
+    <component base="dotabove-ar" xOffset="30" yOffset="-451"/>
     <contour>
-      <point x="427" y="425" type="move" name="entry"/>
+      <point x="418" y="399" type="move" name="entry"/>
     </contour>
   </outline>
 </glyph>

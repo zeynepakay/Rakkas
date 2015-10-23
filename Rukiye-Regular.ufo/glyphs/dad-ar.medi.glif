@@ -6,10 +6,10 @@
     <component base="sad-ar.medi"/>
     <component base="dotabove-ar" xOffset="164" yOffset="210"/>
     <contour>
-      <point x="668" y="85" type="move" name="entry"/>
+      <point x="427" y="-3" type="move" name="entry"/>
     </contour>
     <contour>
-      <point x="47" y="57" type="move" name="exit"/>
+      <point x="-37" y="192" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>

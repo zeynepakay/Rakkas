@@ -4,6 +4,6 @@
   <unicode hex="FEB0"/>
   <outline>
     <component base="reh-ar.fina"/>
-    <component base="dotabove-ar" xOffset="50" yOffset="-120"/>
+    <component base="dotabove-ar" xOffset="130" yOffset="-60"/>
   </outline>
 </glyph>

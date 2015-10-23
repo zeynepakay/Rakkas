@@ -4,14 +4,14 @@
   <unicode hex="FEAE"/>
   <outline>
     <contour>
-      <point x="595" y="192" type="line"/>
-      <point x="539" y="40" type="line"/>
-      <point x="382" y="24" type="line"/>
-      <point x="438" y="176" type="line"/>
+      <point x="566" y="208" type="line"/>
+      <point x="510" y="56" type="line"/>
+      <point x="353" y="40" type="line"/>
+      <point x="409" y="192" type="line"/>
     </contour>
     <component base="reh-ar"/>
     <contour>
-      <point x="554" y="108" type="move" name="entry"/>
+      <point x="525" y="124" type="move" name="entry"/>
     </contour>
   </outline>
 </glyph>

@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>800</integer>
-	<key>capHeight</key>
 	<integer>700</integer>
+	<key>capHeight</key>
+	<integer>670</integer>
 	<key>descender</key>
-	<integer>-200</integer>
+	<integer>-250</integer>
 	<key>familyName</key>
 	<string>Rukiye</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/05/12 17:01:48</string>
+	<string>2015/05/12 11:01:48</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Rukiye</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -22,6 +22,10 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
+		<integer>-15</integer>
+		<integer>0</integer>
+		<integer>450</integer>
+		<integer>465</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
@@ -37,6 +41,6 @@
 	<key>versionMinor</key>
 	<integer>1</integer>
 	<key>xHeight</key>
-	<integer>500</integer>
+	<integer>450</integer>
 </dict>
 </plist>

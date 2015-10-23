@@ -54,6 +54,8 @@
 	<string>Y_.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
+	<key>_part.secondarybowl</key>
+	<string>_part.secondarybowl.glif</string>
 	<key>_part.shortstem</key>
 	<string>_part.shortstem.glif</string>
 	<key>_part.shoulder</key>
@@ -62,6 +64,14 @@
 	<string>_part.tallstem.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>ain-ar</key>
+	<string>ain-ar.glif</string>
+	<key>ain-ar.fina</key>
+	<string>ain-ar.fina.glif</string>
+	<key>ain-ar.init</key>
+	<string>ain-ar.init.glif</string>
+	<key>ain-ar.medi</key>
+	<string>ain-ar.medi.glif</string>
 	<key>alef-ar</key>
 	<string>alef-ar.glif</string>
 	<key>alef-ar.fina</key>
@@ -114,12 +124,28 @@
 	<string>dotlessbeh-ar.init.glif</string>
 	<key>dotlessbeh-ar.medi</key>
 	<string>dotlessbeh-ar.medi.glif</string>
+	<key>dotlessfeh-ar.init</key>
+	<string>dotlessfeh-ar.init.glif</string>
+	<key>dotlessfeh-ar.medi</key>
+	<string>dotlessfeh-ar.medi.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>feh-ar</key>
+	<string>feh-ar.glif</string>
+	<key>feh-ar.init</key>
+	<string>feh-ar.init.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>ghain-ar</key>
+	<string>ghain-ar.glif</string>
+	<key>ghain-ar.fina</key>
+	<string>ghain-ar.fina.glif</string>
+	<key>ghain-ar.init</key>
+	<string>ghain-ar.init.glif</string>
+	<key>ghain-ar.medi</key>
+	<string>ghain-ar.medi.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>hah-ar</key>
@@ -128,6 +154,8 @@
 	<string>hah-ar.fina.glif</string>
 	<key>hah-ar.init</key>
 	<string>hah-ar.init.glif</string>
+	<key>hah-ar.init.001</key>
+	<string>hah-ar.init.001.glif</string>
 	<key>hah-ar.medi</key>
 	<string>hah-ar.medi.glif</string>
 	<key>hamza-ar</key>
@@ -192,6 +220,14 @@
 	<string>p.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
+	<key>qaf-ar</key>
+	<string>qaf-ar.glif</string>
+	<key>qaf-ar.001</key>
+	<string>qaf-ar.001.glif</string>
+	<key>qaf-ar.init</key>
+	<string>qaf-ar.init.glif</string>
+	<key>qaf-ar.medi</key>
+	<string>qaf-ar.medi.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>reh-ar</key>
@@ -208,6 +244,24 @@
 	<string>sad-ar.init.glif</string>
 	<key>sad-ar.medi</key>
 	<string>sad-ar.medi.glif</string>
+	<key>seen-ar</key>
+	<string>seen-ar.glif</string>
+	<key>seen-ar.001</key>
+	<string>seen-ar.001.glif</string>
+	<key>seen-ar.fina</key>
+	<string>seen-ar.fina.glif</string>
+	<key>seen-ar.init</key>
+	<string>seen-ar.init.glif</string>
+	<key>seen-ar.medi</key>
+	<string>seen-ar.medi.glif</string>
+	<key>sheen-ar</key>
+	<string>sheen-ar.glif</string>
+	<key>sheen-ar.fina</key>
+	<string>sheen-ar.fina.glif</string>
+	<key>sheen-ar.init</key>
+	<string>sheen-ar.init.glif</string>
+	<key>sheen-ar.medi</key>
+	<string>sheen-ar.medi.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>t</key>

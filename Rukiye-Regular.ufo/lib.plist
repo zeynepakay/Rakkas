@@ -2,6 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>GSDimensionPlugin.Dimensions</key>
+	<dict>
+		<key>FABFC9D4-E17A-4CB6-8F8E-4923CD579275</key>
+		<dict>
+			<key>OV</key>
+			<integer>188</integer>
+			<key>nV</key>
+			<integer>139</integer>
+			<key>nd</key>
+			<integer>131</integer>
+		</dict>
+	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
@@ -97,6 +109,7 @@
 		<string>hah-ar.fina</string>
 		<string>hah-ar.medi</string>
 		<string>hah-ar.init</string>
+		<string>hah-ar.init.001</string>
 		<string>khah-ar</string>
 		<string>khah-ar.fina</string>
 		<string>khah-ar.medi</string>
@@ -109,6 +122,15 @@
 		<string>reh-ar.fina</string>
 		<string>zain-ar</string>
 		<string>zain-ar.fina</string>
+		<string>seen-ar</string>
+		<string>seen-ar.001</string>
+		<string>seen-ar.fina</string>
+		<string>seen-ar.medi</string>
+		<string>seen-ar.init</string>
+		<string>sheen-ar</string>
+		<string>sheen-ar.fina</string>
+		<string>sheen-ar.medi</string>
+		<string>sheen-ar.init</string>
 		<string>sad-ar</string>
 		<string>sad-ar.fina</string>
 		<string>sad-ar.medi</string>
@@ -125,6 +147,22 @@
 		<string>zah-ar.fina</string>
 		<string>zah-ar.medi</string>
 		<string>zah-ar.init</string>
+		<string>ain-ar</string>
+		<string>ain-ar.fina</string>
+		<string>ain-ar.medi</string>
+		<string>ain-ar.init</string>
+		<string>ghain-ar</string>
+		<string>ghain-ar.fina</string>
+		<string>ghain-ar.medi</string>
+		<string>ghain-ar.init</string>
+		<string>feh-ar</string>
+		<string>feh-ar.init</string>
+		<string>dotlessfeh-ar.medi</string>
+		<string>dotlessfeh-ar.init</string>
+		<string>qaf-ar</string>
+		<string>qaf-ar.001</string>
+		<string>qaf-ar.medi</string>
+		<string>qaf-ar.init</string>
 		<string>kaf-ar</string>
 		<string>kaf-ar.init</string>
 		<string>lam-ar</string>
@@ -154,6 +192,7 @@
 		<string>_part.shoulder</string>
 		<string>_part.shortstem</string>
 		<string>_part.tallstem</string>
+		<string>_part.secondarybowl</string>
 	</array>
 </dict>
 </plist>

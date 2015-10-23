@@ -7,9 +7,24 @@
 		<key>alef-ar</key>
 		<integer>0</integer>
 	</dict>
+	<key>i</key>
+	<dict>
+		<key>n</key>
+		<integer>0</integer>
+	</dict>
+	<key>j</key>
+	<dict>
+		<key>a</key>
+		<integer>0</integer>
+	</dict>
 	<key>o</key>
 	<dict>
 		<key>n</key>
+		<integer>0</integer>
+	</dict>
+	<key>y</key>
+	<dict>
+		<key>a</key>
 		<integer>0</integer>
 	</dict>
 </dict>
