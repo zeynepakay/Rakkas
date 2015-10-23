@@ -7874,13 +7874,13 @@ unicode = 0631;
 },
 {
 glyphname = "reh-ar.fina";
-lastChange = "2015-10-22 19:42:01 +0000";
+lastChange = "2015-10-22 19:42:56 +0000";
 layers = (
 {
 anchors = (
 {
 name = entry;
-position = "{534, 76}";
+position = "{525, 124}";
 }
 );
 components = (
@@ -7894,10 +7894,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"575 160 LINE",
-"519 8 LINE",
-"362 -8 LINE",
-"418 144 LINE"
+"566 208 LINE",
+"510 56 LINE",
+"353 40 LINE",
+"409 192 LINE"
 );
 }
 );
