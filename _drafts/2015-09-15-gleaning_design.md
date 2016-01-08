@@ -7,7 +7,7 @@ permalink: gleaning-design
 <p class="intro">
 The visual direction of The Ruqah Project is a new one to construct for me: I haven’t worked on a type design project that directly derives its aesthetic from a specific source before. </p>
 
-My MATD project was nothing but an exercise in learning how to draw letters. As soon as I reached something that looked like a typographic ‘d’, for example, after a lot of copying and pasting and rotating, I was more or less done with that letter. The rest of the typeface design projects I’ve worked on as a freelancer had had their creative directions pre-determined, and I was mostly involved in expanding the character set and developing them into working fonts.
+My MATD project was nothing but an exercise in learning how to construct letters. As soon as I reached something that looked like a typographic ‘d’, for example, after a lot of copying and pasting and rotating, I was more or less done with that letter — save for applying few attributes to achieve at least some stylistic cohesion. The rest of the typeface design projects I’ve worked on as a freelancer had had their creative directions pre-determined, and I was only involved in expanding the character set and developing them into working fonts. 
 
 <!--more-->
 
@@ -40,3 +40,8 @@ An exploration of quirks and attributes on Latin.
 ###Square 1
 After a lot of sketching during which I tried to harmonize stroke structures but let each script keep its own personality, I landed on a design that I think, for Arabic arabic and Latin both, is quirky enough for display, yet understated enough for text. And more importantly, it has different interpretations of the same flavor for each script.
 
+![AandTah](/public/AandTah.jpg) 
+
+<p class="caption">
+A lowercase a and a tah is where I started the design of each script.
+</p>
