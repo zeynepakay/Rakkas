@@ -1,11 +1,7 @@
 {
 DisplayStrings = (
-"/feh-ar/yeh-ar  /beh-ar/yeh-ar  /meem-ar/yeh-ar  /jeem-ar/yeh-ar",
-"/beh-ar/noon-ar.fina",
-"/alef-ar/waw-ar/alef-ar/beh-ar/alef-ar",
-"/hamza-ar",
-"",
-""
+"/sad-ar.init",
+"/dotlessbeh-ar.medi"
 );
 date = "2015-05-12 14:01:48 +0000";
 familyName = "Rukiye";
@@ -10654,7 +10650,7 @@ unicode = FEBC;
 },
 {
 glyphname = "sad-ar.init";
-lastChange = "2015-11-09 13:01:40 +0000";
+lastChange = "2016-01-09 19:32:23 +0000";
 layers = (
 {
 anchors = (
@@ -10932,19 +10928,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"192 187 LINE",
-"202 219 OFFCURVE",
-"216 269 OFFCURVE",
-"223 298 CURVE",
-"255 295 LINE",
-"247 256 OFFCURVE",
-"238 219 OFFCURVE",
-"231 185 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
 "194 193 LINE",
 "315 204 LINE SMOOTH",
 "454 217 OFFCURVE",
@@ -10981,16 +10964,29 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"65 218 LINE",
-"119 224 OFFCURVE",
-"174 233 OFFCURVE",
-"211 242 CURVE",
-"199 196 OFFCURVE",
-"181 137 OFFCURVE",
-"161 93 CURVE",
-"111 81 OFFCURVE",
-"66 72 OFFCURVE",
-"7 66 CURVE"
+"59 196 LINE",
+"108 201 OFFCURVE",
+"166 211 OFFCURVE",
+"202 221 CURVE",
+"191 175 OFFCURVE",
+"174 116 OFFCURVE",
+"153 72 CURVE",
+"108 59 OFFCURVE",
+"54 49 OFFCURVE",
+"1 44 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"186 181 LINE",
+"195 210 OFFCURVE",
+"207 252 OFFCURVE",
+"214 281 CURVE",
+"246 278 LINE",
+"238 239 OFFCURVE",
+"231 210 OFFCURVE",
+"225 179 CURVE"
 );
 }
 );
