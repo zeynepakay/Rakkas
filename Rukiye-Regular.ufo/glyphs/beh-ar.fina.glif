@@ -3,14 +3,40 @@
   <advance width="799"/>
   <unicode hex="FE90"/>
   <outline>
+    <contour>
+      <point x="697" y="21" type="move"/>
+    </contour>
     <component base="dotlessbeh-ar.fina"/>
     <component base="dotbelow-ar" xOffset="90" yOffset="-70"/>
     <contour>
-      <point x="728" y="91" type="move" name="entry"/>
+      <point x="726" y="98" type="move" name="entry"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>6</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>250</integer>
+          <key>y</key>
+          <integer>-26</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>6</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>308</integer>
+          <key>y</key>
+          <integer>126</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

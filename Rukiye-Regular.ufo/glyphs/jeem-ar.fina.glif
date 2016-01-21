@@ -6,7 +6,7 @@
     <component base="hah-ar.fina"/>
     <component base="dotabove-ar" xOffset="30" yOffset="-451"/>
     <contour>
-      <point x="418" y="399" type="move" name="entry"/>
+      <point x="419" y="402" type="move" name="entry"/>
     </contour>
   </outline>
 </glyph>

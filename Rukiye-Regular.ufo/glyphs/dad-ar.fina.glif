@@ -6,7 +6,7 @@
     <component base="sad-ar.fina"/>
     <component base="dotabove-ar" xOffset="457" yOffset="208"/>
     <contour>
-      <point x="667" y="84" type="move" name="entry"/>
+      <point x="884" y="77" type="move" name="entry"/>
     </contour>
   </outline>
   <lib>

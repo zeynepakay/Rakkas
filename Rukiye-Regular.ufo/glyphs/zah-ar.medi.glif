@@ -6,10 +6,10 @@
     <component base="tah-ar.medi"/>
     <component base="dotabove-ar" xOffset="165" yOffset="198"/>
     <contour>
-      <point x="419" y="-5" type="move" name="entry"/>
+      <point x="569" y="107" type="move" name="entry"/>
     </contour>
     <contour>
-      <point x="114" y="181" type="move" name="exit"/>
+      <point x="100" y="118" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>

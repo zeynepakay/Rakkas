@@ -3,9 +3,9 @@
   <advance width="288"/>
   <outline>
     <contour>
-      <point x="65" y="151" type="line"/>
-      <point x="120" y="157"/>
-      <point x="177" y="164"/>
+      <point x="85" y="151" type="line"/>
+      <point x="133" y="156"/>
+      <point x="195" y="167"/>
       <point x="226" y="176" type="curve"/>
       <point x="201" y="153" type="line"/>
       <point x="211" y="185"/>
@@ -15,9 +15,9 @@
       <point x="250" y="165"/>
       <point x="224" y="85"/>
       <point x="195" y="29" type="curve"/>
-      <point x="142" y="16"/>
-      <point x="78" y="6"/>
-      <point x="7" y="-1" type="curve"/>
+      <point x="148" y="16"/>
+      <point x="84" y="5"/>
+      <point x="27" y="-1" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -36,13 +36,13 @@
         </dict>
         <dict>
           <key>angle</key>
-          <real>80.659</real>
+          <integer>69</integer>
           <key>isGlobal</key>
           <false/>
           <key>x</key>
-          <integer>56</integer>
+          <integer>7</integer>
           <key>y</key>
-          <integer>107</integer>
+          <integer>-1</integer>
         </dict>
         <dict>
           <key>angle</key>
@@ -50,9 +50,9 @@
           <key>isGlobal</key>
           <false/>
           <key>x</key>
-          <integer>282</integer>
+          <integer>27</integer>
           <key>y</key>
-          <integer>38</integer>
+          <integer>-1</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>

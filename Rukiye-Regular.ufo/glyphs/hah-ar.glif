@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hah-ar" format="1">
-  <advance width="482"/>
+  <advance width="545"/>
   <unicode hex="062D"/>
   <outline>
     <contour>
@@ -2229,7 +2229,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>482</integer>
+          <integer>545</integer>
         </dict>
       </dict>
     </dict>

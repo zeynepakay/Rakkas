@@ -7,7 +7,7 @@
       <point x="499" y="203" type="line"/>
       <point x="443" y="51" type="line"/>
       <point x="10" y="6" type="line"/>
-      <point x="66" y="158" type="line"/>
+      <point x="68" y="158" type="line"/>
     </contour>
     <contour>
       <point x="357" y="192"/>
@@ -38,7 +38,7 @@
       <point x="344" y="148" type="line"/>
     </contour>
     <contour>
-      <point x="46" y="75" type="move" name="exit"/>
+      <point x="39" y="83" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>
@@ -47,13 +47,13 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>69.648</real>
+          <integer>69</integer>
           <key>isGlobal</key>
           <false/>
           <key>x</key>
-          <integer>226</integer>
+          <integer>-13</integer>
           <key>y</key>
-          <integer>100</integer>
+          <integer>28</integer>
         </dict>
         <dict>
           <key>angle</key>

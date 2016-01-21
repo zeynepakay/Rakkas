@@ -4,6 +4,9 @@
   <unicode hex="FEAC"/>
   <outline>
     <component base="dal-ar.fina"/>
-    <component base="dotabove-ar"/>
+    <component base="dotabove-ar" xOffset="127" yOffset="18"/>
+    <contour>
+      <point x="565" y="93" type="move" name="entry"/>
+    </contour>
   </outline>
 </glyph>

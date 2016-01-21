@@ -5,5 +5,8 @@
   <outline>
     <component base="hah-ar.init"/>
     <component base="dotabove-ar" xOffset="133" yOffset="149"/>
+    <contour>
+      <point x="39" y="83" type="move" name="exit"/>
+    </contour>
   </outline>
 </glyph>

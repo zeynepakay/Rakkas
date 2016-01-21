@@ -6,7 +6,7 @@
     <component base="tah-ar.init"/>
     <component base="dotabove-ar" xOffset="94" yOffset="203"/>
     <contour>
-      <point x="49" y="173" type="move" name="exit"/>
+      <point x="44" y="179" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>

@@ -3,10 +3,10 @@
   <advance width="600"/>
   <unicode hex="FED3"/>
   <outline>
-    <component base="dotabove-ar" xOffset="128" yOffset="110"/>
+    <component base="dotabove-ar" xOffset="138" yOffset="90"/>
     <component base="dotlessfeh-ar.init"/>
     <contour>
-      <point x="211" y="30" type="move" name="exit"/>
+      <point x="204" y="37" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>

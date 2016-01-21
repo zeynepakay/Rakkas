@@ -11,7 +11,7 @@
 	<key>familyName</key>
 	<string>Rukiye</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/05/12 11:01:48</string>
+	<string>2015/05/12 15:01:48</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Rukiye</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -26,6 +26,8 @@
 		<integer>0</integer>
 		<integer>450</integer>
 		<integer>465</integer>
+		<integer>670</integer>
+		<integer>685</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>

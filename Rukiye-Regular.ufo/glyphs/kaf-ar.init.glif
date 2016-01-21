@@ -49,11 +49,24 @@
       <point x="310" y="620" type="curve"/>
     </contour>
     <contour>
-      <point x="45" y="48" type="move" name="exit"/>
+      <point x="39" y="52" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>69</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>-25</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

@@ -6,7 +6,7 @@
     <component base="alef-ar.fina"/>
     <component base="hamza-ar" yOffset="628"/>
     <contour>
-      <point x="221" y="80" type="move" name="entry"/>
+      <point x="209" y="87" type="move" name="entry"/>
     </contour>
   </outline>
   <lib>

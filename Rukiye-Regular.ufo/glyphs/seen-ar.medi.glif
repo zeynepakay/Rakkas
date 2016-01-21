@@ -4,16 +4,18 @@
   <unicode hex="FEB4"/>
   <outline>
     <contour>
-      <point x="549" y="205" type="line"/>
-      <point x="493" y="53" type="line"/>
       <point x="106" y="13" type="line"/>
-      <point x="162" y="165" type="line"/>
+      <point x="478" y="52" type="line"/>
+      <point x="499" y="70" type="line"/>
+      <point x="542" y="187" type="line"/>
+      <point x="536" y="204" type="line"/>
+      <point x="164" y="165" type="line"/>
     </contour>
     <contour>
-      <point x="509" y="120" type="move" name="entry"/>
+      <point x="507" y="129" type="move" name="entry"/>
     </contour>
     <contour>
-      <point x="145" y="83" type="move" name="exit"/>
+      <point x="135" y="90" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +32,107 @@
           <key>y</key>
           <integer>20</integer>
         </dict>
+        <dict>
+          <key>angle</key>
+          <integer>69</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>510</integer>
+          <key>y</key>
+          <integer>66</integer>
+        </dict>
       </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>478</integer>
+                  <key>y</key>
+                  <integer>52</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>336</integer>
+                  <key>y</key>
+                  <integer>37</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>392</integer>
+                  <key>y</key>
+                  <integer>189</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>536</integer>
+                  <key>y</key>
+                  <integer>204</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>542</integer>
+                  <key>y</key>
+                  <integer>187</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>499</integer>
+                  <key>y</key>
+                  <integer>70</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>seen-ar.medi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>600</integer>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

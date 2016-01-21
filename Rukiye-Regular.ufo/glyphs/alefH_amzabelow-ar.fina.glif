@@ -5,6 +5,9 @@
   <outline>
     <component base="alef-ar.fina"/>
     <component base="hamza-ar" xOffset="5" yOffset="-168"/>
+    <contour>
+      <point x="209" y="87" type="move" name="entry"/>
+    </contour>
   </outline>
   <lib>
     <dict>

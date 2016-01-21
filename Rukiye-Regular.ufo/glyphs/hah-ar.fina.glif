@@ -23,27 +23,29 @@
       <point x="220" y="91"/>
       <point x="345" y="140" type="curve"/>
       <point x="390" y="277" type="line"/>
-      <point x="312" y="293"/>
-      <point x="235" y="301"/>
+      <point x="311" y="300"/>
+      <point x="234" y="308"/>
       <point x="153" y="305" type="curve"/>
-      <point x="157" y="296" type="line"/>
-      <point x="231" y="309"/>
-      <point x="314" y="317"/>
-      <point x="405" y="327" type="curve"/>
-      <point x="462" y="479" type="line"/>
-      <point x="350" y="467"/>
-      <point x="249" y="445"/>
+      <point x="157" y="291" type="line"/>
+      <point x="227" y="304"/>
+      <point x="305" y="316"/>
+      <point x="390" y="325" type="curve"/>
+      <point x="411" y="343" type="line"/>
+      <point x="454" y="460" type="line"/>
+      <point x="448" y="477" type="line"/>
+      <point x="325" y="464"/>
+      <point x="245" y="443"/>
       <point x="165" y="408" type="curve"/>
       <point x="124" y="342"/>
       <point x="91" y="258"/>
       <point x="68" y="180" type="curve"/>
-      <point x="153" y="174"/>
-      <point x="225" y="165"/>
+      <point x="153" y="180"/>
+      <point x="236" y="171"/>
       <point x="321" y="147" type="curve"/>
       <point x="363" y="247" type="line"/>
     </contour>
     <contour>
-      <point x="420" y="394" type="move" name="entry"/>
+      <point x="419" y="402" type="move" name="entry"/>
     </contour>
   </outline>
   <lib>
@@ -56,9 +58,9 @@
           <key>isGlobal</key>
           <false/>
           <key>x</key>
-          <integer>385</integer>
+          <integer>448</integer>
           <key>y</key>
-          <integer>356</integer>
+          <integer>477</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -774,6 +776,71 @@
                   <integer>465</integer>
                   <key>y</key>
                   <integer>319</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>390</integer>
+                  <key>y</key>
+                  <integer>325</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>248</integer>
+                  <key>y</key>
+                  <integer>310</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>304</integer>
+                  <key>y</key>
+                  <integer>462</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>448</integer>
+                  <key>y</key>
+                  <integer>477</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>454</integer>
+                  <key>y</key>
+                  <integer>460</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>411</integer>
+                  <key>y</key>
+                  <integer>343</integer>
                 </dict>
               </array>
             </dict>

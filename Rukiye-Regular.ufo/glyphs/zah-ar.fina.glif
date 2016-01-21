@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zah-ar.fina" format="1">
-  <advance width="573"/>
+  <advance width="622"/>
   <unicode hex="FEC6"/>
   <outline>
     <component base="tah-ar.fina"/>
     <component base="dotabove-ar" xOffset="180" yOffset="198"/>
     <contour>
-      <point x="437" y="-5" type="move" name="entry"/>
+      <point x="587" y="107" type="move" name="entry"/>
     </contour>
   </outline>
   <lib>
@@ -67,7 +67,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>573</integer>
+          <integer>622</integer>
         </dict>
       </dict>
     </dict>
