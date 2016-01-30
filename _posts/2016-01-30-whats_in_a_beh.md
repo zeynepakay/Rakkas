@@ -4,7 +4,9 @@ title: What's in a Beh?
 permalink: whats-in-a-beh
 ---
 
-![beh](/public/Beh.mp4) 
+<video width="800" height="650" controls>
+  <source src="Beh.mp4" type="video/mp4">
+</video>
 
 <p class="caption">
 The visual progression of an isolated beh shape.
