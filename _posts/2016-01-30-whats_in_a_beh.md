@@ -5,7 +5,7 @@ permalink: whats-in-a-beh
 ---
 
 <video width="800" height="650" controls autoplay>
-  <source src="https://github.com/zeynepakay/theruqahproject/blob/gh-pages/public/Beh.mp4" type="video/mp4">
+  <source src="theruqahproject/public/Beh.mp4" type="video/mp4">
  </video>
 
 <p class="caption">
