@@ -60790,17 +60790,6 @@ width = 229;
 );
 },
 {
-glyphname = "hamzabelowKasra-ar";
-lastChange = "2016-02-19 15:08:17 +0000";
-layers = (
-{
-layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
-name = Regular;
-width = 10;
-}
-);
-},
-{
 glyphname = "fathatan-ar";
 lastChange = "2016-02-28 22:26:46 +0000";
 layers = (
