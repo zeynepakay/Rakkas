@@ -73,3 +73,11 @@ lookup multiple_seens {
 	script arab;
 sub [seen-ar.medi sheen-ar.medi] [seen-ar.medi sheen-ar.medi]' by [seen-ar.medi.all1 sheen-ar.medi.all1];
 } multiple_seens;
+
+#lookup yehFinaAll1 {
+	#lookupflag IgnoreMarks RightToLeft;
+	#script arab;
+#sub [feh-ar.init qaf-ar.init veh-ar.init] @yehFina' by @yehFinaAll1;
+#sub @jeemInit @yehFina' by @yehFinaAll1;
+#sub @jeemInit' @yehFinaAll1 by @jeemInitAll1;
+#} yehFinaAll1;
