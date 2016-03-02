@@ -1,8 +1,5 @@
 {
 .appVersion = "854";
-DisplayStrings = (
-"1234\U00BD\U00BC\U00BE\U00B9\U00B2\U00B3/foursuperior"
-);
 classes = (
 {
 code = "";
@@ -112,12 +109,12 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature ccmp;\012feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012feature init;\012feature medi;\012feature fina;\012feature rlig;\012feature calt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012";
+code = "feature ccmp;\012feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012feature init;\012feature medi;\012feature fina;\012feature rlig;\012feature calt;\012";
 name = aalt;
 },
 {
 automatic = 1;
-code = "lookup arab_comb {\012	script arab;\012	sub hamzaabove-ar damma-ar by hamzaaboveDamma-ar;\012	sub damma-ar hamzaabove-ar by hamzaaboveDamma-ar;\012	sub hamzaabove-ar dammatan-ar by hamzaaboveDammatan-ar;\012	sub dammatan-ar hamzaabove-ar by hamzaaboveDammatan-ar;\012	sub hamzaabove-ar fatha-ar by hamzaaboveFatha-ar;\012	sub fatha-ar hamzaabove-ar by hamzaaboveFatha-ar;\012	sub hamzaabove-ar fathatan-ar by hamzaaboveFathatan-ar;\012	sub fathatan-ar hamzaabove-ar by hamzaaboveFathatan-ar;\012	sub hamzaabove-ar sukun-ar by hamzaaboveSukun-ar;\012	sub sukun-ar hamzaabove-ar by hamzaaboveSukun-ar;\012	sub hamzabelow-ar kasra-ar by hamzabelowKasra-ar;\012	sub kasra-ar hamzabelow-ar by hamzabelowKasra-ar;\012	sub hamzabelow-ar kasratan-ar by hamzabelowKasratan-ar;\012	sub kasratan-ar hamzabelow-ar by hamzabelowKasratan-ar;\012	sub shadda-ar alefabove-ar by shaddaAlefabove-ar;\012	sub alefabove-ar shadda-ar by shaddaAlefabove-ar;\012	sub shadda-ar damma-ar by shaddaDamma-ar;\012	sub damma-ar shadda-ar by shaddaDamma-ar;\012	sub shadda-ar dammatan-ar by shaddaDammatan-ar;\012	sub dammatan-ar shadda-ar by shaddaDammatan-ar;\012	sub shadda-ar fatha-ar by shaddaFatha-ar;\012	sub fatha-ar shadda-ar by shaddaFatha-ar;\012	sub shadda-ar fathatan-ar by shaddaFathatan-ar;\012	sub fathatan-ar shadda-ar by shaddaFathatan-ar;\012	sub shadda-ar kasra-ar by shaddaKasra-ar;\012	sub kasra-ar shadda-ar by shaddaKasra-ar;\012	sub shadda-ar kasratan-ar by shaddaKasratan-ar;\012	sub kasratan-ar shadda-ar by shaddaKasratan-ar;\012} arab_comb;\012";
+code = "lookup ccmp_arab_1 {\012	script arab;\012	sub hamzaabove-ar damma-ar by hamzaaboveDamma-ar;\012	sub damma-ar hamzaabove-ar by hamzaaboveDamma-ar;\012	sub hamzaabove-ar dammatan-ar by hamzaaboveDammatan-ar;\012	sub dammatan-ar hamzaabove-ar by hamzaaboveDammatan-ar;\012	sub hamzaabove-ar fatha-ar by hamzaaboveFatha-ar;\012	sub fatha-ar hamzaabove-ar by hamzaaboveFatha-ar;\012	sub hamzaabove-ar fathatan-ar by hamzaaboveFathatan-ar;\012	sub fathatan-ar hamzaabove-ar by hamzaaboveFathatan-ar;\012	sub hamzaabove-ar sukun-ar by hamzaaboveSukun-ar;\012	sub sukun-ar hamzaabove-ar by hamzaaboveSukun-ar;\012	sub hamzabelow-ar kasra-ar by hamzabelowKasra-ar;\012	sub kasra-ar hamzabelow-ar by hamzabelowKasra-ar;\012	sub hamzabelow-ar kasratan-ar by hamzabelowKasratan-ar;\012	sub kasratan-ar hamzabelow-ar by hamzabelowKasratan-ar;\012	sub shadda-ar alefabove-ar by shaddaAlefabove-ar;\012	sub alefabove-ar shadda-ar by shaddaAlefabove-ar;\012	sub shadda-ar damma-ar by shaddaDamma-ar;\012	sub damma-ar shadda-ar by shaddaDamma-ar;\012	sub shadda-ar dammatan-ar by shaddaDammatan-ar;\012	sub dammatan-ar shadda-ar by shaddaDammatan-ar;\012	sub shadda-ar fatha-ar by shaddaFatha-ar;\012	sub fatha-ar shadda-ar by shaddaFatha-ar;\012	sub shadda-ar fathatan-ar by shaddaFathatan-ar;\012	sub fathatan-ar shadda-ar by shaddaFathatan-ar;\012	sub shadda-ar kasra-ar by shaddaKasra-ar;\012	sub kasra-ar shadda-ar by shaddaKasra-ar;\012	sub shadda-ar kasratan-ar by shaddaKasratan-ar;\012	sub kasratan-ar shadda-ar by shaddaKasratan-ar;\012} ccmp_arab_1;\012";
 name = ccmp;
 },
 {
@@ -127,7 +124,7 @@ name = locl;
 },
 {
 automatic = 1;
-code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012";
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012";
 name = sups;
 },
 {
@@ -142,7 +139,7 @@ name = ordn;
 },
 {
 automatic = 1;
-code = "sub acutecomb by acutecomb.case;\012sub gravecomb by gravecomb.case;\012sub ogonekcomb by ogonekcomb.case;\012sub hungarumlaut by hungarumlaut.case;\012sub macron by macron.case;\012";
+code = "sub gravecomb by gravecomb.case;\012sub acutecomb by acutecomb.case;\012sub ogonekcomb by ogonekcomb.case;\012sub hungarumlaut by hungarumlaut.case;\012sub macron by macron.case;\012";
 name = case;
 },
 {
