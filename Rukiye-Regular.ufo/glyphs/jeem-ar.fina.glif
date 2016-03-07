@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jeem-ar.fina" format="1">
+  <advance width="477"/>
+  <unicode hex="FE9E"/>
+  <outline>
+    <component base="hah-ar.fina"/>
+    <component base="dotabove-ar" xOffset="30" yOffset="-451"/>
+    <contour>
+      <point x="419" y="402" type="move" name="entry"/>
+    </contour>
+  </outline>
+</glyph>

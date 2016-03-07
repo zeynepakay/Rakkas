@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefMaksura-ar.fina" format="1">
+  <advance width="725"/>
+  <unicode hex="FEF0"/>
+  <outline>
+    <component base="dotlessyeh-ar.fina"/>
+    <contour>
+      <point x="673" y="292" type="move" name="entry"/>
+    </contour>
+  </outline>
+</glyph>

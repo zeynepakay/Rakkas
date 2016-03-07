@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefHamzaabove-ar.fina" format="1">
+  <advance width="266"/>
+  <unicode hex="FE84"/>
+  <outline>
+    <component base="alef-ar.fina"/>
+    <component base="hamza-ar" yOffset="628"/>
+    <contour>
+      <point x="209" y="87" type="move" name="entry"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamza-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

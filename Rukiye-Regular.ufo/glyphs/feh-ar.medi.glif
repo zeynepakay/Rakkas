@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="feh-ar.medi" format="1">
+  <advance width="600"/>
+  <unicode hex="FED4"/>
+  <outline>
+    <component base="dotlessfeh-ar.medi"/>
+    <component base="dotabove-ar" xOffset="100" yOffset="140"/>
+    <contour>
+      <point x="511" y="132" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="76" y="86" type="move" name="exit"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>6</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>63</integer>
+          <key>y</key>
+          <integer>11</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
