@@ -3,4 +3,4 @@ Rakkas is a dual script font that currently supports Arabic and Latin. The Arabi
 
 The next steps for Rakkas is to widen its language support; for Latin up to Latin 5, for Arabic, Urdu and Persian.
 
-You can catch up with the early stages of Rakkas' design at theruqahproject.com. The blog will pick up updates once the initial release is complete.
+You can catch up with the early stages of Rakkas' design on [the project site](theruqahproject.com).The blog will pick up updates once the initial release is complete.
