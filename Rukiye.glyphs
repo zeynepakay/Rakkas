@@ -1,5 +1,8 @@
 {
 .appVersion = "854";
+DisplayStrings = (
+"\U00EE"
+);
 classes = (
 {
 code = "";
@@ -1984,7 +1987,7 @@ unicode = 0112;
 },
 {
 glyphname = Eogonek;
-lastChange = "2016-02-26 14:29:12 +0000";
+lastChange = "2016-03-08 11:46:08 +0000";
 layers = (
 {
 components = (
@@ -1994,6 +1997,11 @@ name = E;
 {
 name = ogonekcomb.case;
 transform = "{1, 0, 0, 1, 122, 0}";
+}
+);
+guideLines = (
+{
+position = "{469, -231}";
 }
 );
 layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
@@ -2376,13 +2384,13 @@ unicode = 0048;
 },
 {
 glyphname = I;
-lastChange = "2016-03-06 23:21:32 +0000";
+lastChange = "2016-03-08 11:46:20 +0000";
 layers = (
 {
 anchors = (
 {
 name = ogonek;
-position = "{298, 10}";
+position = "{224, 0}";
 },
 {
 name = top;
@@ -2547,7 +2555,7 @@ unicode = 012A;
 },
 {
 glyphname = Iogonek;
-lastChange = "2016-02-26 14:29:12 +0000";
+lastChange = "2016-03-08 11:46:20 +0000";
 layers = (
 {
 components = (
@@ -2555,9 +2563,8 @@ components = (
 name = I;
 },
 {
-alignment = -1;
-name = ogonek;
-transform = "{1, 0, 0, 1, -174, 0}";
+name = ogonekcomb.case;
+transform = "{1, 0, 0, 1, -173, 0}";
 }
 );
 layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
@@ -11402,7 +11409,7 @@ unicode = 011F;
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2016-03-08 11:22:16 +0000";
+lastChange = "2016-03-08 11:47:52 +0000";
 layers = (
 {
 components = (
@@ -11411,11 +11418,7 @@ name = g;
 },
 {
 name = commaturnedabovecomb;
-transform = "{0.1, 0, 0, 0.1, 229, 518}";
-},
-{
-name = commaturnedabovecomb;
-transform = "{1, 0, 0, 1, 129, 31}";
+transform = "{1, 0, 0, 1, 128, 14}";
 }
 );
 layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
@@ -11743,7 +11746,7 @@ unicode = 0131;
 },
 {
 glyphname = iacute;
-lastChange = "2016-02-22 14:28:15 +0000";
+lastChange = "2016-03-08 11:43:46 +0000";
 layers = (
 {
 components = (
@@ -11752,8 +11755,13 @@ name = dotlessi;
 },
 {
 alignment = -1;
-name = acute;
-transform = "{0.966, 0.259, -0.259, 0.966, 64, -48}";
+name = acutecomb;
+transform = "{0.966, 0.259, -0.259, 0.966, 67, -44}";
+}
+);
+guideLines = (
+{
+position = "{348, 714}";
 }
 );
 layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
@@ -11810,7 +11818,7 @@ unicode = 00EF;
 },
 {
 glyphname = igrave;
-lastChange = "2016-02-22 14:28:31 +0000";
+lastChange = "2016-03-08 11:43:33 +0000";
 layers = (
 {
 components = (
@@ -11820,7 +11828,7 @@ name = dotlessi;
 {
 alignment = -1;
 name = gravecomb;
-transform = "{0.966, -0.259, 0.259, 0.966, -287, 87}";
+transform = "{0.966, -0.259, 0.259, 0.966, -289, 87}";
 }
 );
 layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
