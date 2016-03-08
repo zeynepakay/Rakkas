@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefMaksura-ar.fina" format="1">
+  <advance width="707"/>
+  <unicode hex="FEF0"/>
+  <outline>
+    <component base="dotlessyeh-ar.fina"/>
+    <contour>
+      <point x="652" y="491" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="273" y="-45" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="184" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-29 01:16:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

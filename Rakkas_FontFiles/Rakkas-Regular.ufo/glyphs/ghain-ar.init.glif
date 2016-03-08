@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghain-ar.init" format="1">
+  <advance width="424"/>
+  <unicode hex="FECF"/>
+  <outline>
+    <component base="ain-ar.init"/>
+    <component base="dotabove-ar" xOffset="214" yOffset="120"/>
+    <contour>
+      <point x="29" y="62" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="200" y="-35" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-29 00:42:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

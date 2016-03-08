@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehHamzaabove-ar.init.all1" format="1">
+  <advance width="276"/>
+  <outline>
+    <component base="dotlessbeh-ar.init.all1"/>
+    <component base="hamzaabove-ar" xOffset="32" yOffset="-57"/>
+    <contour>
+      <point x="29" y="62" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="96" y="-45" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 23:53:07 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>hamza-ar</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>59</integer>
+                <integer>451</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yehHamzaabove-ar.init.all1</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>276</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

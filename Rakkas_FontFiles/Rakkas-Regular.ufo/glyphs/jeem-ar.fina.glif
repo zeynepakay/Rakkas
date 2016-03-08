@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jeem-ar.fina" format="1">
+  <advance width="480"/>
+  <unicode hex="FE9E"/>
+  <outline>
+    <component base="hah-ar.fina"/>
+    <component base="dotcenter-ar" xOffset="211" yOffset="-566"/>
+    <contour>
+      <point x="445" y="283" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="200" y="-520" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="329" y="391" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 23:56:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

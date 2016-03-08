@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="336"/>
+  <unicode hex="2264"/>
+  <outline>
+    <component base="greaterequal" xOffset="336" xScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-08 15:23:17 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>218</integer>
+          <key>y</key>
+          <integer>498</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf_yehHamzaabove-ar" format="1">
+  <advance width="865"/>
+  <outline>
+    <component base="kaf_alefMaksura-ar"/>
+    <component base="hamzaabove-ar" xOffset="102" yOffset="65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-04 00:38:59 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>kaf-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>yehHamzaabove-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

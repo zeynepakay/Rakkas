@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucircumflex" format="1">
+  <advance width="726"/>
+  <unicode hex="00DB"/>
+  <outline>
+    <component base="U"/>
+    <component base="circumflexcomb" xOffset="90" yOffset="199"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-22 12:58:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

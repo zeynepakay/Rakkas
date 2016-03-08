@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaaboveDammatan-ar.alt" format="1">
+  <advance width="238"/>
+  <outline>
+    <component base="hamzaabove-ar"/>
+    <component base="dammatan-ar.alt" xOffset="-2" yOffset="210"/>
+    <contour>
+      <point x="133" y="865" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="117" y="455" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-29 13:38:10 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dammatan-ar.alt</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

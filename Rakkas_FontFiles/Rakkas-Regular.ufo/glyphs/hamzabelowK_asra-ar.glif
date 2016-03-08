@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzabelowKasra-ar" format="1">
+  <advance width="229"/>
+  <outline>
+    <component base="hamzabelow-ar" yOffset="-10"/>
+    <component base="kasra-ar" xOffset="3" yOffset="3"/>
+    <contour>
+      <point x="110" y="175" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="116" y="-130" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-29 13:28:56 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>kasra-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

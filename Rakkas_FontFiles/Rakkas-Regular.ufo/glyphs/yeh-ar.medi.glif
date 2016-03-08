@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeh-ar.medi" format="1">
+  <advance width="288"/>
+  <unicode hex="FEF4"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="2" yOffset="-20"/>
+    <contour>
+      <point x="253" y="86" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="24" y="62" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="201" y="317" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 23:27:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

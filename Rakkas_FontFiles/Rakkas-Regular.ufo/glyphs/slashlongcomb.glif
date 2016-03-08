@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashlongcomb" format="1">
+  <advance width="345"/>
+  <unicode hex="0338"/>
+  <outline>
+    <contour>
+      <point x="345" y="447" type="line"/>
+      <point x="323" y="471" type="line"/>
+      <point x="0" y="181" type="line"/>
+      <point x="22" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="316" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 15:45:06 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>270</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>177</integer>
+          <key>y</key>
+          <integer>508</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>177</integer>
+          <key>y</key>
+          <integer>316</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf_kaf-ar.init" format="1">
+  <advance width="569"/>
+  <outline>
+    <component base="kaf-ar.medi"/>
+    <component base="kaf-ar.init.all2" xOffset="229" yOffset="22"/>
+    <contour>
+      <point x="482" y="859" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="392" y="20" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="103" y="560" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="30" y="110" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="174" y="-53" type="move" name="bottom_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 21:38:15 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>kaf-ar.init.all2</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

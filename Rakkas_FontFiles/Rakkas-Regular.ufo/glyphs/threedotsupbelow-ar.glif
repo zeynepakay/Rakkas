@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threedotsupbelow-ar" format="1">
+  <advance width="240"/>
+  <unicode hex="FBB7"/>
+  <outline>
+    <component base="threedotsupabove-ar" yOffset="-500"/>
+    <contour>
+      <point x="120" y="108" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="116" y="-53" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-19 15:11:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

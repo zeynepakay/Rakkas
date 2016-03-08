@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khah-ar.fina" format="1">
+  <advance width="480"/>
+  <unicode hex="FEA6"/>
+  <outline>
+    <component base="hah-ar.fina"/>
+    <component base="dotabove-ar" xOffset="252" yOffset="71"/>
+    <contour>
+      <point x="445" y="283" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="200" y="-520" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 23:57:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

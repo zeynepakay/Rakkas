@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="veh-ar.fina" format="1">
+  <advance width="766"/>
+  <unicode hex="FB6B"/>
+  <outline>
+    <component base="dotlessfeh-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="485" yOffset="-8"/>
+    <contour>
+      <point x="731" y="109" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="303" y="-55" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-01 13:04:50 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsupabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

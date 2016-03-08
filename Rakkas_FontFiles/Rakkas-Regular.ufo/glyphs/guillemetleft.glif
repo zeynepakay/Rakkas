@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetleft" format="1">
+  <advance width="388"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <component base="guillemetright" xOffset="388" xScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-07 14:12:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

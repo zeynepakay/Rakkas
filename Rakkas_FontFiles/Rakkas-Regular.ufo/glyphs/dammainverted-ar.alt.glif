@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dammainverted-ar.alt" format="1">
+  <advance width="240"/>
+  <outline>
+    <component base="damma-ar.alt" xOffset="243" yOffset="1146" xScale="-1" yScale="-1"/>
+    <contour>
+      <point x="115" y="659" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="122" y="445" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-04 14:15:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

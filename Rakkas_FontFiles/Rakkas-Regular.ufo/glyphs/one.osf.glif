@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf" format="1">
+  <advance width="330"/>
+  <outline>
+    <contour>
+      <point x="312" y="0" type="line"/>
+      <point x="312" y="35" type="line"/>
+      <point x="255" y="38" type="line"/>
+      <point x="260" y="576" type="line"/>
+      <point x="246" y="600" type="line"/>
+      <point x="16" y="539" type="line"/>
+      <point x="26" y="504" type="line"/>
+      <point x="84" y="517" type="line"/>
+      <point x="89" y="38" type="line"/>
+      <point x="32" y="35" type="line"/>
+      <point x="32" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-08 14:42:46 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>246</integer>
+          <key>y</key>
+          <integer>600</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>one</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-4</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>one.osf</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>330</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehHamzaabove-ar.fina.all1" format="1">
+  <advance width="602"/>
+  <outline>
+    <component base="dotlessyeh-ar.fina.all1"/>
+    <component base="hamzaabove-ar" xOffset="78" yOffset="40"/>
+    <contour>
+      <point x="388" y="450" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="273" y="-45" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-29 10:16:21 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>dotlessyeh-ar.fina.all1</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>hamzaabove-ar</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>78</integer>
+                <integer>-185</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yehHamzaabove-ar.fina.all1</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>602</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

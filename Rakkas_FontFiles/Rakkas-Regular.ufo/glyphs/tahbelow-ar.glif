@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tahbelow-ar" format="1">
+  <advance width="237"/>
+  <unicode hex="FBC1"/>
+  <outline>
+    <component base="tahabove-ar" yOffset="-530"/>
+    <contour>
+      <point x="119" y="197" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="119" y="-153" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-04 13:48:51 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tahabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaFathatan-ar.alt" format="1">
+  <advance width="228"/>
+  <outline>
+    <component base="fathatan-ar" xOffset="-11" yOffset="182"/>
+    <component base="shadda-ar.alt" yOffset="-5"/>
+    <contour>
+      <point x="129" y="413" type="move" name="_top_d"/>
+    </contour>
+    <contour>
+      <point x="99" y="758" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="110" y="413" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 22:34:07 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>shadda-ar</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>7</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>shaddaFathatan-ar.alt</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>228</integer>
+        </dict>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>shadda-ar.alt</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

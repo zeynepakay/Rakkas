@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T_T" format="1">
+  <advance width="1145"/>
+  <outline>
+    <contour>
+      <point x="2" y="670" type="line"/>
+      <point x="2" y="476" type="line"/>
+      <point x="41" y="477" type="line"/>
+      <point x="43" y="527" type="line"/>
+      <point x="111" y="576"/>
+      <point x="173" y="617"/>
+      <point x="238" y="648" type="curve"/>
+      <point x="214" y="648" type="line"/>
+      <point x="214" y="36" type="line"/>
+      <point x="135" y="35" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="459" y="35" type="line"/>
+      <point x="380" y="36" type="line"/>
+      <point x="380" y="648" type="line"/>
+      <point x="356" y="648" type="line"/>
+      <point x="421" y="617"/>
+      <point x="483" y="576"/>
+      <point x="551" y="527" type="curve"/>
+      <point x="553" y="477" type="line"/>
+      <point x="592" y="477" type="line"/>
+      <point x="594" y="527" type="line"/>
+      <point x="662" y="576"/>
+      <point x="724" y="617"/>
+      <point x="789" y="648" type="curve"/>
+      <point x="765" y="648" type="line"/>
+      <point x="765" y="36" type="line"/>
+      <point x="686" y="35" type="line"/>
+      <point x="686" y="0" type="line"/>
+      <point x="1010" y="0" type="line"/>
+      <point x="1010" y="35" type="line"/>
+      <point x="931" y="36" type="line"/>
+      <point x="931" y="648" type="line"/>
+      <point x="907" y="648" type="line"/>
+      <point x="972" y="617"/>
+      <point x="1034" y="576"/>
+      <point x="1102" y="527" type="curve"/>
+      <point x="1104" y="477" type="line"/>
+      <point x="1143" y="476" type="line"/>
+      <point x="1143" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-07 16:45:16 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>T</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>T</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>594</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>T_T</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1145</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

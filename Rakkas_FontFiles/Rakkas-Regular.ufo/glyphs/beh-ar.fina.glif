@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beh-ar.fina" format="1">
+  <advance width="761"/>
+  <unicode hex="FE90"/>
+  <outline>
+    <component base="dotlessbeh-ar.fina"/>
+    <component base="dotbelow-ar" xOffset="281" yOffset="-22"/>
+    <contour>
+      <point x="723" y="122" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="466" y="357" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 23:45:55 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>6</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>250</integer>
+          <key>y</key>
+          <integer>-26</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>6</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>308</integer>
+          <key>y</key>
+          <integer>126</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>entry</string>
+              <key>x</key>
+              <integer>859</integer>
+              <key>y</key>
+              <integer>85</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>dotlessbeh-ar.fina</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>dotbelow-ar</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>130</integer>
+                <integer>-70</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>beh-ar.fina</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>761</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

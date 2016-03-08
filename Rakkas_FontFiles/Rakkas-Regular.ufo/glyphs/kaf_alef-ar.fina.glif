@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf_alef-ar.fina" format="1">
+  <advance width="535"/>
+  <unicode hex="FC80"/>
+  <outline>
+    <component base="alef-ar.fina"/>
+    <component base="kaf-ar.medi.all2" xOffset="135" yOffset="22"/>
+    <contour>
+      <point x="449" y="111" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="267" y="-21" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="342" y="525" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 21:37:59 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>entry</string>
+              <key>x</key>
+              <integer>437</integer>
+              <key>y</key>
+              <integer>111</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>bottom</string>
+              <key>x</key>
+              <integer>255</integer>
+              <key>y</key>
+              <integer>-21</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>top_d</string>
+              <key>x</key>
+              <integer>331</integer>
+              <key>y</key>
+              <integer>635</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>alef-ar.fina</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>kaf-ar.medi.all1</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>106</integer>
+                <integer>16</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>kaf_alef-ar.fina</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>535</integer>
+        </dict>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>kaf-ar.medi.all2</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

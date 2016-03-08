@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one" format="1">
+  <advance width="333"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="313" y="0" type="line"/>
+      <point x="313" y="35" type="line"/>
+      <point x="256" y="38" type="line"/>
+      <point x="261" y="646" type="line"/>
+      <point x="247" y="670" type="line"/>
+      <point x="17" y="609" type="line"/>
+      <point x="27" y="574" type="line"/>
+      <point x="85" y="587" type="line"/>
+      <point x="90" y="38" type="line"/>
+      <point x="33" y="35" type="line"/>
+      <point x="33" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-08 14:41:57 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>270</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>33</integer>
+          <key>y</key>
+          <integer>12</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

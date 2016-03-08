@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotsverticalbelow-ar" format="1">
+  <advance width="143"/>
+  <unicode hex="FBBE"/>
+  <outline>
+    <component base="dotcenter-ar" yOffset="-300"/>
+    <component base="dotcenter-ar" xOffset="3" yOffset="-419"/>
+    <contour>
+      <point x="75" y="187" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="75" y="-109" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-19 15:10:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

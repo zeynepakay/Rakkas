@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam_meem-ar" format="1">
+  <advance width="428"/>
+  <unicode hex="FC42"/>
+  <outline>
+    <component base="meem-ar.fina.all1"/>
+    <component base="lam-ar.init.all1" xOffset="207" yOffset="157"/>
+    <contour>
+      <point x="245" y="717" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="272" y="-20" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="72" y="268" type="move" name="top_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-02 17:20:38 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>lam-ar.init.all1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

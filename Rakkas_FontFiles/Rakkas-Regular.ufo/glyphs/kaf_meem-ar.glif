@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf_meem-ar" format="1">
+  <advance width="491"/>
+  <unicode hex="FC3C"/>
+  <outline>
+    <component base="meem-ar.fina.all1"/>
+    <component base="lam-ar.init.all1" xOffset="207" yOffset="157"/>
+    <component base="_part.Kafflag" xOffset="128" yOffset="172"/>
+    <contour>
+      <point x="239" y="727" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="272" y="-40" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="72" y="268" type="move" name="top_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-04 14:07:44 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>lam-ar.init.all1</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

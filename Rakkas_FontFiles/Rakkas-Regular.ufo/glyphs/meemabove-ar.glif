@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="meemabove-ar" format="1">
+  <advance width="187"/>
+  <unicode hex="06D8"/>
+  <outline>
+    <component base="meembelow-ar" yOffset="540"/>
+    <contour>
+      <point x="82" y="671" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="135" y="513" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-04 13:47:44 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>meembelow-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jeem-ar.init" format="1">
+  <advance width="509"/>
+  <unicode hex="FE9F"/>
+  <outline>
+    <component base="hah-ar.init"/>
+    <component base="dotbelow-ar" xOffset="177" yOffset="-22"/>
+    <contour>
+      <point x="29" y="62" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="350" y="433" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-29 10:45:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="568"/>
+  <unicode hex="0118"/>
+  <outline>
+    <component base="E"/>
+    <component base="ogonekcomb.case" xOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-08 11:46:08 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>469</integer>
+          <key>y</key>
+          <integer>-231</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

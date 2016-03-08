@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beh_heh-ar.medi" format="1">
+  <advance width="635"/>
+  <unicode hex="FCE2"/>
+  <outline>
+    <component base="dotlessbeh_heh-ar.medi"/>
+    <component base="dotbelow-ar" xOffset="443" yOffset="-179"/>
+    <contour>
+      <point x="600" y="-60" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="509" y="-341" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="500" y="208" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="172" y="194" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="30" y="46" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="221" y="-337" type="move" name="bottom_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-03 19:48:27 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>beh_heh-ar.init</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>dotlessbeh-ar.medi.all2</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>204</integer>
+                <integer>-175</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>beh_heh-ar.medi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>635</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

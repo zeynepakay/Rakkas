@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theh-ar.fina" format="1">
+  <advance width="761"/>
+  <unicode hex="FE9A"/>
+  <outline>
+    <component base="dotlessbeh-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="341" yOffset="-93"/>
+    <contour>
+      <point x="723" y="122" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="357" y="-45" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 23:54:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

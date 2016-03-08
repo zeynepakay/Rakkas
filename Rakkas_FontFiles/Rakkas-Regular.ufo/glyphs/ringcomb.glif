@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb" format="1">
+  <advance width="600"/>
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="343" y="568"/>
+      <point x="380" y="613"/>
+      <point x="380" y="669" type="curve" smooth="yes"/>
+      <point x="380" y="724"/>
+      <point x="343" y="769"/>
+      <point x="280" y="769" type="curve" smooth="yes"/>
+      <point x="216" y="769"/>
+      <point x="179" y="724"/>
+      <point x="179" y="669" type="curve" smooth="yes"/>
+      <point x="179" y="613"/>
+      <point x="216" y="568"/>
+      <point x="280" y="568" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="243" y="605"/>
+      <point x="217" y="630"/>
+      <point x="217" y="669" type="curve" smooth="yes"/>
+      <point x="217" y="707"/>
+      <point x="243" y="732"/>
+      <point x="280" y="732" type="curve" smooth="yes"/>
+      <point x="317" y="732"/>
+      <point x="343" y="707"/>
+      <point x="343" y="669" type="curve" smooth="yes"/>
+      <point x="343" y="630"/>
+      <point x="317" y="605"/>
+      <point x="280" y="605" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="279" y="601" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 15:45:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefHamzaabove-ar.fina" format="1">
+  <advance width="228"/>
+  <unicode hex="FE84"/>
+  <outline>
+    <component base="alef-ar.fina"/>
+    <component base="hamzaabove-ar" xOffset="-2" yOffset="139"/>
+    <contour>
+      <point x="193" y="84" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="105" y="801" type="move" name="top_d"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-28 00:06:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeh_heh-ar.medi" format="1">
+  <advance width="635"/>
+  <unicode hex="FCF1"/>
+  <outline>
+    <component base="dotlessbeh_heh-ar.medi"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="407" yOffset="-179"/>
+    <contour>
+      <point x="600" y="-60" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="507" y="-316" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="500" y="208" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="172" y="194" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="30" y="46" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="221" y="-337" type="move" name="bottom_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-03 19:48:50 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>yeh-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>heh-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

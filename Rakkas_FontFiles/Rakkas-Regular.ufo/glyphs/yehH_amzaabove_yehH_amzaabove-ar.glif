@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehHamzaabove_yehHamzaabove-ar" format="1">
+  <advance width="619"/>
+  <outline>
+    <component base="dotlessbeh_yeh-ar"/>
+    <component base="hamzaabove-ar" xOffset="78" yOffset="40"/>
+    <component base="hamzaabove-ar" xOffset="360" yOffset="186"/>
+    <contour>
+      <point x="466" y="854" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="537" y="62" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="194" y="708" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="269" y="-58" type="move" name="bottom_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-03 20:59:00 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>yehHamzaabove-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>yehHamzaabove-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
