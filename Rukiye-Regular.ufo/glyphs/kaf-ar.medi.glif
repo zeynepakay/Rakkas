@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf-ar.medi" format="1">
+  <advance width="600"/>
+  <unicode hex="FEDC"/>
+  <outline>
+    <contour>
+      <point x="347" y="621" type="line"/>
+      <point x="370" y="656"/>
+      <point x="397" y="690"/>
+      <point x="430" y="725" type="curve"/>
+      <point x="531" y="781"/>
+      <point x="636" y="818"/>
+      <point x="747" y="835" type="curve"/>
+      <point x="726" y="790"/>
+      <point x="699" y="747"/>
+      <point x="664" y="706" type="curve"/>
+      <point x="557" y="687"/>
+      <point x="456" y="658"/>
+      <point x="358" y="608" type="curve"/>
+    </contour>
+    <component base="lam-ar.medi"/>
+    <contour>
+      <point x="438" y="89" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="114" y="95" type="move" name="exit"/>
+    </contour>
+  </outline>
+</glyph>

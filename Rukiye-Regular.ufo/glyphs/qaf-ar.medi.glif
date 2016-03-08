@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qaf-ar.medi" format="1">
+  <advance width="600"/>
+  <unicode hex="FED8"/>
+  <outline>
+    <component base="dotlessfeh-ar.medi"/>
+    <component base="twodotshorizontalabove-ar" xOffset="10" yOffset="50"/>
+    <contour>
+      <point x="511" y="132" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="76" y="86" type="move" name="exit"/>
+    </contour>
+  </outline>
+</glyph>

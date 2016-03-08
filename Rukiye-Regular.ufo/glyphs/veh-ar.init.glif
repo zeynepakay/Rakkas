@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="veh-ar.init" format="1">
+  <advance width="600"/>
+  <unicode hex="FB6C"/>
+  <outline>
+    <component base="dotlessfeh-ar.init"/>
+    <component base="threedotsupabove-ar" xOffset="170" yOffset="-20"/>
+    <contour>
+      <point x="204" y="37" type="move" name="exit"/>
+    </contour>
+  </outline>
+</glyph>

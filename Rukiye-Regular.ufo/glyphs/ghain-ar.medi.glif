@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghain-ar.medi" format="1">
+  <advance width="598"/>
+  <unicode hex="FED0"/>
+  <outline>
+    <component base="ain-ar.medi"/>
+    <component base="dotabove-ar" xOffset="73" yOffset="97"/>
+    <contour>
+      <point x="523" y="142" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="49" y="92" type="move" name="exit"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeh-ar.medi" format="1">
+  <advance width="413"/>
+  <unicode hex="FEF4"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="-130"/>
+    <contour>
+      <point x="344" y="101" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="80" y="91" type="move" name="exit"/>
+    </contour>
+  </outline>
+</glyph>
