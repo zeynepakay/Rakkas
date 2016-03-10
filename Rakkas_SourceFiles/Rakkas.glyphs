@@ -1,7 +1,8 @@
 {
 .appVersion = "854";
 DisplayStrings = (
-"\U00ED\U00EC"
+"/noon-ar.fina",
+"/kaf_jeem-ar.init/kaf_hah-ar.init/kaf_khah-ar.init"
 );
 classes = (
 {
@@ -138,7 +139,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature ccmp;\012feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012feature init;\012feature medi;\012feature fina;\012feature rlig;\012feature calt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature ss08;\012feature lnum;\012feature onum;\012";
+code = "feature ccmp;\012feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012feature init;\012feature medi;\012feature fina;\012feature rlig;\012feature calt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature ss08;\012feature lnum;\012feature onum;\012feature ss09;\012";
 name = aalt;
 },
 {
@@ -148,7 +149,7 @@ name = ccmp;
 },
 {
 automatic = 1;
-code = "script latn;\012language ROM;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012";
+code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012";
 name = locl;
 },
 {
@@ -172,6 +173,7 @@ code = "sub gravecomb by gravecomb.case;\012sub acutecomb by acutecomb.case;\012
 name = case;
 },
 {
+automatic = 1;
 code = "sub dotlessbeh-ar by dotlessbeh-ar.init;\012sub beh-ar by beh-ar.init;\012sub teh-ar by teh-ar.init;\012sub theh-ar by theh-ar.init;\012sub jeem-ar by jeem-ar.init;\012sub hah-ar by hah-ar.init;\012sub khah-ar by khah-ar.init;\012sub seen-ar by seen-ar.init;\012sub sheen-ar by sheen-ar.init;\012sub sad-ar by sad-ar.init;\012sub dad-ar by dad-ar.init;\012sub tah-ar by tah-ar.init;\012sub zah-ar by zah-ar.init;\012sub ain-ar by ain-ar.init;\012sub ghain-ar by ghain-ar.init;\012sub feh-ar by feh-ar.init;\012sub veh-ar by veh-ar.init;\012sub dotlessfeh-ar by dotlessfeh-ar.init;\012sub qaf-ar by qaf-ar.init;\012sub kaf-ar by kaf-ar.init;\012sub lam-ar by lam-ar.init;\012sub meem-ar by meem-ar.init;\012sub noon-ar by noon-ar.init;\012sub heh-ar by heh-ar.init;\012sub yeh-ar by yeh-ar.init;\012sub yehHamzaabove-ar by yehHamzaabove-ar.init;\012sub kaf_meem-ar by kaf_meem-ar.init;\012sub lam_meem-ar by lam_meem-ar.init;\012";
 name = init;
 },
@@ -186,7 +188,7 @@ code = "sub alef-ar by alef-ar.fina;\012sub alefHamzaabove-ar by alefHamzaabove-
 name = fina;
 },
 {
-code = "lookup dlig_RTL {\012lookupflag IgnoreMarks RightToLeft;\012	sub alef-ar lam-ar.init lam-ar.medi heh-ar.fina by allah-ar;\012	sub lam-ar.init alef-ar.fina by lam_alef-ar;\012	sub lam-ar.medi alef-ar.fina by lam_alef-ar.fina;\012	sub lam-ar.init alefHamzaabove-ar.fina by lam_alefHamzaabove-ar;\012	sub lam-ar.medi alefHamzaabove-ar.fina by lam_alefHamzaabove-ar.fina;\012	sub lam-ar.init alefHamzabelow-ar.fina by lam_alefHamzabelow-ar;\012	sub lam-ar.medi alefHamzabelow-ar.fina by lam_alefHamzabelow-ar.fina;\012	sub lam-ar.init alefMadda-ar.fina by lam_alefMadda-ar;\012	sub lam-ar.medi alefMadda-ar.fina by lam_alefMadda-ar.fina;\012	sub lam-ar.init alefWasla-ar.fina by lam_alefWasla-ar;\012	sub lam-ar.medi alefWasla-ar.fina by lam_alefWasla-ar.fina;\012	sub alefHamzaabove-ar alefMaksura-ar.fina by alefHamzaabove_alefMaksura-ar;\012	sub beh-ar.medi heh-ar.medi by beh_heh-ar.medi;\012	sub beh-ar.init heh-ar.medi by beh_heh-ar.init;\012	sub beh-ar.init alefMaksura-ar.fina by beh_alefMaksura-ar;\012	sub beh-ar.init yeh-ar.fina by beh_yeh-ar;\012	sub beh-ar.init yehHamzaabove-ar.fina by beh_yehHamzaabove-ar;\012	sub teh-ar.medi heh-ar.medi by teh_heh-ar.medi;\012	sub teh-ar.init heh-ar.medi by teh_heh-ar.init;\012	sub teh-ar.init alefMaksura-ar.fina by teh_alefMaksura-ar;\012	sub teh-ar.init yeh-ar.fina by teh_yeh-ar;\012	sub teh-ar.init yehHamzaabove-ar.fina by teh_yehHamzaabove-ar;\012	sub theh-ar.medi heh-ar.medi by theh_heh-ar.medi;\012	sub theh-ar.init heh-ar.medi by theh_heh-ar.init;\012	sub theh-ar.init alefMaksura-ar.fina by theh_alefMaksura-ar;\012	sub theh-ar.init yeh-ar.fina by theh_yeh-ar;\012	sub theh-ar.init yehHamzaabove-ar.fina by theh_yehHamzaabove-ar;\012	sub feh-ar.init alefMaksura-ar.fina by feh_alefMaksura-ar;\012	sub feh-ar.init yeh-ar.fina by feh_yeh-ar;\012	sub feh-ar.init yehHamzaabove-ar.fina by feh_yehHamzaabove-ar;\012	sub qaf-ar.init alefMaksura-ar.fina by qaf_alefMaksura-ar;\012	sub qaf-ar.init yeh-ar.fina by qaf_yeh-ar;\012	sub qaf-ar.init yehHamzaabove-ar.fina by qaf_yehHamzaabove-ar;\012	sub kaf-ar.init jeem-ar.medi by kaf_jeem-ar.init;\012	sub kaf-ar.init hah-ar.medi by kaf_hah-ar.init;\012	sub kaf-ar.init khah-ar.medi by kaf_khah-ar.init;\012	sub kaf-ar.init meem-ar.fina by kaf_meem-ar;\012	sub kaf-ar.init meem-ar.medi by kaf_meem-ar.init;\012	sub kaf-ar.init alefMaksura-ar.fina by kaf_alefMaksura-ar;\012	sub kaf-ar.init yeh-ar.fina by kaf_yeh-ar;\012	sub kaf-ar.init yehHamzaabove-ar.fina by kaf_yehHamzaabove-ar;\012	sub lam-ar.init meem-ar.fina by lam_meem-ar;\012	sub lam-ar.init meem-ar.medi by lam_meem-ar.init;\012	sub noon-ar.medi heh-ar.medi by noon_heh-ar.medi;\012	sub noon-ar.init heh-ar.medi by noon_heh-ar.init;\012	sub noon-ar.init alefMaksura-ar.fina by noon_alefMaksura-ar;\012	sub noon-ar.init yeh-ar.fina by noon_yeh-ar;\012	sub noon-ar.init yehHamzaabove-ar.fina by noon_yehHamzaabove-ar;\012	sub yeh-ar.medi heh-ar.medi by yeh_heh-ar.medi;\012	sub yeh-ar.init heh-ar.medi by yeh_heh-ar.init;\012	sub yehHamzaabove-ar.medi heh-ar.medi by yehHamzaabove_heh-ar.medi;\012	sub yehHamzaabove-ar.init heh-ar.medi by yehHamzaabove_heh-ar.init;\012	sub yehHamzaabove-ar.init alefMaksura-ar.fina by yehHamzaabove_alefMaksura-ar;\012	sub yehHamzaabove-ar.init yeh-ar.fina by yehHamzaabove_yeh-ar;\012	sub yehHamzaabove-ar.init yehHamzaabove-ar.fina by yehHamzaabove_yehHamzaabove-ar;\012	sub alef-ar lam-ar.init lam-ar.medi heh-ar.fina by allah-ar;\012} dlig_RTL;\012\012";
+code = "lookup dlig_RTL {\012lookupflag IgnoreMarks RightToLeft;\012	sub alef-ar lam-ar.init lam-ar.medi heh-ar.fina by allah-ar;\012	sub lam-ar.init alef-ar.fina by lam_alef-ar;\012	sub lam-ar.medi alef-ar.fina by lam_alef-ar.fina;\012	sub lam-ar.init alefHamzaabove-ar.fina by lam_alefHamzaabove-ar;\012	sub lam-ar.medi alefHamzaabove-ar.fina by lam_alefHamzaabove-ar.fina;\012	sub lam-ar.init alefHamzabelow-ar.fina by lam_alefHamzabelow-ar;\012	sub lam-ar.medi alefHamzabelow-ar.fina by lam_alefHamzabelow-ar.fina;\012	sub lam-ar.init alefMadda-ar.fina by lam_alefMadda-ar;\012	sub lam-ar.medi alefMadda-ar.fina by lam_alefMadda-ar.fina;\012	sub lam-ar.init alefWasla-ar.fina by lam_alefWasla-ar;\012	sub lam-ar.medi alefWasla-ar.fina by lam_alefWasla-ar.fina;\012	sub alefHamzaabove-ar alefMaksura-ar.fina by alefHamzaabove_alefMaksura-ar;\012	sub beh-ar.medi heh-ar.medi by beh_heh-ar.medi;\012	sub beh-ar.init heh-ar.medi by beh_heh-ar.init;\012	sub beh-ar.init alefMaksura-ar.fina by beh_alefMaksura-ar;\012	sub beh-ar.init yeh-ar.fina by beh_yeh-ar;\012	sub beh-ar.init yehHamzaabove-ar.fina by beh_yehHamzaabove-ar;\012	sub teh-ar.medi heh-ar.medi by teh_heh-ar.medi;\012	sub teh-ar.init heh-ar.medi by teh_heh-ar.init;\012	sub teh-ar.init alefMaksura-ar.fina by teh_alefMaksura-ar;\012	sub teh-ar.init yeh-ar.fina by teh_yeh-ar;\012	sub teh-ar.init yehHamzaabove-ar.fina by teh_yehHamzaabove-ar;\012	sub theh-ar.medi heh-ar.medi by theh_heh-ar.medi;\012	sub theh-ar.init heh-ar.medi by theh_heh-ar.init;\012	sub theh-ar.init alefMaksura-ar.fina by theh_alefMaksura-ar;\012	sub theh-ar.init yeh-ar.fina by theh_yeh-ar;\012	sub theh-ar.init yehHamzaabove-ar.fina by theh_yehHamzaabove-ar;\012	sub feh-ar.init alefMaksura-ar.fina by feh_alefMaksura-ar;\012	sub feh-ar.init yeh-ar.fina by feh_yeh-ar;\012	sub feh-ar.init yehHamzaabove-ar.fina by feh_yehHamzaabove-ar;\012	sub qaf-ar.init alefMaksura-ar.fina by qaf_alefMaksura-ar;\012	sub qaf-ar.init yeh-ar.fina by qaf_yeh-ar;\012	sub qaf-ar.init yehHamzaabove-ar.fina by qaf_yehHamzaabove-ar;\012	sub kaf-ar.init jeem-ar.medi by kaf_jeem-ar.init;\012	sub kaf-ar.init hah-ar.medi by kaf_hah-ar.init;\012	sub kaf-ar.init khah-ar.medi by kaf_khah-ar.init;\012	sub lam-ar.init jeem-ar.medi by lam_jeem-ar.init;\012	sub lam-ar.init hah-ar.medi by lam_hah-ar.init;\012	sub lam-ar.init khah-ar.medi by lam_khah-ar.init;\012	sub kaf-ar.init meem-ar.fina by kaf_meem-ar;\012	sub kaf-ar.init meem-ar.medi by kaf_meem-ar.init;\012	sub kaf-ar.init alefMaksura-ar.fina by kaf_alefMaksura-ar;\012	sub kaf-ar.init yeh-ar.fina by kaf_yeh-ar;\012	sub kaf-ar.init yehHamzaabove-ar.fina by kaf_yehHamzaabove-ar;\012	sub lam-ar.init meem-ar.fina by lam_meem-ar;\012	sub lam-ar.init meem-ar.medi by lam_meem-ar.init;\012	sub noon-ar.medi heh-ar.medi by noon_heh-ar.medi;\012	sub noon-ar.init heh-ar.medi by noon_heh-ar.init;\012	sub noon-ar.init alefMaksura-ar.fina by noon_alefMaksura-ar;\012	sub noon-ar.init yeh-ar.fina by noon_yeh-ar;\012	sub noon-ar.init yehHamzaabove-ar.fina by noon_yehHamzaabove-ar;\012	sub yeh-ar.medi heh-ar.medi by yeh_heh-ar.medi;\012	sub yeh-ar.init heh-ar.medi by yeh_heh-ar.init;\012	sub yehHamzaabove-ar.medi heh-ar.medi by yehHamzaabove_heh-ar.medi;\012	sub yehHamzaabove-ar.init heh-ar.medi by yehHamzaabove_heh-ar.init;\012	sub yehHamzaabove-ar.init alefMaksura-ar.fina by yehHamzaabove_alefMaksura-ar;\012	sub yehHamzaabove-ar.init yeh-ar.fina by yehHamzaabove_yeh-ar;\012	sub yehHamzaabove-ar.init yehHamzaabove-ar.fina by yehHamzaabove_yehHamzaabove-ar;\012	sub alef-ar lam-ar.init lam-ar.medi heh-ar.fina by allah-ar;\012} dlig_RTL;\012\012";
 name = rlig;
 },
 {
@@ -199,7 +201,7 @@ code = "sub f f l by f_f_l;\012sub f f i by f_f_i;\012sub f i by fi;\012sub f l 
 name = liga;
 },
 {
-code = "#To replace the allograph form in instances of repeating beh forms\012lookup multiple_behs {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [@behInit @behMedi sad-ar.init sad-ar.medi dad-ar.init dad-ar.medi tah-ar.init tah-ar.medi zah-ar.init zah-ar.medi] @behMedi' by @behMediAll1;\012} multiple_behs; \012\012#To replace the initial allograph form of the beh shape group when followed by the jeem shape group\012lookup behInit_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' @jeemMedi by @behInitAll2;\012sub @behInitAll2 @jeemMedi' by @jeemMediAll1;\012sub @behInit' @jeemFina by @behInitAll2;\012sub @behInitAll2 @jeemFina' by @jeemFinaAll1;\012} behInit_jeem;\012\012#To replace the medial allograph form of the beh shape group when followed by the jeem shape group\012lookup behMedi_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behMedi' @jeemMedi by @behMediAll2;\012sub @behMediAll2 @jeemMedi' by @jeemMediAll1;\012sub @behMedi' @jeemFina by @behMediAll2;\012sub @behMediAll2 @jeemFina' by @jeemFinaAll1;\012} behMedi_jeem;\012\012#To replace the inital allograph form of the beh shape group when followed by meem\012lookup behInit_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' meem-ar.medi by @behInitAll2;\012sub @behInitAll2 meem-ar.medi' by meem-ar.medi.all2;\012sub @behInit' meem-ar.fina by @behInitAll2;\012sub @behInitAll2 meem-ar.fina' by meem-ar.fina.all2;\012} behInit_meem;\012\012#To replace the medial allograph form of the beh shape group when followed by meem\012lookup behMedi_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behMedi' meem-ar.medi by @behMediAll2;\012sub @behMediAll2 meem-ar.medi' by meem-ar.medi.all2;\012sub @behMedi' meem-ar.fina by @behMediAll2;\012sub @behMediAll2 meem-ar.fina' by meem-ar.fina.all2;\012} behMedi_meem;\012\012#To replace the inital allograph form of the beh shape group when followed by class @setBehInitAll1\012lookup behInitAll1{\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' @setBehInitAll1 by @behInitAll1;\012} behInitAll1;\012\012#To replace the inital allograph form of the jeem shape group when followed by class @jeemInitAll1\012lookup jeemInitAll1 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @jeemInit' @setJeemInitAll1 by @jeemInitAll1;\012sub @jeemInit' heh-ar.medi by @jeemInitAll1;\012sub @jeemInitAll1 heh-ar.medi' by heh-ar.medi.all1;\012} jeemInitAll1;\012\012#To replace the inital allograph form of the jeem shape group when followed by class @jeemInitAll2\012lookup jeemMediAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @jeemMedi @jeemMedi' by @jeemMediAll2;\012} jeemMediAll2;\012\012#To replace the inital allograph form of kaf when followed by vertical letters\012lookup kafInitAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub kaf-ar.init' [kaf-ar.medi kaf-ar.fina lam-ar.medi lam-ar.fina @alefFina] by kaf-ar.init.all2;\012} kafInitAll2;\012\012#To replace the medial allograph form of kaf when followed by vertical letters\012lookup kafMediAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012	\012sub kaf-ar.medi' [kaf-ar.medi kaf-ar.fina lam-ar.medi lam-ar.fina @alefFina] by kaf-ar.medi.all2;\012} kafMediAll2; \012\012#To replace the allograph form in instances of repeating seen forms\012lookup multiple_seens {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [seen-ar.medi sheen-ar.medi] [seen-ar.medi sheen-ar.medi]' by [seen-ar.medi.all1 sheen-ar.medi.all1];\012} multiple_seens;\012\012#lookup yehFinaAll1 {\012	#lookupflag IgnoreMarks RightToLeft;\012	#script arab;\012#sub [feh-ar.init qaf-ar.init veh-ar.init] @yehFina' by @yehFinaAll1;\012#sub @jeemInit @yehFina' by @yehFinaAll1;\012#sub @jeemInit' @yehFinaAll1 by @jeemInitAll1;\012#} yehFinaAll1;\012";
+code = "#To replace the allograph form in instances of repeating beh forms\012lookup multiple_behs {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [@behInit @behMedi sad-ar.init sad-ar.medi dad-ar.init dad-ar.medi tah-ar.init tah-ar.medi zah-ar.init zah-ar.medi] @behMedi' by @behMediAll1;\012} multiple_behs; \012\012#To replace the initial allograph form of the beh shape group when followed by the jeem shape group\012lookup behInit_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' @jeemMedi by @behInitAll2;\012sub @behInitAll2 @jeemMedi' by @jeemMediAll1;\012sub @behInit' @jeemFina by @behInitAll2;\012sub @behInitAll2 @jeemFina' by @jeemFinaAll1;\012} behInit_jeem;\012\012#To replace the medial allograph form of the beh shape group when followed by the jeem shape group\012lookup behMedi_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behMedi' @jeemMedi by @behMediAll2;\012sub @behMediAll2 @jeemMedi' by @jeemMediAll1;\012sub @behMedi' @jeemFina by @behMediAll2;\012sub @behMediAll2 @jeemFina' by @jeemFinaAll1;\012} behMedi_jeem;\012\012#To replace the inital allograph form of the beh shape group when followed by meem\012lookup behInit_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' meem-ar.medi by @behInitAll2;\012sub @behInitAll2 meem-ar.medi' by meem-ar.medi.all2;\012sub @behInit' meem-ar.fina by @behInitAll2;\012sub @behInitAll2 meem-ar.fina' by meem-ar.fina.all2;\012} behInit_meem;\012\012#To replace the medial allograph form of the beh shape group when followed by meem\012lookup behMedi_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behMedi' meem-ar.medi by @behMediAll2;\012sub @behMediAll2 meem-ar.medi' by meem-ar.medi.all2;\012sub @behMedi' meem-ar.fina by @behMediAll2;\012sub @behMediAll2 meem-ar.fina' by meem-ar.fina.all2;\012} behMedi_meem;\012\012#To replace the inital allograph form of the beh shape group when followed by class @setBehInitAll1\012lookup behInitAll1{\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' @setBehInitAll1 by @behInitAll1;\012} behInitAll1;\012\012#To replace the inital allograph form of the jeem shape group when followed by class @jeemInitAll1\012lookup jeemInitAll1 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @jeemInit' @setJeemInitAll1 by @jeemInitAll1;\012sub @jeemInit' heh-ar.medi by @jeemInitAll1;\012sub @jeemInitAll1 heh-ar.medi' by heh-ar.medi.all1;\012} jeemInitAll1;\012\012#To replace the inital allograph form of the jeem shape group when followed by class @jeemInitAll2\012lookup jeemMediAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @jeemMedi @jeemMedi' by @jeemMediAll2;\012} jeemMediAll2;\012\012#To replace the inital allograph form of kaf when followed by vertical letters\012lookup kafInitAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub kaf-ar.init' [kaf-ar.medi kaf-ar.fina lam-ar.medi lam-ar.fina @alefFina] by kaf-ar.init.all2;\012} kafInitAll2;\012\012#To replace the medial allograph form of kaf when followed by vertical letters\012lookup kafMediAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012	\012sub kaf-ar.medi' [kaf-ar.medi kaf-ar.fina lam-ar.medi lam-ar.fina @alefFina] by kaf-ar.medi.all2;\012} kafMediAll2; \012\012#To replace the allograph form in instances of repeating seen forms\012lookup multiple_seens {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [seen-ar.init seen-ar.medi sheen-ar.init sheen-ar.medi] [seen-ar.medi sheen-ar.medi]' by [seen-ar.medi.all1 sheen-ar.medi.all1];\012} multiple_seens;\012\012#lookup yehFinaAll1 {\012	#lookupflag IgnoreMarks RightToLeft;\012	#script arab;\012#sub [feh-ar.init qaf-ar.init veh-ar.init] @yehFina' by @yehFinaAll1;\012#sub @jeemInit @yehFina' by @yehFinaAll1;\012#sub @jeemInit' @yehFinaAll1 by @jeemInitAll1;\012#} yehFinaAll1;\012";
 name = calt;
 },
 {
@@ -27363,7 +27365,7 @@ width = 452;
 },
 {
 glyphname = "seen-ar.init";
-lastChange = "2016-02-29 00:26:43 +0000";
+lastChange = "2016-03-09 16:40:55 +0000";
 layers = (
 {
 anchors = (
@@ -27385,37 +27387,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"61 170 LINE",
-"171 181 OFFCURVE",
-"315 204 OFFCURVE",
-"437 233 CURVE",
-"451 213 LINE",
-"395 49 LINE",
-"366 53 LINE",
-"376 103 LINE",
-"282 68 OFFCURVE",
-"110 29 OFFCURVE",
-"0 18 CURVE"
+"-539 170 LINE",
+"-429 181 OFFCURVE",
+"-285 204 OFFCURVE",
+"-163 233 CURVE",
+"-149 213 LINE",
+"-205 49 LINE",
+"-234 53 LINE",
+"-224 103 LINE",
+"-318 68 OFFCURVE",
+"-490 29 OFFCURVE",
+"-600 18 CURVE"
 );
-}
-);
-};
-guideLines = (
-{
-angle = 69.648;
-position = "{-97, 116}";
 },
-{
-angle = 6;
-position = "{0, 13}";
-},
-{
-angle = 69;
-position = "{0, 18}";
-}
-);
-layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
-paths = (
 {
 closed = 1;
 nodes = (
@@ -27428,6 +27412,40 @@ nodes = (
 "403 225 LINE",
 "281 186 OFFCURVE",
 "166 163 OFFCURVE",
+"58 152 CURVE",
+"0 0 LINE"
+);
+}
+);
+};
+guideLines = (
+{
+angle = 69.648;
+position = "{-97, 116}";
+},
+{
+angle = 6;
+position = "{58, 152}";
+},
+{
+angle = 69;
+position = "{0, 18}";
+}
+);
+layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
+paths = (
+{
+closed = 1;
+nodes = (
+"123 13 OFFCURVE",
+"248 46 OFFCURVE",
+"342 85 CURVE",
+"332 35 LINE",
+"361 31 LINE",
+"417 195 LINE",
+"403 215 LINE",
+"284 185 OFFCURVE",
+"165 163 OFFCURVE",
 "58 152 CURVE",
 "0 0 LINE"
 );
@@ -37656,7 +37674,7 @@ unicode = FEDA;
 },
 {
 glyphname = "kaf-ar.medi";
-lastChange = "2016-03-04 14:06:57 +0000";
+lastChange = "2016-03-08 15:52:29 +0000";
 layers = (
 {
 anchors = (
@@ -37737,7 +37755,7 @@ transform = "{1, 0, 0, 1, -10, 0}";
 guideLines = (
 {
 angle = 6;
-position = "{258, 7}";
+position = "{258, -13}";
 }
 );
 layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
@@ -41500,7 +41518,99 @@ unicode = 0646;
 },
 {
 glyphname = "noon-ar.fina";
-lastChange = "2016-03-03 23:53:59 +0000";
+lastChange = "2016-03-09 21:42:12 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{224, -45}";
+},
+{
+name = entry;
+position = "{520, 250}";
+},
+{
+name = top;
+position = "{323, 450}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"584 152 LINE",
+"605 170 LINE",
+"648 287 LINE",
+"642 304 LINE",
+"613 301 LINE SMOOTH",
+"557 295 OFFCURVE",
+"532 274 OFFCURVE",
+"516 242 CURVE SMOOTH",
+"509 227 LINE SMOOTH",
+"475 159 OFFCURVE",
+"453 137 OFFCURVE",
+"420 137 CURVE SMOOTH",
+"312 137 OFFCURVE",
+"329 318 OFFCURVE",
+"219 318 CURVE",
+"155 252 OFFCURVE",
+"86 135 OFFCURVE",
+"35 32 CURVE",
+"60 19 LINE",
+"96 85 OFFCURVE",
+"143 157 OFFCURVE",
+"171 195 CURVE",
+"127 171 LINE",
+"137 175 OFFCURVE",
+"147 177 OFFCURVE",
+"155 177 CURVE SMOOTH",
+"242 176 OFFCURVE",
+"247 -15 OFFCURVE",
+"360 -15 CURVE SMOOTH",
+"409 -15 OFFCURVE",
+"440 23 OFFCURVE",
+"477 97 CURVE SMOOTH",
+"521 184 LINE SMOOTH",
+"481 141 LINE"
+);
+}
+);
+};
+components = (
+{
+name = "noon-ar";
+}
+);
+guideLines = (
+{
+angle = 6;
+position = "{491, 173}";
+}
+);
+layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
+paths = (
+{
+closed = 1;
+nodes = (
+"491 173 LINE",
+"512 191 LINE",
+"555 308 LINE",
+"549 325 LINE",
+"465 316 LINE",
+"416 165 LINE"
+);
+}
+);
+width = 519;
+}
+);
+unicode = FEE6;
+},
+{
+glyphname = "noon-ar.fina.all1";
+lastChange = "2016-03-09 21:40:54 +0000";
 layers = (
 {
 anchors = (
@@ -41875,98 +41985,6 @@ nodes = (
 }
 );
 width = 658;
-}
-);
-unicode = FEE6;
-},
-{
-glyphname = "noon-ar.fina.all1";
-lastChange = "2016-02-29 01:00:47 +0000";
-layers = (
-{
-anchors = (
-{
-name = bottom;
-position = "{224, -45}";
-},
-{
-name = entry;
-position = "{530, 251}";
-},
-{
-name = top;
-position = "{323, 450}";
-}
-);
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"584 152 LINE",
-"605 170 LINE",
-"648 287 LINE",
-"642 304 LINE",
-"613 301 LINE SMOOTH",
-"557 295 OFFCURVE",
-"532 274 OFFCURVE",
-"516 242 CURVE SMOOTH",
-"509 227 LINE SMOOTH",
-"475 159 OFFCURVE",
-"453 137 OFFCURVE",
-"420 137 CURVE SMOOTH",
-"312 137 OFFCURVE",
-"329 318 OFFCURVE",
-"219 318 CURVE",
-"155 252 OFFCURVE",
-"86 135 OFFCURVE",
-"35 32 CURVE",
-"60 19 LINE",
-"96 85 OFFCURVE",
-"143 157 OFFCURVE",
-"171 195 CURVE",
-"127 171 LINE",
-"137 175 OFFCURVE",
-"147 177 OFFCURVE",
-"155 177 CURVE SMOOTH",
-"242 176 OFFCURVE",
-"247 -15 OFFCURVE",
-"360 -15 CURVE SMOOTH",
-"409 -15 OFFCURVE",
-"440 23 OFFCURVE",
-"477 97 CURVE SMOOTH",
-"521 184 LINE SMOOTH",
-"481 141 LINE"
-);
-}
-);
-};
-components = (
-{
-name = "noon-ar";
-}
-);
-guideLines = (
-{
-angle = 6;
-position = "{487, 164}";
-}
-);
-layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
-paths = (
-{
-closed = 1;
-nodes = (
-"501 174 LINE",
-"522 192 LINE",
-"565 309 LINE",
-"559 326 LINE",
-"465 316 LINE",
-"416 165 LINE"
-);
-}
-);
-width = 519;
 }
 );
 },
@@ -47777,7 +47795,7 @@ rightKerningGroup = yehL;
 },
 {
 glyphname = "kaf_jeem-ar.init";
-lastChange = "2016-03-04 00:35:43 +0000";
+lastChange = "2016-03-09 22:23:16 +0000";
 layers = (
 {
 anchors = (
@@ -47790,7 +47808,7 @@ name = bottom_2;
 position = "{101, -167}";
 },
 {
-name = entry;
+name = exit;
 position = "{29, 62}";
 },
 {
@@ -47884,7 +47902,7 @@ unicode = FCC4;
 },
 {
 glyphname = "kaf_hah-ar.init";
-lastChange = "2016-03-04 00:35:39 +0000";
+lastChange = "2016-03-09 22:23:22 +0000";
 layers = (
 {
 anchors = (
@@ -47897,7 +47915,7 @@ name = bottom_1;
 position = "{325, 64}";
 },
 {
-name = entry;
+name = exit;
 position = "{29, 62}";
 },
 {
@@ -48032,7 +48050,7 @@ unicode = FCC5;
 },
 {
 glyphname = "kaf_khah-ar.init";
-lastChange = "2016-03-04 00:37:24 +0000";
+lastChange = "2016-03-09 22:23:44 +0000";
 layers = (
 {
 anchors = (
@@ -48045,7 +48063,7 @@ name = bottom_1;
 position = "{325, 64}";
 },
 {
-name = entry;
+name = exit;
 position = "{29, 62}";
 },
 {
@@ -48054,7 +48072,7 @@ position = "{151, 702}";
 },
 {
 name = top_2;
-position = "{390, 437}";
+position = "{414, 495}";
 }
 );
 background = {
@@ -48524,6 +48542,172 @@ leftKerningGroup = kaf.initR;
 leftMetricsKey = "kaf-ar.init";
 rightKerningGroup = yehL;
 rightMetricsKey = "yehHamzaabove-ar.fina";
+},
+{
+glyphname = "lam_jeem-ar.init";
+lastChange = "2016-03-09 22:22:41 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{87, -181}";
+},
+{
+name = bottom_1;
+position = "{325, 64}";
+},
+{
+name = exit;
+position = "{29, 62}";
+},
+{
+name = top_1;
+position = "{151, 702}";
+},
+{
+name = top_2;
+position = "{390, 352}";
+}
+);
+components = (
+{
+name = "lam_hah-ar.init";
+},
+{
+name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, 21, -21}";
+}
+);
+layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
+width = 371;
+}
+);
+leftMetricsKey = "lam-ar.init";
+rightMetricsKey = "jeem-ar.medi";
+unicode = FCC9;
+},
+{
+glyphname = "lam_hah-ar.init";
+lastChange = "2016-03-09 22:22:36 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{94, -44}";
+},
+{
+name = bottom_1;
+position = "{325, 64}";
+},
+{
+name = exit;
+position = "{29, 62}";
+},
+{
+name = top_1;
+position = "{151, 702}";
+},
+{
+name = top_2;
+position = "{390, 352}";
+}
+);
+layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
+paths = (
+{
+closed = 1;
+nodes = (
+"151 1 OFFCURVE",
+"252 41 OFFCURVE",
+"294 75 CURVE",
+"325 119 OFFCURVE",
+"356 227 OFFCURVE",
+"356 293 CURVE",
+"289 297 OFFCURVE",
+"157 314 OFFCURVE",
+"98 326 CURVE",
+"37 195 LINE",
+"112 182 OFFCURVE",
+"241 165 OFFCURVE",
+"297 166 CURVE",
+"290 179 LINE",
+"240 164 OFFCURVE",
+"183 150 OFFCURVE",
+"58 137 CURVE",
+"0 -15 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"226 419 LINE",
+"230 441 OFFCURVE",
+"242 579 OFFCURVE",
+"242 637 CURVE SMOOTH",
+"242 677 OFFCURVE",
+"240 709 OFFCURVE",
+"238 724 CURVE",
+"196 704 OFFCURVE",
+"146 657 OFFCURVE",
+"110 613 CURVE",
+"129 506 OFFCURVE",
+"137 414 OFFCURVE",
+"139 306 CURVE",
+"161 298 LINE"
+);
+}
+);
+width = 371;
+}
+);
+leftMetricsKey = "lam-ar.init";
+unicode = FCCA;
+},
+{
+glyphname = "lam_khah-ar.init";
+lastChange = "2016-03-09 22:22:44 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{94, -44}";
+},
+{
+name = bottom_1;
+position = "{325, 64}";
+},
+{
+name = exit;
+position = "{29, 62}";
+},
+{
+name = top_1;
+position = "{151, 702}";
+},
+{
+name = top_2;
+position = "{390, 512}";
+}
+);
+components = (
+{
+name = "lam_hah-ar.init";
+},
+{
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 269, 16}";
+}
+);
+layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
+width = 371;
+}
+);
+leftMetricsKey = "lam-ar.init";
+rightMetricsKey = "khah-ar.medi";
+unicode = FCCB;
 },
 {
 glyphname = "lam_lam_heh-ar";
@@ -59853,7 +60037,7 @@ unicode = 003D;
 },
 {
 glyphname = greater;
-lastChange = "2016-03-08 15:22:20 +0000";
+lastChange = "2016-03-08 15:38:41 +0000";
 layers = (
 {
 layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
@@ -59861,14 +60045,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"306 329 LINE",
-"306 366 LINE",
-"65 505 LINE",
-"28 469 LINE",
-"280 339 LINE",
-"280 355 LINE",
-"28 233 LINE",
-"65 197 LINE"
+"306 319 LINE",
+"306 356 LINE",
+"65 495 LINE",
+"28 459 LINE",
+"280 329 LINE",
+"280 345 LINE",
+"28 223 LINE",
+"65 187 LINE"
 );
 }
 );
@@ -60271,17 +60455,17 @@ unicode = 2212;
 },
 {
 glyphname = multiply;
-lastChange = "2016-03-07 14:05:53 +0000";
+lastChange = "2016-03-08 15:36:47 +0000";
 layers = (
 {
 guideLines = (
 {
 angle = 180;
-position = "{156, 404}";
+position = "{166, 465}";
 },
 {
 angle = 180;
-position = "{162, 144}";
+position = "{206, 295}";
 }
 );
 layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
@@ -60289,23 +60473,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"294 386 LINE",
-"276 417 LINE",
-"14 167 LINE",
-"38 127 LINE"
+"304 436 LINE",
+"286 467 LINE",
+"24 217 LINE",
+"48 177 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"296 165 LINE",
-"39 416 LINE",
-"18 390 LINE",
-"269 128 LINE"
+"306 215 LINE",
+"49 466 LINE",
+"28 440 LINE",
+"279 178 LINE"
 );
 }
 );
-width = 308;
+width = 328;
 }
 );
 unicode = 00D7;
@@ -60927,26 +61111,26 @@ unicode = 2030;
 },
 {
 glyphname = plus;
-lastChange = "2016-03-08 15:20:17 +0000";
+lastChange = "2016-03-08 15:36:53 +0000";
 layers = (
 {
 components = (
 {
 name = hyphen;
-transform = "{1, 0, 0, 1, -10, 70}";
+transform = "{1, 0, 0, 1, 0, 70}";
 },
 {
 name = hyphen;
-transform = "{0, -1, 1, 0, -90, 523}";
+transform = "{0, -1, 1, 0, -80, 523}";
 }
 );
 guideLines = (
 {
-position = "{233, 436}";
+position = "{243, 436}";
 }
 );
 layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
-width = 344;
+width = 364;
 }
 );
 unicode = 002B;
@@ -62922,7 +63106,7 @@ unicode = 212E;
 },
 {
 glyphname = literSign;
-lastChange = "2016-03-08 15:29:07 +0000";
+lastChange = "2016-03-08 15:35:54 +0000";
 layers = (
 {
 background = {
@@ -62978,16 +63162,16 @@ nodes = (
 "146 584 OFFCURVE",
 "146 343 CURVE SMOOTH",
 "146 70 OFFCURVE",
-"178 27 OFFCURVE",
-"239 27 CURVE SMOOTH",
-"260 27 OFFCURVE",
-"287 32 OFFCURVE",
-"318 47 CURVE",
-"325 16 LINE",
-"300 -2 OFFCURVE",
-"262 -16 OFFCURVE",
-"226 -16 CURVE SMOOTH",
-"126 -16 OFFCURVE",
+"168 27 OFFCURVE",
+"229 27 CURVE SMOOTH",
+"250 27 OFFCURVE",
+"277 32 OFFCURVE",
+"308 47 CURVE",
+"315 16 LINE",
+"290 -2 OFFCURVE",
+"252 -16 OFFCURVE",
+"216 -16 CURVE SMOOTH",
+"116 -16 OFFCURVE",
 "99 86 OFFCURVE",
 "99 321 CURVE SMOOTH",
 "99 624 OFFCURVE",
@@ -71583,6 +71767,10 @@ hyphen = 20;
 t = -10;
 x = -20;
 };
+"@MMK_L_f" = {
+"@MMK_R_quoteleft" = 39;
+question = 20;
+};
 "@MMK_L_g" = {
 "@MMK_R_l" = 15;
 "@MMK_R_n" = -10;
@@ -72068,6 +72256,121 @@ seven = -70;
 j = {
 j = 12;
 };
+lcaron = {
+"@MMK_R_D" = 100;
+"@MMK_R_E" = 100;
+"@MMK_R_I" = 100;
+"@MMK_R_K" = 100;
+"@MMK_R_L" = 100;
+"@MMK_R_N" = 83;
+"@MMK_R_P" = 100;
+"@MMK_R_R" = 100;
+"@MMK_R_S" = 50;
+"@MMK_R_T" = 140;
+"@MMK_R_U" = 119;
+"@MMK_R_V" = 140;
+"@MMK_R_Y" = 140;
+"@MMK_R_Z" = 104;
+"@MMK_R_f" = 67;
+"@MMK_R_i" = 54;
+"@MMK_R_k" = 127;
+"@MMK_R_l" = 117;
+"@MMK_R_quoteleft" = 90;
+"@MMK_R_quoteright" = 80;
+B = 100;
+F = 100;
+H = 100;
+J = 100;
+M = 57;
+Omega = 30;
+P = 100;
+X = 132;
+abreve = 60;
+adieresis = 40;
+amacron = 30;
+aring = 20;
+asciicircum = 40;
+asterisk = 130;
+atilde = 27;
+b = 120;
+backslash = 160;
+bar = 120;
+braceleft = 100;
+braceleft.alt = 90;
+braceright = 120;
+braceright.alt = 120;
+bracketleft = 110;
+bracketleft.alt = 110;
+bracketright = 110;
+bracketright.alt = 120;
+brokenbar = 120;
+ccaron = 30;
+copyright = 80;
+dagger = 130;
+daggerdbl = 120;
+degree = 132;
+ecaron = 30;
+edieresis = 30;
+eight = 23;
+eight.osf = 50;
+eth = 50;
+exclam = 80;
+five = 95;
+five.osf = 65;
+florin = 30;
+foursuperior = 50;
+gbreve = 55;
+germandbls = 17;
+hbar = 147;
+icircumflex = 88;
+idieresis = 124;
+igrave = 114;
+imacron = 114;
+integral = 90;
+j = 64;
+liraTurkish = 30;
+lozenge = 20;
+nine = 60;
+odieresis = 20;
+one = 100;
+one.osf = 70;
+onehalf = 110;
+onequarter = 100;
+onesuperior = 100;
+ordfeminine = 100;
+ordmasculine = 100;
+paragraph = 80;
+parenleft = 20;
+parenleft.alt = 20;
+parenright = 130;
+parenright.alt = 110;
+partialdiff = 100;
+percent = 60;
+perthousand = 60;
+product = 140;
+question = 68;
+quotedbl = 130;
+quotesingle = 130;
+registered = 80;
+ruble = 30;
+scaron = 60;
+section = 50;
+seven = 130;
+seven.osf = 100;
+summation = 130;
+thorn = 112;
+three = 100;
+three.osf = 90;
+threequarters = 110;
+threesuperior = 110;
+trademark = 130;
+two = 100;
+two.osf = 60;
+twosuperior = 120;
+yen = 90;
+zcaron = 56;
+zero = 20;
+};
 m = {
 "@MMK_R_u" = -10;
 p = -5;
@@ -72222,6 +72525,17 @@ t = {
 "@MMK_R_v" = -28;
 t = -5;
 };
+tcaron = {
+"@MMK_R_T" = 30;
+"@MMK_R_V" = 30;
+"@MMK_R_Y" = 20;
+X = 20;
+backslash = 23;
+dagger = 20;
+daggerdbl = 10;
+degree = 20;
+trademark = 20;
+};
 "teh-ar.init" = {
 "@MMK_R_beh.initR" = 0;
 };
@@ -72262,136 +72576,6 @@ T = 30;
 zero = {
 comma = -20;
 degree = -26;
-};
-lcaron = {
-"@MMK_R_l" = 117;
-b = 120;
-"@MMK_R_i" = 54;
-j = 64;
-"@MMK_R_k" = 127;
-exclam = 80;
-question = 68;
-thorn = 112;
-B = 100;
-"@MMK_R_D" = 100;
-"@MMK_R_E" = 100;
-F = 100;
-H = 100;
-"@MMK_R_I" = 100;
-J = 100;
-"@MMK_R_K" = 100;
-"@MMK_R_L" = 100;
-M = 57;
-"@MMK_R_N" = 83;
-P = 100;
-"@MMK_R_P" = 100;
-"@MMK_R_R" = 100;
-"@MMK_R_S" = 50;
-"@MMK_R_T" = 140;
-"@MMK_R_U" = 119;
-"@MMK_R_V" = 140;
-X = 132;
-"@MMK_R_Y" = 140;
-"@MMK_R_Z" = 104;
-abreve = 60;
-adieresis = 40;
-amacron = 30;
-aring = 20;
-atilde = 27;
-ccaron = 30;
-eth = 50;
-ecaron = 30;
-edieresis = 30;
-gbreve = 55;
-hbar = 147;
-icircumflex = 88;
-idieresis = 124;
-igrave = 114;
-imacron = 114;
-odieresis = 20;
-scaron = 60;
-germandbls = 17;
-zcaron = 56;
-"@MMK_R_f" = 67;
-ordfeminine = 100;
-ordmasculine = 100;
-Omega = 30;
-zero = 20;
-one = 100;
-two = 100;
-three = 100;
-five = 95;
-seven = 130;
-eight = 23;
-nine = 60;
-one.osf = 70;
-two.osf = 60;
-three.osf = 90;
-five.osf = 65;
-seven.osf = 100;
-eight.osf = 50;
-onehalf = 110;
-onequarter = 100;
-threequarters = 110;
-onesuperior = 100;
-twosuperior = 120;
-threesuperior = 110;
-foursuperior = 50;
-asterisk = 130;
-backslash = 160;
-quotedbl = 130;
-quotesingle = 130;
-braceleft = 100;
-braceright = 120;
-bracketleft = 110;
-bracketright = 110;
-parenleft = 20;
-parenright = 130;
-braceleft.alt = 90;
-braceright.alt = 120;
-bracketleft.alt = 110;
-bracketright.alt = 120;
-parenleft.alt = 20;
-parenright.alt = 110;
-"@MMK_R_quoteleft" = 90;
-"@MMK_R_quoteright" = 80;
-florin = 30;
-liraTurkish = 30;
-ruble = 30;
-yen = 90;
-integral = 90;
-partialdiff = 100;
-percent = 60;
-perthousand = 60;
-product = 140;
-summation = 130;
-lozenge = 20;
-bar = 120;
-brokenbar = 120;
-paragraph = 80;
-copyright = 80;
-registered = 80;
-section = 50;
-trademark = 130;
-degree = 132;
-asciicircum = 40;
-dagger = 130;
-daggerdbl = 120;
-};
-tcaron = {
-"@MMK_R_T" = 30;
-"@MMK_R_V" = 30;
-X = 20;
-"@MMK_R_Y" = 20;
-backslash = 23;
-trademark = 20;
-degree = 20;
-dagger = 20;
-daggerdbl = 10;
-};
-"@MMK_L_f" = {
-"@MMK_R_quoteleft" = 39;
-question = 20;
 };
 };
 };
