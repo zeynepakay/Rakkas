@@ -963,7 +963,9 @@
 	<key>@MMK_R_sad.initR</key>
 	<array>
 		<string>sad-ar.init</string>
+		<string>sad-ar.init.all1</string>
 		<string>dad-ar.init</string>
+		<string>dad-ar.init.all1</string>
 	</array>
 	<key>@MMK_R_sadR</key>
 	<array>

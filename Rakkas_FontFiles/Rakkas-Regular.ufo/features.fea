@@ -80,6 +80,7 @@ feature ss07;
 feature ss08;
 feature lnum;
 feature onum;
+feature ss09;
 } aalt;
 
 feature ccmp {
@@ -121,9 +122,13 @@ feature locl {
 # automatic
 script latn;
 language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
 sub Tcedilla by Tcommaaccent;
 sub tcedilla by tcommaaccent;
 language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
 sub Tcedilla by Tcommaaccent;
 sub tcedilla by tcommaaccent;
 } locl;
@@ -159,6 +164,7 @@ sub macron by macron.case;
 } case;
 
 feature init {
+# automatic
 sub dotlessbeh-ar by dotlessbeh-ar.init;
 sub beh-ar by beh-ar.init;
 sub teh-ar by teh-ar.init;
@@ -308,6 +314,9 @@ lookupflag IgnoreMarks RightToLeft;
 	sub kaf-ar.init jeem-ar.medi by kaf_jeem-ar.init;
 	sub kaf-ar.init hah-ar.medi by kaf_hah-ar.init;
 	sub kaf-ar.init khah-ar.medi by kaf_khah-ar.init;
+	sub lam-ar.init jeem-ar.medi by lam_jeem-ar.init;
+	sub lam-ar.init hah-ar.medi by lam_hah-ar.init;
+	sub lam-ar.init khah-ar.medi by lam_khah-ar.init;
 	sub kaf-ar.init meem-ar.fina by kaf_meem-ar;
 	sub kaf-ar.init meem-ar.medi by kaf_meem-ar.init;
 	sub kaf-ar.init alefMaksura-ar.fina by kaf_alefMaksura-ar;
@@ -442,7 +451,7 @@ sub kaf-ar.medi' [kaf-ar.medi kaf-ar.fina lam-ar.medi lam-ar.fina @alefFina] by 
 lookup multiple_seens {
 	lookupflag IgnoreMarks RightToLeft;
 	script arab;
-sub [seen-ar.medi sheen-ar.medi] [seen-ar.medi sheen-ar.medi]' by [seen-ar.medi.all1 sheen-ar.medi.all1];
+sub [seen-ar.init seen-ar.medi sheen-ar.init sheen-ar.medi] [seen-ar.medi sheen-ar.medi]' by [seen-ar.medi.all1 sheen-ar.medi.all1];
 } multiple_seens;
 
 #lookup yehFinaAll1 {
@@ -452,6 +461,46 @@ sub [seen-ar.medi sheen-ar.medi] [seen-ar.medi sheen-ar.medi]' by [seen-ar.medi.
 #sub @jeemInit @yehFina' by @yehFinaAll1;
 #sub @jeemInit' @yehFinaAll1 by @jeemInitAll1;
 #} yehFinaAll1;
+
+#To replace the initial allograph form of sad shape group when followed by the jeem shape group
+lookup sadInit_jeem {
+	lookupflag IgnoreMarks RightToLeft;
+	script arab;
+sub [sad-ar.init dad-ar.init]' @jeemMedi by [sad-ar.init.all1 dad-ar.init.all1];
+sub [sad-ar.init.all1 dad-ar.init.all1] @jeemMedi' by @jeemMediAll1;
+sub [sad-ar.init dad-ar.init]' @jeemFina by [sad-ar.init.all1 dad-ar.init.all1];
+sub [sad-ar.init.all1 dad-ar.init.all1] @jeemFina' by @jeemFinaAll1;
+} sadInit_jeem;
+
+#To replace the medial allograph form of sad shape group when followed by the jeem shape group
+lookup sadMedi_jeem {
+	lookupflag IgnoreMarks RightToLeft;
+	script arab;
+sub [sad-ar.medi dad-ar.medi]' @jeemMedi by [sad-ar.medi.all1 dad-ar.medi.all1];
+sub [sad-ar.medi.all1 dad-ar.medi.all1] @jeemMedi' by @jeemMediAll1;
+sub [sad-ar.medi dad-ar.medi]' @jeemFina by [sad-ar.medi.all1 dad-ar.medi.all1];
+sub [sad-ar.medi.all1 dad-ar.medi.all1] @jeemFina' by @jeemFinaAll1;
+} sadMedi_jeem;
+
+#To replace the inital allograph form of sad shape group when followed by meem
+lookup sadInit_meem {
+	lookupflag IgnoreMarks RightToLeft;
+	script arab;
+sub [sad-ar.init dad-ar.init]' meem-ar.medi by [sad-ar.init.all1 dad-ar.init.all1];
+sub [sad-ar.init.all1 dad-ar.init.all1] meem-ar.medi' by meem-ar.medi.all2;
+sub [sad-ar.init dad-ar.init]' meem-ar.fina by [sad-ar.init.all1 dad-ar.init.all1];
+sub [sad-ar.init.all1 dad-ar.init.all1] meem-ar.fina' by meem-ar.fina.all2;
+} sadInit_meem;
+
+#To replace the medial allograph form of sad shape group when followed by meem
+lookup sadMedi_meem {
+	lookupflag IgnoreMarks RightToLeft;
+	script arab;
+sub [sad-ar.medi dad-ar.medi]' meem-ar.medi by [sad-ar.medi.all1 dad-ar.medi.all1];
+sub [sad-ar.medi.all1 dad-ar.medi.all1] meem-ar.medi' by meem-ar.medi.all2;
+sub [sad-ar.medi dad-ar.medi]' meem-ar.fina by [sad-ar.medi.all1 dad-ar.medi.all1];
+sub [sad-ar.medi.all1 dad-ar.medi.all1] meem-ar.fina' by meem-ar.fina.all2;
+} sadMedi_meem;
 } calt;
 
 feature ss01 {

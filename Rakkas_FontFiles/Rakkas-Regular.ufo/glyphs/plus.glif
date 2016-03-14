@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="1">
-  <advance width="344"/>
+  <advance width="364"/>
   <unicode hex="002B"/>
   <outline>
-    <component base="hyphen" xOffset="-10" yOffset="70"/>
-    <component base="hyphen" xOffset="-90" yOffset="523" xScale="0" yScale="0" xyScale="-1" yxScale="1"/>
+    <component base="hyphen" yOffset="70"/>
+    <component base="hyphen" xOffset="-80" yOffset="523" xScale="0" yScale="0" xyScale="-1" yxScale="1"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-03-08 15:20:17 +0000</string>
+      <string>2016-03-08 15:36:53 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
@@ -18,7 +18,7 @@
           <key>isGlobal</key>
           <false/>
           <key>x</key>
-          <integer>233</integer>
+          <integer>243</integer>
           <key>y</key>
           <integer>436</integer>
         </dict>

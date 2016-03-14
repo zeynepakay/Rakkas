@@ -436,8 +436,12 @@
 	<string>dad-ar.fina.all2.glif</string>
 	<key>dad-ar.init</key>
 	<string>dad-ar.init.glif</string>
+	<key>dad-ar.init.all1</key>
+	<string>dad-ar.init.all1.glif</string>
 	<key>dad-ar.medi</key>
 	<string>dad-ar.medi.glif</string>
+	<key>dad-ar.medi.all1</key>
+	<string>dad-ar.medi.all1.glif</string>
 	<key>dagger</key>
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
@@ -872,6 +876,12 @@
 	<string>lam_alefW_asla-ar.glif</string>
 	<key>lam_alefWasla-ar.fina</key>
 	<string>lam_alefW_asla-ar.fina.glif</string>
+	<key>lam_hah-ar.init</key>
+	<string>lam_hah-ar.init.glif</string>
+	<key>lam_jeem-ar.init</key>
+	<string>lam_jeem-ar.init.glif</string>
+	<key>lam_khah-ar.init</key>
+	<string>lam_khah-ar.init.glif</string>
 	<key>lam_lam_heh-ar</key>
 	<string>lam_lam_heh-ar.glif</string>
 	<key>lam_meem-ar</key>
@@ -1132,8 +1142,12 @@
 	<string>sad-ar.fina.glif</string>
 	<key>sad-ar.init</key>
 	<string>sad-ar.init.glif</string>
+	<key>sad-ar.init.all1</key>
+	<string>sad-ar.init.all1.glif</string>
 	<key>sad-ar.medi</key>
 	<string>sad-ar.medi.glif</string>
+	<key>sad-ar.medi.all1</key>
+	<string>sad-ar.medi.all1.glif</string>
 	<key>scaron</key>
 	<string>scaron.glif</string>
 	<key>scedilla</key>

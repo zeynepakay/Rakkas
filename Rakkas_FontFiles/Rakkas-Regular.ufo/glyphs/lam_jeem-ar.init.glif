@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam_jeem-ar.init" format="1">
+  <advance width="371"/>
+  <unicode hex="FCC9"/>
+  <outline>
+    <component base="lam_hah-ar.init"/>
+    <component base="dotbelow-ar" xOffset="21" yOffset="-21"/>
+    <contour>
+      <point x="151" y="702" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="325" y="64" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="390" y="352" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="29" y="62" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="87" y="-181" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-09 22:22:41 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>jeem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>
