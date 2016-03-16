@@ -1,7 +1,30 @@
 ![Rakkas](/public/Rakkas.png)
-Rakkas is single-weight dual-script display typeface developed for the Google Webfont library. It comprises an Arabic, inspired by Ruq'ah lettering on Egyptian movie posters of the 50s and 60s, and a Latin that merges blackletter strokes with informality. Rakkas' Arabic makes use of contextual alternates to emulate Ruq'ah lettering. 
-It features several different forms for many of its letter's positions (there are three different initial behs, the use of which depend on the proceeding letter), in order to ensure the greatest amount of fidelity to traditional Ruq'ah's whimsy and fluidity. It also cascades vertically, giving the user an opportunity to play with wordspacing. One of the things the Latin and Arabic have in common is the stroke that shape the letters. For Arabic, it's standard for the horizontal stroke to be the thickest. For Latin, developed later, it was about being complimentary, yet still contextually relevant. This lent itself to a thick horizontal instroke, as in the lowercase 'a', and to the occasional entire reversal of contrast, as in the lowercase 'z'. For Arabic, the dot marks are significicantly smaller than what one might expect; they don't share the thickness of the stroke. This was another quirk adopted from many of the lettering samples used as reference. Latin follows suit: Not only are the diacritics quite a bit smaller, but also many of the punctuation marks, symbols, etc, make use of the thin monolinear stroke, instead of the more common use of stem width. The result is two scripts united under a stylistic umbrella but neither pretending to be the other, and each interesting in its own right.
 
-The next steps for Rakkas is to widen its language support; for Latin up to Latin 5, for Arabic, Urdu and Persian.
+Rakkas is single-weight display typeface that supports the Arabic and Latin scripts. 
+The Arabic design is inspired by Ruq'ah lettering on Egyptian movie posters from the 50s and 60s, and makes use of contextual alternates to emulate calligraphy. 
+It offers several different forms for many letter positions. 
+For example, there are three different initial behs, and which is shown depends on the proceeding letter. 
+This increases the fidelity to the whimsy and fluidity of traditional Ruq'ah. 
+It also cascades vertically, giving the user an opportunity to play with wordspacing. 
 
-You can catch up with the early stages of Rakkas' design on [the project site](theruqahproject.com).The blog will pick up updates once the initial release is complete.
+The Latin design infuses a blackletter design with informality. 
+One of the things the Latin and Arabic have in common is the stroke that shapes each letter. 
+In Arabic letterform traditions the horizontal stroke is typically the thickest. 
+The Latin design was initiated after the Arabic design was established, to be both visually complimentary and contextually relevant. 
+This led to the Latin design's thick horizontal instrokes, seen in the lowercase a, and to the occasional moments where the traditional stroke contrast is reversed, as in the lowercase z. 
+The Arabic dot marks are significantly smaller than what one might expect, as they do not share the thickness of the stroke. 
+This was another quirk adopted from many of the lettering samples that were used as reference material. 
+The Latin follows suit: 
+Not only are the diacritics quite a bit smaller, but also many of the punctuation marks and symbols make use of the thin monolinear stroke instead of the more common stem width. 
+
+The result is two scripts united under a stylistic umbrella but neither pretending to be the other, and each interesting in its own right. 
+Learn more at [theruqahproject.com](https://theruqahproject.com)
+
+The Rakkas project is led by Zeynep Akay, a type designer based in London, UK. 
+To contribute, see [github.com/zeynepakay/Rakkas](https://github.com/zeynepakay/Rakkas)
+
+## Roadmap
+
+The next steps for Rakkas is to widen its language support. 
+The Latin can be expanded to support the Adobe Latin 5 glyph set.
+The Arabic can be expanded to support Urdu and Persian languages.
