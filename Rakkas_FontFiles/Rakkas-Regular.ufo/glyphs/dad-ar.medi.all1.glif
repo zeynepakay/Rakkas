@@ -8,10 +8,10 @@
       <point x="682" y="98" type="move" name="entry"/>
     </contour>
     <contour>
-      <point x="21" y="20" type="move" name="exit"/>
+      <point x="458" y="-35" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="458" y="-35" type="move" name="bottom"/>
+      <point x="21" y="20" type="move" name="exit"/>
     </contour>
   </outline>
   <lib>

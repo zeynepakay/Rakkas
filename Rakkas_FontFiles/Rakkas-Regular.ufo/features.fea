@@ -366,7 +366,7 @@ feature calt {
 lookup multiple_behs {
 	lookupflag IgnoreMarks RightToLeft;
 	script arab;
-sub [@behInit @behMedi sad-ar.init sad-ar.medi dad-ar.init dad-ar.medi tah-ar.init tah-ar.medi zah-ar.init zah-ar.medi] @behMedi' by @behMediAll1;
+sub [@behInit @behMedi sad-ar.init sad-ar.medi dad-ar.init dad-ar.medi tah-ar.init tah-ar.medi zah-ar.init zah-ar.medi @ArDiacritics @ArDiacriticsAlt] @behMedi' by @behMediAll1;
 } multiple_behs; 
 
 #To replace the initial allograph form of the beh shape group when followed by the jeem shape group

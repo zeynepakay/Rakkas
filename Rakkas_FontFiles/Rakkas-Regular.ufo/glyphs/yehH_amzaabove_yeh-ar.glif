@@ -4,16 +4,16 @@
   <unicode hex="FC04"/>
   <outline>
     <component base="dotlessbeh_yeh-ar"/>
-    <component base="hamzaabove-ar" xOffset="78" yOffset="40"/>
+    <component base="hamzaabove-ar" xOffset="360" yOffset="186"/>
     <component base="twodotshorizontalbelow-ar" xOffset="180" yOffset="-17"/>
     <contour>
-      <point x="475" y="646" type="move" name="top_1"/>
+      <point x="496" y="857" type="move" name="top_1"/>
     </contour>
     <contour>
       <point x="537" y="62" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="194" y="708" type="move" name="top_2"/>
+      <point x="194" y="478" type="move" name="top_2"/>
     </contour>
     <contour>
       <point x="282" y="-153" type="move" name="bottom_2"/>
@@ -22,7 +22,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-03-03 20:19:22 +0000</string>
+      <string>2016-04-08 13:43:04 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>yehHamzaabove-ar.init</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -80,6 +80,14 @@
       </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
         <dict>
           <key>alignment</key>
           <integer>-1</integer>

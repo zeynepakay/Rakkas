@@ -708,13 +708,13 @@
 		<string>commaaccentcomb</string>
 		<string>cedillacomb</string>
 		<string>ogonekcomb</string>
-		<string>strokeshortcomb</string>
-		<string>strokelongcomb</string>
 		<string>slashshortcomb</string>
 		<string>slashlongcomb</string>
 		<string>gravecomb.case</string>
 		<string>acutecomb.case</string>
 		<string>ogonekcomb.case</string>
+		<string>strokeshortcomb</string>
+		<string>strokelongcomb</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
