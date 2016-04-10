@@ -197,7 +197,7 @@ code = "sub f f l by f_f_l;\012sub f f i by f_f_i;\012sub f i by fi;\012sub f l 
 name = liga;
 },
 {
-code = "#To replace the allograph form in instances of repeating beh forms\012lookup multiple_behs {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [@behInit @behMedi sad-ar.init sad-ar.medi dad-ar.init dad-ar.medi tah-ar.init tah-ar.medi zah-ar.init zah-ar.medi] @behMedi' by @behMediAll1;\012} multiple_behs; \012\012#To replace the initial allograph form of the beh shape group when followed by the jeem shape group\012lookup behInit_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' @jeemMedi by @behInitAll2;\012sub @behInitAll2 @jeemMedi' by @jeemMediAll1;\012sub @behInit' @jeemFina by @behInitAll2;\012sub @behInitAll2 @jeemFina' by @jeemFinaAll1;\012} behInit_jeem;\012\012#To replace the medial allograph form of the beh shape group when followed by the jeem shape group\012lookup behMedi_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behMedi' @jeemMedi by @behMediAll2;\012sub @behMediAll2 @jeemMedi' by @jeemMediAll1;\012sub @behMedi' @jeemFina by @behMediAll2;\012sub @behMediAll2 @jeemFina' by @jeemFinaAll1;\012} behMedi_jeem;\012\012#To replace the inital allograph form of the beh shape group when followed by meem\012lookup behInit_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' meem-ar.medi by @behInitAll2;\012sub @behInitAll2 meem-ar.medi' by meem-ar.medi.all2;\012sub @behInit' meem-ar.fina by @behInitAll2;\012sub @behInitAll2 meem-ar.fina' by meem-ar.fina.all2;\012} behInit_meem;\012\012#To replace the medial allograph form of the beh shape group when followed by meem\012lookup behMedi_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behMedi' meem-ar.medi by @behMediAll2;\012sub @behMediAll2 meem-ar.medi' by meem-ar.medi.all2;\012sub @behMedi' meem-ar.fina by @behMediAll2;\012sub @behMediAll2 meem-ar.fina' by meem-ar.fina.all2;\012} behMedi_meem;\012\012#To replace the inital allograph form of the beh shape group when followed by class @setBehInitAll1\012lookup behInitAll1{\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' @setBehInitAll1 by @behInitAll1;\012} behInitAll1;\012\012#To replace the inital allograph form of the jeem shape group when followed by class @jeemInitAll1\012lookup jeemInitAll1 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @jeemInit' @setJeemInitAll1 by @jeemInitAll1;\012sub @jeemInit' heh-ar.medi by @jeemInitAll1;\012sub @jeemInitAll1 heh-ar.medi' by heh-ar.medi.all1;\012} jeemInitAll1;\012\012#To replace the inital allograph form of the jeem shape group when followed by class @jeemInitAll2\012lookup jeemMediAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @jeemMedi @jeemMedi' by @jeemMediAll2;\012} jeemMediAll2;\012\012#To replace the inital allograph form of kaf when followed by vertical letters\012lookup kafInitAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub kaf-ar.init' [kaf-ar.medi kaf-ar.fina lam-ar.medi lam-ar.fina @alefFina] by kaf-ar.init.all2;\012} kafInitAll2;\012\012#To replace the medial allograph form of kaf when followed by vertical letters\012lookup kafMediAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012	\012sub kaf-ar.medi' [kaf-ar.medi kaf-ar.fina lam-ar.medi lam-ar.fina @alefFina] by kaf-ar.medi.all2;\012} kafMediAll2; \012\012#To replace the allograph form in instances of repeating seen forms\012lookup multiple_seens {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [seen-ar.init seen-ar.medi sheen-ar.init sheen-ar.medi] [seen-ar.medi sheen-ar.medi]' by [seen-ar.medi.all1 sheen-ar.medi.all1];\012} multiple_seens;\012\012#lookup yehFinaAll1 {\012	#lookupflag IgnoreMarks RightToLeft;\012	#script arab;\012#sub [feh-ar.init qaf-ar.init veh-ar.init] @yehFina' by @yehFinaAll1;\012#sub @jeemInit @yehFina' by @yehFinaAll1;\012#sub @jeemInit' @yehFinaAll1 by @jeemInitAll1;\012#} yehFinaAll1;\012\012#To replace the initial allograph form of sad shape group when followed by the jeem shape group\012lookup sadInit_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [sad-ar.init dad-ar.init]' @jeemMedi by [sad-ar.init.all1 dad-ar.init.all1];\012sub [sad-ar.init.all1 dad-ar.init.all1] @jeemMedi' by @jeemMediAll1;\012sub [sad-ar.init dad-ar.init]' @jeemFina by [sad-ar.init.all1 dad-ar.init.all1];\012sub [sad-ar.init.all1 dad-ar.init.all1] @jeemFina' by @jeemFinaAll1;\012} sadInit_jeem;\012\012#To replace the medial allograph form of sad shape group when followed by the jeem shape group\012lookup sadMedi_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [sad-ar.medi dad-ar.medi]' @jeemMedi by [sad-ar.medi.all1 dad-ar.medi.all1];\012sub [sad-ar.medi.all1 dad-ar.medi.all1] @jeemMedi' by @jeemMediAll1;\012sub [sad-ar.medi dad-ar.medi]' @jeemFina by [sad-ar.medi.all1 dad-ar.medi.all1];\012sub [sad-ar.medi.all1 dad-ar.medi.all1] @jeemFina' by @jeemFinaAll1;\012} sadMedi_jeem;\012\012#To replace the inital allograph form of sad shape group when followed by meem\012lookup sadInit_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [sad-ar.init dad-ar.init]' meem-ar.medi by [sad-ar.init.all1 dad-ar.init.all1];\012sub [sad-ar.init.all1 dad-ar.init.all1] meem-ar.medi' by meem-ar.medi.all2;\012sub [sad-ar.init dad-ar.init]' meem-ar.fina by [sad-ar.init.all1 dad-ar.init.all1];\012sub [sad-ar.init.all1 dad-ar.init.all1] meem-ar.fina' by meem-ar.fina.all2;\012} sadInit_meem;\012\012#To replace the medial allograph form of sad shape group when followed by meem\012lookup sadMedi_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [sad-ar.medi dad-ar.medi]' meem-ar.medi by [sad-ar.medi.all1 dad-ar.medi.all1];\012sub [sad-ar.medi.all1 dad-ar.medi.all1] meem-ar.medi' by meem-ar.medi.all2;\012sub [sad-ar.medi dad-ar.medi]' meem-ar.fina by [sad-ar.medi.all1 dad-ar.medi.all1];\012sub [sad-ar.medi.all1 dad-ar.medi.all1] meem-ar.fina' by meem-ar.fina.all2;\012} sadMedi_meem;\012\012";
+code = "#To replace the allograph form in instances of repeating beh forms\012lookup multiple_behs {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [@behInit @behMedi sad-ar.init sad-ar.medi dad-ar.init dad-ar.medi tah-ar.init tah-ar.medi zah-ar.init zah-ar.medi @ArDiacritics @ArDiacriticsAlt] @behMedi' by @behMediAll1;\012} multiple_behs; \012\012#To replace the initial allograph form of the beh shape group when followed by the jeem shape group\012lookup behInit_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' @jeemMedi by @behInitAll2;\012sub @behInitAll2 @jeemMedi' by @jeemMediAll1;\012sub @behInit' @jeemFina by @behInitAll2;\012sub @behInitAll2 @jeemFina' by @jeemFinaAll1;\012} behInit_jeem;\012\012#To replace the medial allograph form of the beh shape group when followed by the jeem shape group\012lookup behMedi_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behMedi' @jeemMedi by @behMediAll2;\012sub @behMediAll2 @jeemMedi' by @jeemMediAll1;\012sub @behMedi' @jeemFina by @behMediAll2;\012sub @behMediAll2 @jeemFina' by @jeemFinaAll1;\012} behMedi_jeem;\012\012#To replace the inital allograph form of the beh shape group when followed by meem\012lookup behInit_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' meem-ar.medi by @behInitAll2;\012sub @behInitAll2 meem-ar.medi' by meem-ar.medi.all2;\012sub @behInit' meem-ar.fina by @behInitAll2;\012sub @behInitAll2 meem-ar.fina' by meem-ar.fina.all2;\012} behInit_meem;\012\012#To replace the medial allograph form of the beh shape group when followed by meem\012lookup behMedi_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behMedi' meem-ar.medi by @behMediAll2;\012sub @behMediAll2 meem-ar.medi' by meem-ar.medi.all2;\012sub @behMedi' meem-ar.fina by @behMediAll2;\012sub @behMediAll2 meem-ar.fina' by meem-ar.fina.all2;\012} behMedi_meem;\012\012#To replace the inital allograph form of the beh shape group when followed by class @setBehInitAll1\012lookup behInitAll1{\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @behInit' @setBehInitAll1 by @behInitAll1;\012} behInitAll1;\012\012#To replace the inital allograph form of the jeem shape group when followed by class @jeemInitAll1\012lookup jeemInitAll1 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @jeemInit' @setJeemInitAll1 by @jeemInitAll1;\012sub @jeemInit' heh-ar.medi by @jeemInitAll1;\012sub @jeemInitAll1 heh-ar.medi' by heh-ar.medi.all1;\012} jeemInitAll1;\012\012#To replace the inital allograph form of the jeem shape group when followed by class @jeemInitAll2\012lookup jeemMediAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub @jeemMedi @jeemMedi' by @jeemMediAll2;\012} jeemMediAll2;\012\012#To replace the inital allograph form of kaf when followed by vertical letters\012lookup kafInitAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub kaf-ar.init' [kaf-ar.medi kaf-ar.fina lam-ar.medi lam-ar.fina @alefFina] by kaf-ar.init.all2;\012} kafInitAll2;\012\012#To replace the medial allograph form of kaf when followed by vertical letters\012lookup kafMediAll2 {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012	\012sub kaf-ar.medi' [kaf-ar.medi kaf-ar.fina lam-ar.medi lam-ar.fina @alefFina] by kaf-ar.medi.all2;\012} kafMediAll2; \012\012#To replace the allograph form in instances of repeating seen forms\012lookup multiple_seens {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [seen-ar.init seen-ar.medi sheen-ar.init sheen-ar.medi] [seen-ar.medi sheen-ar.medi]' by [seen-ar.medi.all1 sheen-ar.medi.all1];\012} multiple_seens;\012\012#lookup yehFinaAll1 {\012	#lookupflag IgnoreMarks RightToLeft;\012	#script arab;\012#sub [feh-ar.init qaf-ar.init veh-ar.init] @yehFina' by @yehFinaAll1;\012#sub @jeemInit @yehFina' by @yehFinaAll1;\012#sub @jeemInit' @yehFinaAll1 by @jeemInitAll1;\012#} yehFinaAll1;\012\012#To replace the initial allograph form of sad shape group when followed by the jeem shape group\012lookup sadInit_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [sad-ar.init dad-ar.init]' @jeemMedi by [sad-ar.init.all1 dad-ar.init.all1];\012sub [sad-ar.init.all1 dad-ar.init.all1] @jeemMedi' by @jeemMediAll1;\012sub [sad-ar.init dad-ar.init]' @jeemFina by [sad-ar.init.all1 dad-ar.init.all1];\012sub [sad-ar.init.all1 dad-ar.init.all1] @jeemFina' by @jeemFinaAll1;\012} sadInit_jeem;\012\012#To replace the medial allograph form of sad shape group when followed by the jeem shape group\012lookup sadMedi_jeem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [sad-ar.medi dad-ar.medi]' @jeemMedi by [sad-ar.medi.all1 dad-ar.medi.all1];\012sub [sad-ar.medi.all1 dad-ar.medi.all1] @jeemMedi' by @jeemMediAll1;\012sub [sad-ar.medi dad-ar.medi]' @jeemFina by [sad-ar.medi.all1 dad-ar.medi.all1];\012sub [sad-ar.medi.all1 dad-ar.medi.all1] @jeemFina' by @jeemFinaAll1;\012} sadMedi_jeem;\012\012#To replace the inital allograph form of sad shape group when followed by meem\012lookup sadInit_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [sad-ar.init dad-ar.init]' meem-ar.medi by [sad-ar.init.all1 dad-ar.init.all1];\012sub [sad-ar.init.all1 dad-ar.init.all1] meem-ar.medi' by meem-ar.medi.all2;\012sub [sad-ar.init dad-ar.init]' meem-ar.fina by [sad-ar.init.all1 dad-ar.init.all1];\012sub [sad-ar.init.all1 dad-ar.init.all1] meem-ar.fina' by meem-ar.fina.all2;\012} sadInit_meem;\012\012#To replace the medial allograph form of sad shape group when followed by meem\012lookup sadMedi_meem {\012	lookupflag IgnoreMarks RightToLeft;\012	script arab;\012sub [sad-ar.medi dad-ar.medi]' meem-ar.medi by [sad-ar.medi.all1 dad-ar.medi.all1];\012sub [sad-ar.medi.all1 dad-ar.medi.all1] meem-ar.medi' by meem-ar.medi.all2;\012sub [sad-ar.medi dad-ar.medi]' meem-ar.fina by [sad-ar.medi.all1 dad-ar.medi.all1];\012sub [sad-ar.medi.all1 dad-ar.medi.all1] meem-ar.fina' by meem-ar.fina.all2;\012} sadMedi_meem;\012\012";
 name = calt;
 },
 {
@@ -465,7 +465,7 @@ unicode = 0041;
 {
 color = -1;
 glyphname = Aacute;
-lastChange = "2016-03-07 15:24:31 +0000";
+lastChange = "2016-04-10 08:53:44 +0000";
 layers = (
 {
 components = (
@@ -17012,8 +17012,9 @@ rightKerningGroup = z;
 unicode = 017C;
 },
 {
+export = 0;
 glyphname = s.alt;
-lastChange = "2016-02-28 15:45:06 +0000";
+lastChange = "2016-04-10 09:08:44 +0000";
 layers = (
 {
 background = {
@@ -49776,7 +49777,7 @@ unicode = FC03;
 },
 {
 glyphname = "yehHamzaabove_yeh-ar";
-lastChange = "2016-03-03 20:19:22 +0000";
+lastChange = "2016-04-08 13:43:04 +0000";
 layers = (
 {
 anchors = (
@@ -49790,11 +49791,11 @@ position = "{282, -153}";
 },
 {
 name = top_1;
-position = "{475, 646}";
+position = "{496, 857}";
 },
 {
 name = top_2;
-position = "{194, 708}";
+position = "{194, 478}";
 }
 );
 background = {
@@ -49814,8 +49815,9 @@ components = (
 name = "dotlessbeh_yeh-ar";
 },
 {
+alignment = -1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 78, 40}";
+transform = "{1, 0, 0, 1, 360, 186}";
 },
 {
 alignment = -1;
@@ -62104,7 +62106,7 @@ unicode = 0040;
 },
 {
 glyphname = ampersand;
-lastChange = "2016-03-07 16:07:54 +0000";
+lastChange = "2016-04-04 12:29:08 +0000";
 layers = (
 {
 background = {
@@ -62545,7 +62547,7 @@ nodes = (
 "108 326 OFFCURVE",
 "29 245 OFFCURVE",
 "29 156 CURVE SMOOTH",
-"29 53 OFFCURVE",
+"29 50 OFFCURVE",
 "133 -15 OFFCURVE",
 "263 -15 CURVE SMOOTH",
 "357 -15 OFFCURVE",
@@ -62578,7 +62580,7 @@ nodes = (
 "86 586 OFFCURVE",
 "86 498 CURVE SMOOTH",
 "86 330 OFFCURVE",
-"403 56 OFFCURVE",
+"368 79 OFFCURVE",
 "623 -16 CURVE",
 "719 136 LINE",
 "492 200 OFFCURVE",
@@ -63377,7 +63379,7 @@ unicode = 212E;
 },
 {
 glyphname = literSign;
-lastChange = "2016-03-08 15:35:54 +0000";
+lastChange = "2016-04-04 12:30:00 +0000";
 layers = (
 {
 background = {
@@ -63426,38 +63428,38 @@ paths = (
 {
 closed = 1;
 nodes = (
-"281 582 OFFCURVE",
+"281 580 OFFCURVE",
 "257 642 OFFCURVE",
 "214 642 CURVE SMOOTH",
-"174 642 OFFCURVE",
-"146 584 OFFCURVE",
-"146 343 CURVE SMOOTH",
-"146 70 OFFCURVE",
-"168 27 OFFCURVE",
+"172 642 OFFCURVE",
+"146 585 OFFCURVE",
+"146 324 CURVE SMOOTH",
+"146 69 OFFCURVE",
+"171 27 OFFCURVE",
 "229 27 CURVE SMOOTH",
-"250 27 OFFCURVE",
-"277 32 OFFCURVE",
+"252 27 OFFCURVE",
+"279 34 OFFCURVE",
 "308 47 CURVE",
-"315 16 LINE",
-"290 -2 OFFCURVE",
-"252 -16 OFFCURVE",
-"216 -16 CURVE SMOOTH",
-"116 -16 OFFCURVE",
+"315 13 LINE",
+"290 -4 OFFCURVE",
+"251 -16 OFFCURVE",
+"217 -16 CURVE SMOOTH",
+"118 -16 OFFCURVE",
 "99 86 OFFCURVE",
-"99 321 CURVE SMOOTH",
+"99 302 CURVE SMOOTH",
 "99 624 OFFCURVE",
-"144 685 OFFCURVE",
-"213 685 CURVE SMOOTH",
+"141 685 OFFCURVE",
+"212 685 CURVE SMOOTH",
 "296 685 OFFCURVE",
 "328 599 OFFCURVE",
-"328 512 CURVE SMOOTH",
-"328 351 OFFCURVE",
+"328 514 CURVE SMOOTH",
+"328 350 OFFCURVE",
 "210 211 OFFCURVE",
 "15 211 CURVE",
 "15 246 LINE",
 "164 246 OFFCURVE",
-"281 344 OFFCURVE",
-"281 500 CURVE SMOOTH"
+"281 341 OFFCURVE",
+"281 505 CURVE SMOOTH"
 );
 }
 );
@@ -64352,62 +64354,6 @@ width = 600;
 unicode = 0328;
 },
 {
-glyphname = strokeshortcomb;
-lastChange = "2016-03-08 15:00:31 +0000";
-layers = (
-{
-anchors = (
-{
-name = _center;
-position = "{202, 279}";
-}
-);
-layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
-paths = (
-{
-closed = 1;
-nodes = (
-"391 256 LINE",
-"401 302 LINE",
-"15 294 LINE",
-"10 256 LINE"
-);
-}
-);
-width = 411;
-}
-);
-unicode = 0335;
-},
-{
-glyphname = strokelongcomb;
-lastChange = "2016-03-08 15:02:47 +0000";
-layers = (
-{
-anchors = (
-{
-name = _center;
-position = "{374, 279}";
-}
-);
-layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
-paths = (
-{
-closed = 1;
-nodes = (
-"718 256 LINE",
-"728 302 LINE",
-"15 294 LINE",
-"10 256 LINE"
-);
-}
-);
-width = 738;
-}
-);
-unicode = 0336;
-},
-{
 glyphname = slashshortcomb;
 lastChange = "2016-02-08 17:26:35 +0000";
 layers = (
@@ -64597,6 +64543,64 @@ layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
 width = 600;
 }
 );
+},
+{
+export = 0;
+glyphname = strokeshortcomb;
+lastChange = "2016-04-08 11:48:59 +0000";
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{202, 279}";
+}
+);
+layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
+paths = (
+{
+closed = 1;
+nodes = (
+"391 256 LINE",
+"401 302 LINE",
+"15 294 LINE",
+"10 256 LINE"
+);
+}
+);
+width = 411;
+}
+);
+unicode = 0335;
+},
+{
+export = 0;
+glyphname = strokelongcomb;
+lastChange = "2016-04-08 11:48:59 +0000";
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{374, 279}";
+}
+);
+layerId = "FABFC9D4-E17A-4CB6-8F8E-4923CD579275";
+paths = (
+{
+closed = 1;
+nodes = (
+"718 256 LINE",
+"728 302 LINE",
+"15 294 LINE",
+"10 256 LINE"
+);
+}
+);
+width = 738;
+}
+);
+unicode = 0336;
 },
 {
 glyphname = acute;
