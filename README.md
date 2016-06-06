@@ -18,7 +18,7 @@ The Latin follows suit:
 Not only are the diacritics quite a bit smaller, but also many of the punctuation marks and symbols make use of the thin monolinear stroke instead of the more common stem width. 
 
 The result is two scripts united under a stylistic umbrella but neither pretending to be the other, and each interesting in its own right. 
-Learn more at [theruqahproject.com](https://theruqahproject.com)
+Learn more at [theruqahproject.com](http://theruqahproject.com)
 
 The Rakkas project is led by Zeynep Akay, a type designer based in London, UK. 
 To contribute, see [github.com/zeynepakay/Rakkas](https://github.com/zeynepakay/Rakkas)
