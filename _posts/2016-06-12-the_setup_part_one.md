@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Setup: Angle from Heaven
+title: The Setup - Angle from Heaven
 permalink: the-set-up-part-one
 ---
 
