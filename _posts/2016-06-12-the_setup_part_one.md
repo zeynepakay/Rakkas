@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Setup - Angle from Heaven
-permalink: the-set-up-part-one
+permalink: angle-from-heaven
 ---
 
 <p class="intro">
