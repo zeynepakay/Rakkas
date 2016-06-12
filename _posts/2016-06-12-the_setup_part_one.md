@@ -10,6 +10,9 @@ Ruq'ah, like many Arabic calligraphic styles, and unlike any of Latin, cascades.
  
 I should also add, a daunting one. The cascade angle is a seminal factor in the development of a Ruq'ah-based project because it will not only affect how the resulting typeface compares to the fluidity of calligraphy, but it will also influence other major considerations in the mechanics of the typeface, namely, the connectivity.
 
+<!--more-->
+
+
 Luckily for me, I based my design on lettering; I got to see how flexible the artists were when creating wordshapes. Unlike in calligraphic manuals, how the letters were placed had perhaps less to do with how they sat on a baseline and more to do with how the word fit the composition of the poster. Based on the style variations and the content of the poster, some samples show a word descending a steep hill, while others show ones that are almost perfectly horizontal. 
 
 ![Angle](/public/Angle.jpg) 
