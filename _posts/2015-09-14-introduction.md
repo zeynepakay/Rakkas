@@ -28,9 +28,6 @@ On a more personal note, once the proposal was accepted it became clear that the
 
 Another personal challenge, and probably the most important one I will overcome — if the project is successful — is the *public* development aspect of the project. I battle with crippling perfectionism; I want to keep everything very close-to-chest until I’ve achieved the unattainable ideal in my head. But with this project I will undertake what is also essentially immersion therapy. I will open my process, my most unrefined drawings, my kookiest ideas, my most embarrassing failures to the snarkiest, most passive-aggressive comments on the internet. I imagine it will be a terrifying relief.
  
-###Onwards
+### Onwards
 
-Now that the Project and I are here, this is how I foresee this going down: The written content of The Ruq’ah Project will be categorized as either research articles or design and development updates, all of which will be open to comments and discussion. The language will hopefully be accessible not just to professional type-designers but also to beginners, students and enthusiasts. After the project births its practical output, it will hopefully remain a self-contained, relevant resource for style-specific Arabic type design and development. 
-
-
-
+Now that the Project and I are here, this is how I foresee this going down: The written content of The Ruq’ah Project will be categorized as either research articles or design and development updates, all of which will be open to comments and discussion. The language will hopefully be accessible not just to professional type-designers but also to beginners, students and enthusiasts. After the project births its practical output, it will hopefully remain a self-contained, relevant resource for style-specific Arabic type design and development.
