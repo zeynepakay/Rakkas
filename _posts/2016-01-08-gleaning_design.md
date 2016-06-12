@@ -11,7 +11,7 @@ My MATD project was nothing but an exercise in learning how to construct letters
 
 <!--more-->
 
-###Piece by piece
+##Piece by piece
 
 When I started to conceptualize TRP, it was the first time I had visualized the look and feel of a typeface, however abstract, before going into drawing it. What initially inspired me and overtime crystallized my vision was the presence of a lush variety of source materials, namely, movie posters from Egypt of a few decades ago. At first I spent a lot of time objectively scrolling through a slideshow of images. I only observed and started again from the beginning. Then I started to spot certain things I liked; graphic attributes that thematically blended in began to stand out in detail. 
 
@@ -37,7 +37,7 @@ At the same time, I started to think about what Latin letterforms could look lik
 An exploration of quirks and attributes on Latin.
 </p>
 
-###Square 1
+##Square 1
 After a lot of sketching during which I tried to harmonize stroke structures but let each script keep its own personality, I landed on a design that I think, for Arabic arabic and Latin both, is quirky enough for display, yet understated enough for text. And more importantly, it has different interpretations of the same flavor for each script.
 
 ![AandTah](/public/AandTah.jpg) 
