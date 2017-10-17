@@ -1,5 +1,5 @@
 {
-.appVersion = "1045";
+.appVersion = "1064";
 classes = (
 {
 code = "";
@@ -78251,17 +78251,17 @@ paths = (
 {
 closed = 1;
 nodes = (
+"347 0 LINE",
+"347 29 LINE",
+"240 32 LINE",
+"244 340 LINE",
+"206 460 LINE",
 "48 411 LINE",
 "58 381 LINE",
 "96 390 LINE",
 "99 32 LINE",
 "62 29 LINE",
-"62 0 LINE",
-"347 0 LINE",
-"347 29 LINE",
-"240 32 LINE",
-"244 340 LINE",
-"206 460 LINE"
+"62 0 LINE"
 );
 }
 );
